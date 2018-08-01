@@ -108,16 +108,16 @@ http://edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8
 #EXTINF:-1, tvg-logo="KO9XhLU.png" group-title="Canales Chilenos", Sporting | HD (x)
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="QL0Jmm8.png" group-title="Canales Chilenos", Canal Carnaval | HD
+#EXTINF:-1, tvg-logo="QL0Jmm8.png" group-title="Canales Chilenos", Canal Carnaval | HD (x)
 http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/carnavaltv.smil/chunklist.m3u8
 
-#EXTINF:-1, tvg-logo="V0M2tqk.png" group-title="Canales Chilenos", Canal de los Recuerdos | HD
+#EXTINF:-1, tvg-logo="V0M2tqk.png" group-title="Canales Chilenos", Canal de los Recuerdos | HD (x)
 http://wow2.cl.digitalproserver.com/recuerdos/recuerdosvivo/recuerdos.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="DAXmZWE.png" group-title="Canales Chilenos", FM Hot | HD
 http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="f41IHoB.png" group-title="Canales Chilenos", TVN Señal de Pruebas | HD
+#EXTINF:-1, tvg-logo="f41IHoB.png" group-title="Canales Chilenos", TVN Señal de Pruebas | HD (x)
 http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 
 #EXTINF:-1, tvg-logo="1QZNvHK.jpg" group-title="Canales de Animacion", -[COLOR red]Canales de Animacion[/COLOR]-
