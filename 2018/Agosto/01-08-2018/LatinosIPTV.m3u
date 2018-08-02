@@ -192,7 +192,7 @@ http://wow2.cl.digitalproserver.com/injuv/injuvvivo/injuv.smil/playlist.m3u8
 #EXTINF:-1, tvg-logo="3CEMlXi.jpg" group-title="Radios Chilenas con Video", Radio Pauta | HD
 http://video-ply.pauta.cl/playlist/stream.m3u8?s=pauta-hd
 
-#EXTINF:-1, tvg-logo="fKByJrs.png" group-title="Canales Chilenos Regionales", -[COLOR red]Canales Chilenos Regionales[/COLOR]-
+#EXTINF:-1, tvg-logo="fKByJrs.png" group-title="Canales Chilenos Regionales", -[COLOR red]Canales Chilenos REG[/COLOR]-
 https://www.youtube.com/watch?v=hjWVPgMB_Sc
 
 #EXTINF:-1, tvg-logo="PtLIrrx.png" group-title="Canales Chilenos Regionales", Holvoet TV | HD | Atacama
@@ -204,37 +204,37 @@ http://unlimited6-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8
 #EXTINF:-1, tvg-logo="ZvfWMAF.png" group-title="Canales Chilenos Regionales", Antofagasta TV | HD | Antofagasta
 http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w1163148329_b1428000.m3u8
 
-#EXTINF:-1, tvg-logo="zzuHRC6.jpg" group-title="Canales Chilenos Regionales", Chilevisual | SD | Antofagasta
+#EXTINF:-1, tvg-logo="zzuHRC6.jpg" group-title="Canales Chilenos Regionales", Chilevisual | SD | Antofagasta (x)
 http://v3.tustreaming.cl/chilevisual/live1/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="bos2XTg.png" group-title="Canales Chilenos Regionales", Thema TV | SD | La Serena
+#EXTINF:-1, tvg-logo="bos2XTg.png" group-title="Canales Chilenos Regionales", Thema TV | SD | La Serena (x)
 http://wow2.cl.digitalproserver.com/thema/themavivo/thema.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="jA7qtts.png" group-title="Canales Chilenos Regionales", Canal 2 de San Antonio | HD | San Antonio
 http://video.crearchile.info:8080/live/canal2.mp4/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="ezYteTW.png" group-title="Canales Chilenos Regionales", VTV | HD | Viña del Mar
+#EXTINF:-1, tvg-logo="ezYteTW.png" group-title="Canales Chilenos Regionales", VTV | HD | Viña del Mar (x)
 http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="7U0dm1j.png" group-title="Canales Chilenos Regionales", CSS 57 | SD | Melipilla
+#EXTINF:-1, tvg-logo="7U0dm1j.png" group-title="Canales Chilenos Regionales", CSS 57 | SD | Melipilla (x)
 http://xcanal_cssx.api.channel.livestream.com/3.0/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="7QbBMCe.png" group-title="Canales Chilenos Regionales", Canal22 (Santiago) | SD
+#EXTINF:-1, tvg-logo="7QbBMCe.png" group-title="Canales Chilenos Regionales", Canal22 (Santiago) | SD (x)
 http://canal22santiago.cl/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="eOKZuI8.png" group-title="Canales Chilenos Regionales", TVO | | HD | San Vicente
+#EXTINF:-1, tvg-logo="eOKZuI8.png" group-title="Canales Chilenos Regionales", TVO | | HD | San Vicente (x)
 http://wow2.cl.digitalproserver.com/tvo/tvovivo/tvo.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="Fh9eVvs.png" group-title="Canales Chilenos Regionales", Sexta Vision | SD | Rancagua
 http://cl.streaminghd.cl/carlos132/carlos132/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="tZ3gJiP.png" group-title="Canales Chilenos Regionales", Canal 9 | HD | Concepcion
+#EXTINF:-1, tvg-logo="tZ3gJiP.png" group-title="Canales Chilenos Regionales", Canal 9 | HD | Concepcion (x)
 http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8#1
 
-#EXTINF:-1, tvg-logo="XHChUjI.png" group-title="Canales Chilenos Regionales", TVU | HD | Concepcion
+#EXTINF:-1, tvg-logo="XHChUjI.png" group-title="Canales Chilenos Regionales", TVU | HD | Concepcion (x)
 http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8#1
 
-#EXTINF:-1, tvg-logo="LHn9ofg.png" group-title="Canales Chilenos Regionales", Contivision | HD | Constitucion
+#EXTINF:-1, tvg-logo="LHn9ofg.png" group-title="Canales Chilenos Regionales", Contivision | HD | Constitucion (x)
 http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/playlist.m3u8#1
 
 #EXTINF:-1, tvg-logo="qYFgNIl.jpg" group-title="Canales Chilenos Regionales", Ñuble TV | HD
@@ -249,16 +249,16 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
 #EXTINF:-1, tvg-logo="p7FPIgv.png" group-title="Canales Chilenos Regionales", Umag TV | SD | Punta Arenas
 http://cl.origin.grupoz.cl:1935/tser5/live/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="HiwwpVq.png" group-title="Canales Chilenos Regionales", Canal 2 U.A. Temuco | HD | Temuco
+#EXTINF:-1, tvg-logo="HiwwpVq.png" group-title="Canales Chilenos Regionales", Canal 2 U.A. Temuco | HD | Temuco (x)
 http://v3.tustreaming.cl/tvautonoma/live1/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="Q9kpzNn.png" group-title="Canales Chilenos Regionales", TV Maule | SD | Talca 
 https://590c5dc5c3271.streamlock.net/dante271/dante271/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="BH7qOqN.png" group-title="Canales Chilenos Regionales", TV Centro | SD | Talca
+#EXTINF:-1, tvg-logo="BH7qOqN.png" group-title="Canales Chilenos Regionales", TV Centro | SD | Talca (x)
 http://wow2.cl.digitalproserver.com/centrotv/centrotvvivo/centrotv.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="9OxskO1.png" group-title="Canales Chilenos Regionales", ITV | HD | Magallanes
+#EXTINF:-1, tvg-logo="9OxskO1.png" group-title="Canales Chilenos Regionales", ITV | HD | Magallanes (x)
 http://wow2.cl.digitalproserver.com/itv/itvvivo/itv.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="ezYteTW.png" group-title="Canales Chilenos Regionales", VTV | HD | Aconcagua
@@ -273,13 +273,13 @@ http://play.mediostream.cl/utvs/live1/index.m3u8
 #EXTINF:-1, tvg-logo="ilCiqga.png" group-title="Canales Chilenos Regionales", Canal 21 | Chillan
 http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="HE71T1u.png" group-title="Canales Chilenos Regionales", CNC | SD | Colchagua
+#EXTINF:-1, tvg-logo="HE71T1u.png" group-title="Canales Chilenos Regionales", CNC | SD | Colchagua (x)
 http://audio.streaminghd.cl/8014/8014/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="KEWy9Es.png" group-title="Canales Chilenos Regionales", MaximaTV | SD | San Bernardo
 http://evo.eltelon.com:1935/live/maxima-fm/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="LzOTwy6.png" group-title="Canales Chilenos Regionales", Ufrovision | HD | Temuco
+#EXTINF:-1, tvg-logo="LzOTwy6.png" group-title="Canales Chilenos Regionales", Ufrovision | HD | Temuco (x)
 http://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
 
 #EXTINF:-1, tvg-logo="clOlWBz.png" group-title="Canales Chilenos Regionales", Canal 11 | SD | Aysen
@@ -291,7 +291,7 @@ http://evo.eltelon.com:1935/live/archi-polar/playlist.m3u8
 #EXTINF:-1, tvg-logo="IDTH3wK.png" group-title="Canales Chilenos Regionales", TV 5 | SD | Linares
 http://v3.tustreaming.cl/tv5/live1/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="qhS2Ee8.png" group-title="Canales Chilenos Regionales", Inet TV | HD | Osorno
+#EXTINF:-1, tvg-logo="qhS2Ee8.png" group-title="Canales Chilenos Regionales", Inet TV | HD | Osorno (x)
 http://wow2.cl.digitalproserver.com/inet2/inet2vivo/inet2.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="8U5Ww24.png" group-title="Canales Chilenos Regionales", Gufo Rock Latino | HD
@@ -303,7 +303,7 @@ https://wowzaprod4-i.akamaihd.net/hls/live/253920/148a6ff0_1_270/chunklist.m3u8
 #EXTINF:-1, tvg-logo="8U5Ww24.png" group-title="Canales Chilenos Regionales", Gufo Indie | HD
 https://wowzaprod4-i.akamaihd.net/hls/live/253920/d3daa538_1_540/chunklist.m3u8
 
-#EXTINF:-1, tvg-logo="G5qKvWl.png" group-title="Canales Chilenos Regionales", Arab TV | HD
+#EXTINF:-1, tvg-logo="G5qKvWl.png" group-title="Canales Chilenos Regionales", Arab TV | HD (x)
 http://149.56.17.92:1935/8404/8404/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="heY1Ppv.png" group-title="Canales de Deportes", -[COLOR red]Canales de Deportes[/COLOR]-
@@ -542,7 +542,7 @@ http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
 http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="8N2lW9C.png" group-title="Canales Españoles", -[COLOR red]Canales Españoles[/COLOR]-
-http://i.imgur.com/VWctVbq.mp4
+https://www.youtube.com/watch?v=yJHsizbOmg0
 
 #EXTINF:-1, tvg-logo="kgnflq9.png" group-title="Canales Españoles", FDF | HD
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
@@ -550,19 +550,19 @@ https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 #EXTINF:-1, tvg-logo="WmMGr10.png" group-title="Canales Españoles", Divinity | HD
 http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 
-#EXTINF:-1, tvg-logo="tqIlk01.png" group-title="Canales Españoles", Antena 3 | HD
+#EXTINF:-1, tvg-logo="tqIlk01.png" group-title="Canales Españoles", Antena 3 | HD (x)
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 
-#EXTINF:-1, tvg-logo="2zQi7G3.png" group-title="Canales Españoles", ATRESeries | HD
+#EXTINF:-1, tvg-logo="2zQi7G3.png" group-title="Canales Españoles", ATRESeries | HD (x)
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 
-#EXTINF:-1, tvg-logo="LoVxGji.png" group-title="Canales Españoles", La Sexta | HD
+#EXTINF:-1, tvg-logo="LoVxGji.png" group-title="Canales Españoles", La Sexta | HD (x)
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 
-#EXTINF:-1, tvg-logo="Gjp11Z3.png" group-title="Canales Españoles", Mega España | HD 
+#EXTINF:-1, tvg-logo="Gjp11Z3.png" group-title="Canales Españoles", Mega España | HD  (x)
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 
-#EXTINF:-1, tvg-logo="f4B8ONt.png" group-title="Canales Españoles", Neox | HD
+#EXTINF:-1, tvg-logo="f4B8ONt.png" group-title="Canales Españoles", Neox | HD (x)
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 
 #EXTINF:-1, tvg-logo="Yn0uJRH.png" group-title="Canales Españoles", La Otra | SD
@@ -583,7 +583,7 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1, tvg-logo="FTLjroU.png" group-title="Canales Españoles", Sevilla FC | SD
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
 
-#EXTINF:-1, tvg-logo="fJR4kYE.png" group-title="Canales Españoles", Nova | HD
+#EXTINF:-1, tvg-logo="fJR4kYE.png" group-title="Canales Españoles", Nova | HD (x)
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
 
 #EXTINF:-1, tvg-logo="6tlqsqj.png" group-title="Canales Españoles", IB3 | SD
@@ -592,7 +592,7 @@ http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
 #EXTINF:-1, tvg-logo="uf0HNfj.png" group-title="Canales Españoles", Andorra TV | SD
 rtmp://194.158.80.31/live/web
 
-#EXTINF:-1, tvg-logo="Y50L0C0.png" group-title="Canales Españoles", 8TV | SD
+#EXTINF:-1, tvg-logo="Y50L0C0.png" group-title="Canales Españoles", 8TV | SD (x)
 http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
 
 #EXTINF:-1, tvg-logo="tio3Wpw.png" group-title="Canales Españoles", 324 | SD
@@ -610,10 +610,10 @@ http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 #EXTINF:-1, tvg-logo="3TGxQ3O.png" group-title="Canales Españoles", ETBSAT | SD
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 
-#EXTINF:-1, tvg-logo="OKXbIr9.png" group-title="Canales Españoles", Lebrija TV | SD
+#EXTINF:-1, tvg-logo="OKXbIr9.png" group-title="Canales Españoles", Lebrija TV | SD (x)
 http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 
-#EXTINF:-1, tvg-logo="PR0DHPE.png" group-title="Canales Españoles", Marca TV | SD
+#EXTINF:-1, tvg-logo="PR0DHPE.png" group-title="Canales Españoles", Marca TV | SD (x)
 http://universalhdlive.marca.com/i/dr21_1@100203/master.m3u8
 
 #EXTINF:-1, tvg-logo="R0XrZJ1.png" group-title="Canales Españoles", Navarra TV | SD
@@ -637,25 +637,25 @@ http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunk
 #EXTINF:-1, tvg-logo="sG60MI9.jpg" group-title="Canales Españoles",  324 Cataluña | SD
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="PUCO3Cf.jpg" group-title="Canales Españoles", Betevé | SD
+#EXTINF:-1, tvg-logo="PUCO3Cf.jpg" group-title="Canales Españoles", Betevé | SD (x)
 http://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?stream=btv_stream01
 
 #EXTINF:-1, tvg-logo="TXHdLeZ.png" group-title="Canales Españoles", Canal 4 Tenerife | SD
 https://5940924978228.streamlock.net/Directo2/Directo2/master.m3u8
 
-#EXTINF:-1, tvg-logo="omjtgw0.png" group-title="Canales Españoles", Canaria Sat Television | SD
+#EXTINF:-1, tvg-logo="omjtgw0.png" group-title="Canales Españoles", Canaria Sat Television | SD (x)
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
 
 #EXTINF:-1, tvg-logo="PrhB3SI.jpg" group-title="Canales Españoles", TeleSafor | HD
 http://video.telesafor.com/hls/video_high.m3u8
 
-#EXTINF:-1, tvg-logo="A8HIM2v.png" group-title="Canales Españoles", Onda Cadiz | SD
+#EXTINF:-1, tvg-logo="A8HIM2v.png" group-title="Canales Españoles", Onda Cadiz | SD (x)
 http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8
 
 #EXTINF:-1, tvg-logo="V4ig3Hn.png" group-title="Canales Españoles", 7TV | SD
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 
-#EXTINF:-1, tvg-logo="99mztxa.png" group-title="Canales Españoles", Canal Costa | HD
+#EXTINF:-1, tvg-logo="99mztxa.png" group-title="Canales Españoles", Canal Costa | HD (x)
 http://stream.canalcostatv.es:1935/live/IKbtqOuj/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="Dlus1ht.png" group-title="Canales Guatemaltecos", -[COLOR red]Canales Guatemaltecos[/COLOR]-
