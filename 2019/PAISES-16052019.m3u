@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="LISTAS INTERNACIONALES APP", GRUPO WHATSAPP LISTAS INTERNACIONALES
+#EXTINF:-1  tvg-logo="https://github.com/globalentv2/M3U/blob/master/2019/LISTAPP.jpg" group-title="LISTAS INTERNACIONALES APP", WHATSAPP LISTAS INTERNACIONALES
 https://chat.whatsapp.com/Ept3cydQSTm9jV9K1Aarjy
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) 123 TV
