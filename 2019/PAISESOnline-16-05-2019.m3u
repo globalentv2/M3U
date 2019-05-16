@@ -1,0 +1,1706 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="LISTAS INTERNACIONALES APP", GRUPO WHATSAPP LISTAS INTERNACIONALES
+https://chat.whatsapp.com/Ept3cydQSTm9jV9K1Aarjy
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/azteca-7.gif" group-title="MEXICO", (ONLINE) Azteca 7
+http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="MEXICO", (ONLINE) Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w2131787481_b1300000_slesp.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg" group-title="MEXICO", (ONLINE) Azteca Uno
+http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertvgratis.us/wp-content/uploads/2017/08/CANAL-A.jpg" group-title="MEXICO", (ONLINE) Azteca+ Plus
+http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.expansion.mx/dims4/default/de126e6/2147483647/thumbnail/800x450%5E/quality/75/?url=https%3A%2F%2Fcdn.expansion.mx%2Fmedia%2F2015%2F09%2F28%2Fel-logo-del-canal-que-sumar-esfuerzo-de-televisiones-educativas-de-iberoamrica.jpg" group-title="MEXICO", (ONLINE) Canal Iberoamericano
+http://200.57.164.179:1935/canaliberoamericano1/mp4:live.mp4/chunklist_w1287962499.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-cmw1yRJqfTA/AAAAAAAAAAI/AAAAAAAAAAA/MO0nxnZqRtU/s176-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="MEXICO", (ONLINE) CAPITAL 21 CDMX
+http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CsMXThRUkAARDbk.jpg" group-title="MEXICO", (ONLINE) Ciudad Tv 21.2
+http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://nrtmexico.mx/site/images/sampledata/icetheme/slideshow/c4_slide_a.jpg" group-title="MEXICO", (ONLINE) Canal 4 Monclova
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.rcgespectaculares.com.mx/images/rcg-logo-2014-288.png" group-title="MEXICO", (ONLINE) RCG TV1
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://is2.mzstatic.com/image/thumb/Purple71/v4/5d/2f/1c/5d2f1cb1-3a21-71ff-c10c-e27253ba13dc/source/1200x630bb.jpg" group-title="MEXICO", (ONLINE) 15TV Sabinas
+http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png" group-title="MEXICO", (ONLINE) http://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8?ref=http://www.multimedios.com
+http://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8?ref=http://www.multimedios.com
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png" group-title="MEXICO", (ONLINE) http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1014700120074416129/YCBrEdko_400x400.jpg" group-title="MEXICO", (DOUBTFUL) Canal Nu9ve (Torreon)
+https://www.youtube.com/watch?v=xdETrVUFG2U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png" group-title="MEXICO", (ONLINE) http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-logo="https://amespre.org/wp-content/uploads/2016/02/imagen-Televisa-Monterrey-logo.jpg" group-title="MEXICO", (DOUBTFUL) Televisa Monterrey
+https://www.youtube.com/watch?v=ah7WmqEjudU
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/Televisa_Regional_Logo.png" group-title="MEXICO", (DOUBTFUL) Televisa Matamoros
+https://www.youtube.com/watch?v=FKbi8tFF8dE
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/Televisa_Regional_Logo.png" group-title="MEXICO", (DOUBTFUL) Televisa Juarez
+https://www.youtube.com/watch?v=IyugOdwUku4
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1014700120074416129/YCBrEdko_400x400.jpg" group-title="MEXICO", (DOUBTFUL) Canal Nu9ve (Chihuahua)
+https://www.youtube.com/watch?v=y9a1LlVmOiw
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/Televisa_Regional_Logo.png" group-title="MEXICO", (DOUBTFUL) Televisa Sonora
+https://www.youtube.com/watch?v=ASYrOpwZ95c
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/943986668670894080/a3769um2_400x400.jpg" group-title="MEXICO", (ONLINE) Canal 15 Zacatecas
+http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/783079051615281152/TPSrO5ff_400x400.jpg" group-title="MEXICO", (DOUBTFUL) XEWT 12 Tijuana
+https://www.youtube.com/watch?v=LMcp5K3rZnM
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/XHBC_Mexicali.png" group-title="MEXICO", (DOUBTFUL) Canal 4 XHBC Mexicali
+https://www.youtube.com/watch?v=buIX7sWhNpU
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Logo-XHILA-TDT.png/200px-Logo-XHILA-TDT.png" group-title="MEXICO", (DOUBTFUL) Canal 66 Mexicali
+https://www.youtube.com/watch?v=U-A-IN7DQ4I
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal4televisa.png" group-title="MEXICO", (DOUBTFUL) Televisa 4 Guadalajara
+https://www.youtube.com/watch?v=0nshYNnkN0U
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/571122699986010112/VEV5tVR0_400x400.jpeg" group-title="MEXICO", (DOUBTFUL) Televisa Del Bajio Nacional
+https://www.youtube.com/watch?v=gSkgDmkJXEE
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1014700120074416129/YCBrEdko_400x400.jpg" group-title="MEXICO", (DOUBTFUL) Canal Nu9ve (Acapulco)
+https://www.youtube.com/watch?v=OXXlJpzG2eE
+
+#EXTINF:-1 tvg-logo="http://telemarcampeche.com/wp-content/uploads/2017/05/logo-TELEMAR-big-110.png" group-title="MEXICO", (ONLINE) Telemar Campeche
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_10806_7_36148.png" group-title="MEXICO", (ONLINE) Trecevision Yucatán
+http://streamingcws20.com:1935/trecevision/videotrecevision/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/2/2/4/2/224294/224294,640x360,b:2.jpg" group-title="MEXICO", (ONLINE) Sipse TV Cancun
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/8846221_300x300.jpg" group-title="MEXICO", (ONLINE) Canal 10 Chetumal
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://noticaribe.com.mx/wp/wp-content/uploads/2017/02/sqcsnuevo_-400x400.png" group-title="MEXICO", (ONLINE) SQCS Chetumal
+http://streamingcws20.com:1935/sqcs/videosqcs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/06/Canal10-Chiapas-Logo-300x300.jpg" group-title="MEXICO", (ONLINE) Canal 10 Chiapas
+http://klive-a.akamaihd.net/dc-0/live/hls/p/290412/e/0_es0kdjdz/sd/10000/t/bj1DqoE8O0tNhHgd6BvqXQ/index-s32.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYtgw2p2Rpkhly5JWQFyRpJdS_xDXstZ3jBiDIUCYUO_o3QI3y" group-title="MEXICO", (ONLINE) TV Tlaxcala
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-gewDA01TzUU/AAAAAAAAAAI/AAAAAAAAAAA/beMSFmP0Zvw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="MEXICO", (DOUBTFUL) TeleVer
+https://www.youtube.com/watch?v=zzXtLRPDN48
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1019608929729310721/_cG160gn.jpg" group-title="MEXICO", (DOUBTFUL) Televisa Puebla
+https://www.youtube.com/watch?v=MXRK2Xybg5M
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="MEXICO", (ONLINE) Ultra TV Puebla
+https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="MEXICO", (ONLINE) Ultra TV Aguascalientes
+https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Am%C3%A9rica_Tev%C3%A9_Logo.png" group-title="Latinos", (DOUBTFUL) AmericaTeve MIAMI
+http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/nvrur/ef232e1ab5.png" group-title="Latinos", (ONLINE) TVN Nicaragua
+http://162.244.81.181:1935/live/dshuuyap098e3jdc/no345cnbfhy4y568/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-oWwq4sz7xi8/AAAAAAAAAAI/AAAAAAAAAAA/EVeSO1aMco8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Latinos", (ONLINE) Canal Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvazteca.png" group-title="Latinos", (ONLINE) AZ GUATEMALA
+http://aztecalive-lh.akamaihd.net/i/0j674ifgl_1@500584/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Guatevisionlogo.JPG" group-title="Latinos", (DOUBTFUL) Guatevision
+http://api.new.livestream.com/accounts/25697071/events/7829275/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/televicentro-canal-2-nicaragua-logo-82E5DB9EC0-seeklogo.com.png" group-title="Latinos", (ONLINE) Canal 2 Nicaragua
+http://138.117.4.70:8079/streams/d/Canal-2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://nuevaya.com.ni/wp-content/uploads/2015/03/canal-4.jpg" group-title="Latinos", (ONLINE) Canal 4 Nicaragua
+http://138.117.4.70:8079/streams/d/Canal-4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Pagina_de_canal.jpg" group-title="Latinos", (ONLINE) Canal 6 Nicaragua
+http://138.117.4.70:8079/streams/d/Canal-6/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tn8.tv/media/cache/ef/86/ef865dae4f5bda2d27a01dd320b8a045.jpg" group-title="Latinos", (ONLINE) Canal 8 Nicaragua
+http://138.117.4.70:8079/streams/d/Canal-8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1012028349915582471/VpWbkCcn_400x400.jpg" group-title="Latinos", (ONLINE) Canal 9 Nicaragua
+http://138.117.4.70:8079/streams/d/Canal-9/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nicavision-canal-12-logo-B92DA2E4B4-seeklogo.com.png" group-title="Latinos", (ONLINE) Canal 12 Nicaragua
+http://138.117.4.70:8079/streams/d/Canal-12/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Logo_Viva_Nicaragua_Canal_13.png" group-title="Latinos", (ONLINE) Canal 13 Nicaragua
+http://138.117.4.70:8079/streams/d/Canal-13/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tencanal10.tv/wp-content/uploads/2017/08/ThumbnailTEN1.jpg" group-title="Latinos", (ONLINE) TEN Honduras
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Canal_5_%28Honduras%29.png" group-title="Latinos", (ONLINE) 5 El Lider
+https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TSi_Honduras.png" group-title="Latinos", (ONLINE) TSi
+https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png" group-title="Latinos", (ONLINE) Multimedios Costa Rica
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+
+#EXTINF:-1 tvg-logo="https://www.transdatelecom.com/images/logos/super5_pqno.png" group-title="Latinos", (ONLINE) Super 5 (Costa Rica)
+http://k4.usastreams.com/superC/superC_1/chunklist_w27246718.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-k5QO6YHdanw/AAAAAAAAAAI/AAAAAAAAAAA/UTcqO9gj0z0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Latinos", (ONLINE) CANAL 52 Ticavision (Costa Rica)
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.unored.tv/wp-content/uploads/2015/08/Extrema-TV-logo.jpg" group-title="Latinos", (ONLINE) Extrema TV(Costa Rica)
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YqW3o4z.png" group-title="Latinos", (ONLINE) TV Sur 14 (Costa Rica)
+http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/36SGwRc_3fk/0.jpg" group-title="Latinos", (ONLINE) TeleRed
+http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3663601877/9f46b5977e2c9d2e370e46d686a95ef7_400x400.jpeg" group-title="Latinos", (ONLINE) BHTV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-SjHk5gt2MQc/TWDwSqtDENI/AAAAAAAACjA/DYoOlAEqzRk/s1600/tvmarti.jpg" group-title="Latinos", (ONLINE) TV MARTÍ (Cuba)
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/47/8d/55/478d558e-fcb9-743d-9552-df9e47dad1ee/source/512x512bb.jpg" group-title="Latinos", (ONLINE) Acento Tv
+http://acentotv01.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2014/02/lunatv-1.jpg" group-title="Latinos", (ONLINE) Luna Tv
+http://ss1.domint.net:2140/luna_str/lunatv/media_w719846308.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/938438643521392647/7m9Lmsjs_400x400.jpg" group-title="Latinos", (ONLINE) Teleuniverso
+http://ss1.domint.net:2302/tu_str/universo/chunklist_w197342393.m3u8
+
+#EXTINF:-1 tvg-logo="http://blixtv.com/wp-content/uploads/2015/03/ecuavisa.jpg" group-title="Latinos", (ONLINE) Ecuavisa
+http://elcanaldelfutbol.com/static/wowza/test/hls/20001/480p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="Latinos", (DOUBTFUL) Teleamazonas
+http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmia.org/wp-content/uploads/2016/10/Telemedelln-511x330.png" group-title="Latinos", (ONLINE) Telemedellin
+http://level3itvo.cdnar.net/itvmedia/14/1/channel_000.m3u8
+
+#EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/claro.jpg" group-title="Latinos", (ONLINE) Canal Claro
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-zZ1mqD-N3D0/AAAAAAAAAAI/AAAAAAAAAAA/aQXLTyHZhTE/s288-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Latinos", (ONLINE) Canal 3 (Argentina)
+http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://cableaudiovision.com.ar/grilla-web/canales/mvnueve.png" group-title="Latinos", (ONLINE) Canal 9 Multivision
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/553578456013746176/ZiuKif1w.png" group-title="Latinos", (ONLINE) El 13
+http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jsnI65B.png" group-title="Latinos", (ONLINE) Telpin Teven
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dazplayer.com/img_chh/canal_m.png" group-title="Latinos", (ONLINE) Canal M
+http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/2414323/logo_mega%20tv.png" group-title="Latinos", (ONLINE) MEGA TV PERU
+http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-5W_zQMODLJA/AAAAAAAAAAI/AAAAAAAAAAA/G211VW3mrcU/s176-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="NOTICIAS", (ONLINE) Canal del Congreso
+http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/chunklist_b500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-5W_zQMODLJA/AAAAAAAAAAI/AAAAAAAAAAA/G211VW3mrcU/s176-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="NOTICIAS", (ONLINE) Canal del Congreso
+https://liveingesta118.cdnmedia.tv/cngmexicolive/diputados1.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Y0oiMPs.jpg" group-title="NOTICIAS", (ONLINE) Canal Judicial
+http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Y0oiMPs.jpg" group-title="NOTICIAS", (ONLINE) Canal Judicial
+https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-D1Z6emsTKE0/AAAAAAAAAAI/AAAAAAAAAAA/46wxJGxiRkc/s176-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="NOTICIAS", (ONLINE) DW Amerika
+http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/foro-tv.gif" group-title="NOTICIAS", (ONLINE) Foro TV
+https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm_1280x720_2500k.m3u8
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/foro-tv.gif" group-title="NOTICIAS", (ONLINE) Foro TV
+http://189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/Stream(06)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BFMMPwP.png" group-title="NOTICIAS", (ONLINE) France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/mwdSw/26eea6807c.png" group-title="NOTICIAS", (DOUBTFUL) Milenio TV
+https://www.youtube.com/watch?v=ZIjBESJc0gw
+
+#EXTINF:-1 tvg-logo="http://puu.sh/mwdSw/26eea6807c.png" group-title="NOTICIAS", (ONLINE) Milenio TV
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-1RjtzpOiHT4/AAAAAAAAAAI/AAAAAAAAAAA/WU2EQtQvQvs/s88-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="NOTICIAS", (DOUBTFUL) RT Español
+https://www.youtube.com/watch?v=JqY92qg_yPs
+
+#EXTINF:-1 tvg-logo="http://www.mediavyasa.com.mx/archivos/representantes/logo/logoteleformula.jpg" group-title="NOTICIAS", (ONLINE) TELEFORMULA
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-47mZmMqii64/AAAAAAAAAAI/AAAAAAAAAAA/tXJ1c3yULV4/s176-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="NOTICIAS", (DOUBTFUL) MVS NOTICIAS
+https://www.youtube.com/watch?v=VI-GlaZB8AQ
+
+#EXTINF:-1 tvg-logo="http://puu.sh/q65OY/a6073be6ba.png" group-title="NOTICIAS", (DOUBTFUL) América TV
+https://www.youtube.com/watch?v=AW0iz34Zu00
+
+#EXTINF:-1 tvg-logo="http://www.abctelefonos.com/images/comercios/289120_60288_original.jpg" group-title="NOTICIAS", (ONLINE) Canal 26
+http://200.115.193.177/live/26hd-720/.m3u8
+
+#EXTINF:-1 tvg-logo="http://static.azteca.com/imagenes/2018/47/hechosnocheenvivo-2272004.jpg" group-title="NOTICIAS", (ONLINE) Hechos Tv
+http://37.187.7.106/hechostv/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-m65EylYdJqA/U2FfOeOWYYI/AAAAAAABgEA/Ps0YyQdpd-I/s1600/NTN24.jpg" group-title="NOTICIAS", (DOUBTFUL) NTN24
+https://www.youtube.com/watch?v=LdnWWn123dw
+
+#EXTINF:-1 tvg-logo="http://canalfavorito.com/videos/wp-content/uploads/2017/05/tn.png" group-title="NOTICIAS", (DOUBTFUL) TN
+https://www.youtube.com/watch?v=-1xif50QMr4
+
+#EXTINF:-1 tvg-logo="http://www.tvcubana.icrt.cu/images/stories/telesur.png" group-title="NOTICIAS", (ONLINE) TeleSUR
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvcubana.icrt.cu/images/stories/telesur.png" group-title="NOTICIAS", (ONLINE) TeleSUR
+http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.weathernationtv.com/app/uploads/WN-logo-Full.png" group-title="NOTICIAS", (DOUBTFUL) Weather Nation Tv
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/71/dd/2c/71dd2cc171a0e869d715628eeae965a3.jpg" group-title="NOTICIAS", (ONLINE) Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://s24.postimg.org/w4ih3sa1h/image.png" group-title="NOTICIAS", (ONLINE) ABC NEWS
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/abc.png" group-title="NOTICIAS", (ONLINE) ABC
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/413.jpg" group-title="NOTICIAS", (ONLINE) Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/mVTac/49057b2eb0.png" group-title="NOTICIAS", (ONLINE) Bloomberg USA
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/mVTac/49057b2eb0.png" group-title="NOTICIAS", (ONLINE) Bloomberg Europe
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+
+#EXTINF:-1 tvg-logo="https://cbsnews3.cbsistatic.com/hub/i/2017/12/12/77e5d36d-5915-46ce-b496-218c87d98c5d/8287754aae1089f702b0e9e59bad53d6/cbsnews-1600x900.jpg" group-title="NOTICIAS", (ONLINE) CBS NEWS
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/cbs.png" group-title="NOTICIAS", (ONLINE) CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cnn-international-logo-FE0A0045ED-seeklogo.com.png" group-title="NOTICIAS", (DOUBTFUL) CNN International
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="NOTICIAS", (ONLINE) DW NEWS
+http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BFMMPwP.png" group-title="NOTICIAS", (ONLINE) France 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.famouslogos.us/images/nbc-logo.jpg" group-title="NOTICIAS", (ONLINE) NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.netkabel.net.mk/images/sampledata/logo/crainews24.png" group-title="NOTICIAS", (ONLINE) RAINEWS24
+http://b2.stream8.rai.it/live/smil%3Arnews1_android.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/skyNEWS.jpg" group-title="NOTICIAS", (ONLINE) Sky NEWS
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.voanoticias.com/Content/responsive/VOA/img/webApp/ico-192x192.png" group-title="NOTICIAS", (ONLINE) VoA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAe6AAAAJGM0OGM4NTJiLWZkNTItNGMyMi05NmEwLWNmYjg3MWY1NmVjNw.png" group-title="NOTICIAS", (DOUBTFUL) CNN Turk
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.televisiongratis.tv/components/com_televisiongratis/images/bbc-arabic-live----------789.jpg" group-title="NOTICIAS", (ONLINE) BBC Arabic Televison
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/604916087180754945/1aMHMBIj.png" group-title="NOTICIAS", (ONLINE) TRT WORLD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Rp6PKpt.jpg" group-title="NOTICIAS", (ONLINE) WGN Chicago
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.earthcam.com/cams/includes/images/offline_images/tsHD1.jpg" group-title="NOTICIAS", (ONLINE) NYC Times Square (47th & Broadway)
+http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://culturewhiz.org/sites/default/files/images/places/home4-4032.jpg" group-title="NOTICIAS", (ONLINE) NYC Times Square
+http://video3.earthcam.com:1935/fecnetwork/9974.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/rR8G6/b46c4a6c18.png" group-title="España", (ONLINE) La 2
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png" group-title="España", (ONLINE) Antena 3 Internacional
+https://livestartover.atresmedia.com/antena3/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="http://vercanalestv.com/logos/cuatro.png" group-title="España", (ONLINE) La Cuatro
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/iptvsmartv.files.wordpress.com/2017/04/telecinco_circular_500.png?ssl=1&w=450" group-title="España", (ONLINE) Telecinco
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20130403192100/logopedia/images/2/20/Lasexta_hd.png" group-title="España", (ONLINE) La Sexta
+https://livestartover.atresmedia.com/lasexta/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-C25_22MePpY/UE6O8Kl2JkI/AAAAAAAAEhU/PLSONECCKH8/s1600/13tvlogoviejo.jpg" group-title="España", (ONLINE) 13 TV
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/rR8JA/fbaae3e6bb.png" group-title="España", (ONLINE) TVE 24h
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@583029/index_1500_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-twjWLzywppo/VnBHIEtqgRI/AAAAAAAABOY/ZiwcFOt-rcg/s1600/rtvce.jpeg" group-title="España", (ONLINE) Rtv ce
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/rR8Mx/d098afd8f4.png" group-title="España", (ONLINE) Neox
+https://livestartover.atresmedia.com/neox/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/rR8Mx/d098afd8f4.png" group-title="España", (ONLINE) Neox
+https://livestartover.atresmedia.com/neox/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/f25b812e6e6095afe68d44feb7d119ad" group-title="España", (ONLINE) NOVA
+http://91.126.138.140:1935/live/nova-Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/f25b812e6e6095afe68d44feb7d119ad" group-title="España", (ONLINE) NOVA
+https://livestartover.atresmedia.com/nova/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="http://radioqrzlatina.com/attachments/Image/LOGO-LIFE-TV-.png?template=generic" group-title="España", (ONLINE) LIFE TV
+http://178.132.6.97/uzivo/lifetvesp976/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.omicrono.com/wp-content/uploads/2015/11/atresseries-a3.jpg" group-title="España", (ONLINE) A3SERIES
+https://livestartover.atresmedia.com/a3series/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/125px-Be_Mad_TV.svg.png" group-title="España", (ONLINE) Be Mad
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.videocadenasur.net/images/laotra.gif" group-title="España", (ONLINE) la Otra
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertelevisor.com/logos/cosmo.png" group-title="España", (ONLINE) COSMO TV
+http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="España", (ONLINE) Divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="España", (ONLINE) Divinity
+http://91.126.141.12:1935/live/smil:divinity.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-3QImK9KP2KE/TwOQkE7KC-I/AAAAAAAAERI/L4FEY3Jfa4k/s1600/5energy3.jpg" group-title="España", (ONLINE) Energy
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-3QImK9KP2KE/TwOQkE7KC-I/AAAAAAAAERI/L4FEY3Jfa4k/s1600/5energy3.jpg" group-title="España", (ONLINE) Energy
+http://91.126.138.141:1935/live/energy-Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/744781470946852864/nz8sp439.jpg" group-title="España", (ONLINE) FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/744781470946852864/nz8sp439.jpg" group-title="España", (ONLINE) FDF
+http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/ten.png?ssl=1&w=450" group-title="España", (ONLINE) Ten
+http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.CINEytele.com/wp-content/uploads/2016/06/paramount-channel.png" group-title="España", (ONLINE) Paramount Channel
+http://paramount.live.flumotion.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" group-title="España", (ONLINE) XTRM
+http://darktv.myvnc.com:9666/live/darktv/gratis/470.ts
+
+#EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/dmax.png" group-title="España", (ONLINE) DMAX España
+http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/dmax.png" group-title="España", (ONLINE) DMAX España
+https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRONX6V4oteOIE8_uC0MqaShyw5-6ZP92XLlT5khwIvRQMDB1zpKxrQ9Mc" group-title="España", (ONLINE) Lancelot TV
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/02_logo/canal_vasco_spain.jpg" group-title="España", (ONLINE) TV Canal Vasco
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://telebasura.com/wp-content/2013/01/logo-telemadrid.jpg" group-title="España", (ONLINE) Telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo.png" group-title="España", (ONLINE) EXTREMADURA TV
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
+
+#EXTINF:-1 tvg-logo="http://tecavicas.es/wp-content/uploads/2013/03/levante_tv_1.jpg" group-title="España", (ONLINE) LEVANTE TV
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/dc/Canal3-24_logo2014.png/revision/latest?cb=20140121145440" group-title="España", (ONLINE) 324
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.periodistadigital.com/imagenes/2010/09/30/tv3_270x250.jpg" group-title="España", (ONLINE) T V3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.canal11lapalma.net/DOCUMENTOS/LOGO/logocanal4ok.jpg" group-title="España", (ONLINE) CANAL 4 Tenerife
+https://5940924978228.streamlock.net/Directo2/Directo2/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Galicia-TV/Galicia-TV_.jpg" group-title="España", (ONLINE) TV GALICIA
+http://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/cartoon-network.gif" group-title="Infantiles", (ONLINE) Cartoon Network
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cachipum.tv/img/logo.png" group-title="Infantiles", (ONLINE) Cachipum Tv
+http://edge1.cl.grupoz.cl/cachipuntv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bgtop100.net/wp-content/uploads/2016/03/Boing-tv.jpg" group-title="Infantiles", (ONLINE) Boing
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Peques Tv
+http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.animaxtv.com/images/logo_animax.png" group-title="Infantiles", (ONLINE) Animation
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://blog.ofertia.com/blog/wp-content/uploads/2012/11/peppapig.jpg" group-title="Infantiles", (DOUBTFUL) Peppa Pig Temp3
+https://www.youtube.com/watch?v=Zyj9bgz_LDU&t=24s
+
+#EXTINF:-1 tvg-logo="http://blog.ofertia.com/blog/wp-content/uploads/2012/11/peppapig.jpg" group-title="Infantiles", (DOUBTFUL) Peppa Pig Temp2
+https://www.youtube.com/watch?v=KwPKT3bpxEk
+
+#EXTINF:-1 tvg-logo="http://blog.ofertia.com/blog/wp-content/uploads/2012/11/peppapig.jpg" group-title="Infantiles", (DOUBTFUL) Peppa Pig Navidad
+https://www.youtube.com/watch?v=kLdfITlXE-8
+
+#EXTINF:-1 tvg-logo="http://png-3.vector.me/files/images/7/6/764027/chavo_del_8_thumb.png" group-title="Infantiles", (DOUBTFUL) El Chavo Animado
+http://3.sendvid.com/y00xutjl.mp4/
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/07/6c/ed/076cedb23fa6db5dd8e670c9f9fd52ff--cartoon-online-mr-bean.jpg" group-title="Infantiles", (DOUBTFUL) MrBean Cartoon Live
+https://www.youtube.com/watch?v=dPkWQnCqcRg
+
+#EXTINF:-1 tvg-logo="https://puu.sh/xa5W8/e0f4f580f8.png" group-title="Infantiles", (ONLINE) Dragon Ball Super 24/7
+http://alhls.cdn.zhanqi.tv/zqlive/197952_NHycj.m3u8
+
+#EXTINF:-1 tvg-logo="https://iglesiaproyectovidaintegral.files.wordpress.com/2016/05/loltv.jpg?w=274&h=274" group-title="CULTURA", (ONLINE) Green TV
+http://80.80.160.168/live/4/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hWTUGF/NASA_logo.png" group-title="CULTURA", (DOUBTFUL) NASA TV (Earth From Space LIVE)
+https://www.youtube.com/watch?v=UQt2iLKqBbI
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hWTUGF/NASA_logo.png" group-title="CULTURA", (DOUBTFUL) NASA TV
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reJpA/bdc45a314f.png" group-title="CULTURA", (ONLINE) Animal Planet
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://narcoplay.com/wp-content/uploads/2018/05/NEXXO-TV.jpg" group-title="CULTURA", (ONLINE) Nexxo Tv
+http://ss6.domint.net:2106/nxo_str/nexxotv/chunklist_w286018438.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvcosmos.pe/wp-content/uploads/2017/01/logo-tv-cosmos-vive-contigo-final.png" group-title="CULTURA", (ONLINE) TV Cosmos
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s20916.pcdn.co/wp-content/uploads/2017/02/Cooking_Channel_live_stream.png" group-title="CULTURA", (ONLINE) Cooking Channel
+http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-MJZ3A3u6E78/U-JWxeGtvrI/AAAAAAAACzg/mFikMtH2yW0/s1600/life_design_tv.png" group-title="CULTURA", (ONLINE) Lifedesign
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.diesl.com/wp-content/uploads/2011/12/world-fashion-channel.jpg" group-title="CULTURA", (ONLINE) World Fashion
+http://95.67.47.114/hls/hdfashion_ua_low/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://a1.mzstatic.com/us/r30/Purple6/v4/67/f6/4f/67f64f30-a881-ab3d-79b0-3169a8cca3ae/icon128-2x.png" group-title="CULTURA", (DOUBTFUL) TWiT
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/logocazaypesca.jpg?ssl=1&w=450" group-title="CULTURA", (DOUBTFUL) Caza y Pezca
+https://tinyurl.com/yasrm5ra/56.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="CULTURA", (DOUBTFUL) World Fishing Network
+http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Tc_g.jpg" group-title="CULTURA", (ONLINE) Travel HD
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.londonlive.co.uk/assets/images/logo-white.png" group-title="CULTURA", (ONLINE) London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) 24 TV CULTURALES
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w450881441_b964000_sles.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) PLANET GREEN
+http://80.80.160.168/live/4/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) RUSIA EXTREAM
+http://media2.strekalovskiy.com/rusextrimretro/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-3kxk4kMtwVk/AAAAAAAAAAI/AAAAAAAAAAA/j4VUxFHzxIo/s88-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CULTURA", (DOUBTFUL) Travel Madrid in a Minute Aerial Drone Video
+https://www.youtube.com/watch?v=YPMOce2VdKQ
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-XyLEcpId3iQ/AAAAAAAAAAI/AAAAAAAAAAA/t4plFnJh1Jw/s88-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CULTURA", (DOUBTFUL) EUROPE 4K Drone Video London corea Barcelona Monte Carlo Venezia |
+https://www.youtube.com/watch?v=AdOLn67hLgY
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-yOrPm2fyqx8/AAAAAAAAAAI/AAAAAAAAAAA/T8xXsdCD-rs/s88-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CULTURA", (DOUBTFUL) Vienna in 4K
+https://www.youtube.com/watch?v=cwenLWoeItQ
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-0N06z7MysQA/AAAAAAAAAAI/AAAAAAAAAAA/xZNPHPPAi4c/s88-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CULTURA", (DOUBTFUL) Havana Cuba
+https://www.youtube.com/watch?v=5uv5FVJb-iA
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-ml69_lpk6Qg/AAAAAAAAAAI/AAAAAAAAAAA/-4-PDUhMMMg/s88-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CULTURA", (DOUBTFUL) Florence in 4K
+https://www.youtube.com/watch?v=DfW-Tn231Sk
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-ml69_lpk6Qg/AAAAAAAAAAI/AAAAAAAAAAA/-4-PDUhMMMg/s88-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CULTURA", (DOUBTFUL) London in 4K
+https://www.youtube.com/watch?v=X8zLJlU_-60
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-ml69_lpk6Qg/AAAAAAAAAAI/AAAAAAAAAAA/-4-PDUhMMMg/s88-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CULTURA", (DOUBTFUL) Berlin in 4K
+https://www.youtube.com/watch?v=ZHHbpy91O2E
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-ml69_lpk6Qg/AAAAAAAAAAI/AAAAAAAAAAA/-4-PDUhMMMg/s88-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CULTURA", (DOUBTFUL) Munich in 4K
+https://www.youtube.com/watch?v=r2dXQrLwM1Q
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/15.png" group-title="CINE", (DOUBTFUL) Universal Channel
+http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="CINE", (ONLINE) Fox Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-movies-hd.png" group-title="CINE", (ONLINE) Fox Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2014/10/FOX-Comedy-Logo-01.png" group-title="CINE", (DOUBTFUL) Fox Comedy
+http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-2.gif" group-title="CINE", (DOUBTFUL) HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-Atdq5-hrhmg/TvtVTY_6bRI/AAAAAAAAAxM/0NEOw_seIho/s1600/maxprime.jpg" group-title="CINE", (DOUBTFUL) Max Prime
+http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://insider.directv.com/wp-content/uploads/2016/07/lg__news_digitalentguide.jpeg" group-title="CINE", (ONLINE) DirecTv Cinema
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+
+#EXTINF:-1 tvg-logo="http://insider.directv.com/wp-content/uploads/2016/07/lg__news_digitalentguide.jpeg" group-title="CINE", (ONLINE) DirecTv Cinema
+https://cvd2.cds.ebtcvd.net/hls/STCBsLNEL2_240/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/434292249719885824/RYy0Zc69.png" group-title="CINE", (ONLINE) MC
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cablefamilia.com/images/canales/peliculas/cinema_plus.png" group-title="CINE", (ONLINE) CINEMA +
+http://184.173.181.2:1935/8062/8062/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://hostlagarto.com/streaming/wp-content/uploads/2018/02/logo-de-pu%C3%B1al-tv.png" group-title="CINE", (ONLINE) Puñal Tv
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://hostlagarto.com/streaming/wp-content/uploads/2018/09/logo-tvs.png" group-title="Without category", (ONLINE) TVS DE TODOS
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.over-blog.com/600x309/0/20/49/74/logos-hd/CinePlus/cine-eotion.jpg" group-title="CINE", (ONLINE) CINE +
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://i68.tinypic.com/3129x1z_th.jpg" group-title="CINE", (ONLINE) Zee mundo
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Movies1 24/7
+https://www.youtube.com/watch?v=6cfpCJqW_1Q
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Movies2 24/7
+https://www.youtube.com/watch?v=YXnJYcSuPhQ
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Movies3 24/7
+https://www.youtube.com/watch?v=f61eHNkLfN8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Movies4 24/7
+https://www.youtube.com/watch?v=XGDI0cUDB6g
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Movies5 24/7
+https://www.youtube.com/watch?v=m5TEZ4zxg1g
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Movies6 24/7
+https://www.youtube.com/watch?v=Fz0GPHrch5o
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Movies7 24/7
+https://www.youtube.com/watch?v=5F_kbM2DSpY
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Movies8 24/7
+https://www.youtube.com/watch?v=QdeHLGbnTk0
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Movies9 24/7
+https://www.youtube.com/watch?v=Xubshk2jFJw
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Movies10 24/7
+https://www.youtube.com/watch?v=LbrLxY1V0HY
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Movies11 24/7
+https://www.youtube.com/watch?v=6j4KVfAlykA
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Movies12 24/7
+https://www.youtube.com/watch?v=obNyHUQOxqA
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Movies13 24/7
+https://www.youtube.com/watch?v=UbmXX4djv2M
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Movies14 24/7
+https://www.youtube.com/watch?v=woRTejdqFXk
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Movies15 24/7
+https://www.youtube.com/watch?v=u15I8HB3gTk
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cJaeQA7.png" group-title="CINE", (DOUBTFUL) Western
+https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Pop
+https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Showtime HD
+http://80.80.160.168/live/7/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", (ONLINE) 24/7 Hollywood Movies 2
+http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", (ONLINE) 24/7 Hollywood Movies 3
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", (ONLINE) 24/7 Hollywood Movies 4
+http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", (ONLINE) 24/7 Hollywood Movies 6
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", (ONLINE) 24/7 Hollywood Movies 7
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", (ONLINE) 24/7 Hollywood Movies 8
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE", (ONLINE) 24/7 Hollywood Movies 11
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.enjoymillvalley.com/uploads/2/5/8/5/25857490/2018-movies-in-the-park_orig.jpg" group-title="CINE", (ONLINE) 24/7 Movies 1
+http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Santo y Blue Demon en el Mundo de los Muertos 1970
+https://archive.org/download/sanmumu70/sanmumu70.avi
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Santo contra los Cazadores de Cabezas 1971
+https://archive.org/download/sancaz71/sancaz71.avi
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Santo en la Mision Suicida 1971
+https://archive.org/download/sancaz71/sanmis71.avi
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Santo contra la Hija de Frankestein 1971
+https://archive.org/download/sanhifran71/sanhifran71.avi
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Santo contra la Mafia del Vicio 1971
+https://archive.org/download/sanhifran71/sanmavi71.avi
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Santo y la Venganza de las Mujeres Vampiro 1970
+https://archive.org/download/sanmumu70/sanvevam70.avi
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Santo contra los Jinetes del Terror 1970
+https://archive.org/download/sanca69/sanjite70.avi
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Santo y Blue Demon contra los Monstruos 1969
+https://archive.org/download/sanca69/sanblumon69.avi
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Santo y el Tesoro de Moctezuma 1968
+https://archive.org/download/sanbabra67/santemo68.avi
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Santo contra Blue Demon en la Atlantida 1969
+https://archive.org/download/sanbabra67/sanbluat69.avi
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Santo en la Operacion 67 1967
+https://archive.org/download/saneses66/sanop67.avi
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Santo contra el Espectro del Estrangulador 1966
+https://archive.org/download/saneses66/saneses66.avi
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Santo y Blue Demon contra el Poder Satanico 1964
+https://archive.org/download/sanbru64/sanposat64.avi
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Santo en el Ataque de las Brujas 1964
+https://archive.org/download/sanbru64/sanbru64.avi
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Santo en el Museo de Cera 1963
+https://archive.org/download/sanmuce63/sanmuce63.avi
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Santo contra las Momias de Guanajuato 1972
+https://archive.org/download/sanmog72/sanmog72.avi
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Santo en el Hotel de la Muerte 1963
+https://archive.org/download/sanhom63/sanhom63.avi
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Santo frente a la muerte 1969
+https://archive.org/download/sanmu69/sanmu69.avi
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/u7R3qcx.png" group-title="DEPORTES", (ONLINE) All Sports
+https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://solomotores.com.ar/images/america_sport.jpg" group-title="DEPORTES", (DOUBTFUL) América Sports
+https://www.youtube.com/watch?v=VSAUhiUdQ3A
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png" group-title="DEPORTES", (DOUBTFUL) Big Ten Network
+http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lepoint.fr/images/2016/06/07/4196567lpw-4196810-jpg_3591288.jpg" group-title="DEPORTES", (ONLINE) BFM Sport
+http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Kkj5IF9.png" group-title="DEPORTES", (ONLINE) CDO Premium
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Kkj5IF9.png" group-title="DEPORTES", (ONLINE) CDO Premium
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.televisionparatodos.tv/wp-content/uploads/2013/06/11.png" group-title="DEPORTES", (DOUBTFUL) DirectTV Sports
+http://iptvmrz-panel.com.mx/prox4/tvprue/tvprue/directvsports.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.televisionparatodos.tv/wp-content/uploads/2013/06/11.png" group-title="DEPORTES", (DOUBTFUL) DirectTV Sports
+http://iptvmrz-panel.com.mx/prox4/tvprue/tvprue/directvsportsplus.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.televisionparatodos.tv/wp-content/uploads/2013/06/11.png" group-title="DEPORTES", (DOUBTFUL) DirectTV Sports
+http://iptvmrz-panel.com.mx/prox4/tvprue/tvprue/directvsports1.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.televisionparatodos.tv/wp-content/uploads/2013/06/11.png" group-title="DEPORTES", (DOUBTFUL) DirectTV Sports
+http://iptvmrz-panel.com.mx/prox4/tvprue/tvprue/directvsports2.m3u8
+
+#EXTINF:-1 tvg-logo="http://elpinguino.com/uploads/imagenes/a4d656f47bdac68143488c2e0990c407.jpg" group-title="DEPORTES", (ONLINE) Pinguino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/nu2hK/ec70777e2f.png" group-title="DEPORTES", (DOUBTFUL) Redbull TV
+http://iptv.matthuisman.nz/nz/tv.redbull.tv.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/nB5fs/d0fbb8562f.png" group-title="DEPORTES", (ONLINE) Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/nB5fs/d0fbb8562f.png" group-title="DEPORTES", (ONLINE) Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/E1P/E1P_425x243.png" group-title="DEPORTES", (ONLINE) CHELSEA TV
+https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="DEPORTES", (ONLINE) MUTV
+https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bayern-munchen-logo-68D0CB94C3-seeklogo.com.png" group-title="DEPORTES", (ONLINE) Bayern Munchen TV
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/107.png" group-title="DEPORTES", (ONLINE) River TV
+https://kalhlspd-a.akamaihd.net/fhls/p/1164832/sp/116483200/serveFlavor/entryId/0_qc5xtm8o/v/2/ev/6/flavorId/0_8s0un0lm/name/a.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/DEPORTES/5.png" group-title="DEPORTES", (ONLINE) ESPN 2
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://sportscar365.com/wp-content/uploads/2015/02/foxsportsracing.jpg" group-title="DEPORTES", (ONLINE) Fox Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLur/cf2e6a6f87.png" group-title="DEPORTES", (DOUBTFUL) TDN
+http://iptvmrz-panel.com.mx/prox4/tvprue/tvprue/tdn.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/69/Esporte_Interativo_BR.png" group-title="DEPORTES", (ONLINE) Esporte Interativo
+http://cdn7.woideas.com/tv11.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/bolivia-deportes.png?fit=500%2C300" group-title="DEPORTES", (ONLINE) Bolivia Deportes
+http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Telecaribe_deportes_2017.png/revision/latest?cb=20171006040233" group-title="DEPORTES", (ONLINE) Telecaribe Deportes
+http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://lh3.googleusercontent.com/-iZyi5yBShPk/VXoYdYsbNGI/AAAAAAAABKM/24aFmFykdOE/s300/bein-sports-espanol.png" group-title="DEPORTES", (DOUBTFUL) Bein Sports
+http://iptvmrz-panel.com.mx/prox4/tvprue/tvprue/beinn.m3u8
+
+#EXTINF:-1 tvg-logo="http://lh3.googleusercontent.com/-iZyi5yBShPk/VXoYdYsbNGI/AAAAAAAABKM/24aFmFykdOE/s300/bein-sports-espanol.png" group-title="DEPORTES", (ONLINE) Bein Sports
+http://darktv.myvnc.com:9666/live/darktv/gratis/397.ts
+
+#EXTINF:-1 tvg-logo="https://d2jljza7x0a5yy.cloudfront.net/media/k2/items/cache/e56fe2c6ade8ff7a08cfbd6998b41ff9_XL.jpg" group-title="DEPORTES", (DOUBTFUL) La Liga TV
+http://iptvmrz-panel.com.mx/prox4/tvprue/tvprue/beinnn.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/nxkIJ/22337cbf58.png" group-title="DEPORTES", (DOUBTFUL) Partidazo
+http://iptvmrz-panel.com.mx/prox4/tvprue/tvprue/mseriesx.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/nxkIJ/22337cbf58.png" group-title="DEPORTES", (ONLINE) Partidazo
+http://darktv.myvnc.com:9666/live/darktv/gratis/393.ts
+
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-futbol.jpg" group-title="DEPORTES", (DOUBTFUL) Movistar Futbol
+http://iptvmrz-panel.com.mx/prox4/tvprue/tvprue/beinn1.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/q9uFo/422344b611.png" group-title="DEPORTES", (ONLINE) Gol TV España
+http://darktv.myvnc.com:9666/live/darktv/gratis/386.ts
+
+#EXTINF:-1 tvg-logo="http://puu.sh/tcNIh/64eddc27d3.png" group-title="DEPORTES", (ONLINE) Movistar Deportes 2
+http://darktv.myvnc.com:9666/live/darktv/gratis/395.ts
+
+#EXTINF:-1 tvg-logo="http://puu.sh/qIgFi/58313b61c2.png" group-title="DEPORTES", (ONLINE) Teledeporte
+http://darktv.myvnc.com:9666/live/darktv/gratis/396.ts
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/iptvsmartv.files.wordpress.com/2017/04/xxxuts1436895323.png?ssl=1&w=450" group-title="DEPORTES", (ONLINE) Toros TV
+http://macasplay.xyz:25461/live/IptvEcuador/MacasPlay/3.ts
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/817806134702702592/fsfGoMK3_400x400.jpg" group-title="DEPORTES", (ONLINE) Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w984445701_b664000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="DEPORTES", (ONLINE) UFC NETWORK
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.iteamsatellitetv.com/images/golf-channel-logo.jpg" group-title="DEPORTES", (DOUBTFUL) GOLF CHANNEL
+http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ca/08/48/ca0848e67b578790c03ffc5772616042.jpg" group-title="DEPORTES", (DOUBTFUL) Viasat Sports
+http://persik.by/stream/2944/263250/10249.m3u8
+
+#EXTINF:-1 tvg-logo="http://mlb.mlb.com/images/2008/09/29/f23RUuv9.jpg" group-title="DEPORTES", (ONLINE) MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="DEPORTES", (ONLINE) Abu Dhabi Sports
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="DEPORTES", (ONLINE) Abu Dhabi Sports 2
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/09/ktv3.jpg" group-title="DEPORTES", (ONLINE) KTV Sport Kuwait
+https://svs.itworkscdn.net/ktvsportslive/ksports.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Stadium Sports Network
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) SPORTSMAX
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Esport3
+https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/cat/ngrp:es3_web/chunklist_b1296000_DVR.m3u8
+
+#EXTINF:-1 tvg-logo="https://satcesc.com/web/wp-content/uploads/2014/10/setanta-sports.jpg" group-title="DEPORTES", (ONLINE) Setanta Sports
+http://ott-cdn.ucom.am/s81/04.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.arax.md/assets/channels/227.png" group-title="DEPORTES", (ONLINE) Setanta Sports +
+http://ott-cdn.ucom.am/s82/04.m3u8
+
+#EXTINF:-1 tvg-logo="http://72.34.38.13/SPORT/sp1.jpg" group-title="DEPORTES", (ONLINE) SporTV_1
+http://185-8-178-138.livesports24.online/ptsporttv1.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sportv.png" group-title="DEPORTES", (ONLINE) SporTV_2
+http://185-125-230-172.livesports24.online/portugalsport2.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Suoer SOCCER Tv
+http://210.210.155.35/uq2663/h/h20/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) MATCH FOOTBALL 1 HD
+http://persik.by/stream/0713/382544/10266.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) MATCH FOOTBALL 2 HD
+http://persik.by/stream/0713/382544/10267.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/c3qeenpYuo0/hqdefault.jpg" group-title="MUSICA", (ONLINE) Cool 103.7 HD
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/Retro_Czech_Republic.jpg" group-title="MUSICA", (ONLINE) RETRO TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/nsW7K/e33f64daeb.png" group-title="MUSICA", (ONLINE) Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/nsWwi/c18fe4842e.png" group-title="MUSICA", (ONLINE) m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://tvonline.com.do/images/sobipro/entries/42/img_mango-tv-canal%2059.jpg" group-title="MUSICA", (ONLINE) Mango Tv
+http://mangotv01.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://dominicanchannels.net/wp-content/uploads/2014/12/galaxiatv.png" group-title="MUSICA", (ONLINE) Galaxia Tv
+http://server3.prostudionetwork.com:1957/telecontacto/galaxia/chunklist_w500062277.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Super_tv_logo_300dpi.jpg" group-title="MUSICA", (ONLINE) LA SUPER TV
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
+
+#EXTINF:-1 tvg-logo="http://static.rbcasting.com/RMC-Radio-Monte-Carlo-Rosso-Logo-2015.jpg" group-title="MUSICA", (ONLINE) Radio Montecarlo
+http://wow01.105.net/live/rmc1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LCdljln.png" group-title="MUSICA", (ONLINE) Radio 105 Network
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Metal TV
+http://autopilot.myowntv.org/content/33816/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/wp-content/uploads/2013/01/VH1_Marca.jpg" group-title="MUSICA", (ONLINE) VH1
+http://91.231.219.145:80/tv_vh1_european/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://realityfreaks.tv/uploads/imgs/pre_1360449860__vh1_classic.jpg" group-title="MUSICA", (ONLINE) VH1 Classics
+http://91.231.219.145/tv_vh1_classic/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/maO70/72d9b8319f.png" group-title="MUSICA", (DOUBTFUL) MTV
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.live-arena.ru/logos/MTVHits-tvadvertisinglogo.jpg" group-title="MUSICA", (ONLINE) MTV HITS
+http://91.231.219.145:80/tv_mtv_hits/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://magneticproductions.files.wordpress.com/2010/11/mtv-dance.png" group-title="MUSICA", (ONLINE) MTV Dance
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/MTV_Classic_2011.png" group-title="MUSICA", (ONLINE) MTV Classic
+http://91.231.219.145:80/tv_mtv_dance/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Mtv_Rocks_2013.png" group-title="MUSICA", (ONLINE) MTV Rocks
+http://91.231.219.145:80/tv_mtv_rocks/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://alloforfait.fr/wp-content/uploads/2014/05/Mezzo_Live_HD-300x150.png" group-title="MUSICA", (ONLINE) Mezzo Live
+http://ott-cdn.ucom.am/s35/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s8bLqJM.png" group-title="MUSICA", (ONLINE) TVPop
+http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) MusicTop
+http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cocolatv.com/pictures/thecountrynetwork.png" group-title="MUSICA", (ONLINE) The Country Network
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/reMxG/4ecbfd73b8.png" group-title="MUSICA", (ONLINE) Bandamax
+http://189.216.247.113/Content/HLS/Live/Channel(BANDAMAX)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://videorola.com/wp-content/uploads/Videorola_logo_g.png" group-title="MUSICA", (ONLINE) Video Rola
+http://danntvh.dyndns.org:8000/live/peppe/peppe/664.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) SON POPULAR
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e9/Teleritmo_%282015-%29.png/revision/latest?cb=20151111060623" group-title="MUSICA", (ONLINE) TELERITMO
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-logo="http://lamegamundial.com/wp-content/uploads/2017/11/logolamega-vector-01.png" group-title="MUSICA", (ONLINE) La Mega Mundial
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/trace.png" group-title="MUSICA", (ONLINE) Trace Latina
+https://d2ktlibtvvj8vp.cloudfront.net/trace_latina/5/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/trace.png" group-title="MUSICA", (ONLINE) Trace Urban
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/trace.png" group-title="MUSICA", (ONLINE) Trace tropical
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/5/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Radio_5_Logo.svg/2000px-Radio_5_Logo.svg.png" group-title="MUSICA", (ONLINE) RADIO 105 TV
+http://fms.105.net:1935/live/105Test1/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.radioplay.se/img/original/4c80dac8dc9e9921.png" group-title="MUSICA", (ONLINE) The Voice
+http://stream.1music.hu/stream/1music.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/mk/9/95/Logo_tv_planeta.jpg" group-title="MUSICA", (DOUBTFUL) Planeta HD
+http://84.43.207.130/planetahd/planetahd.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/DNpGvYVIMniWHPd_-dNFWkPKa8vUOb2klYWgkn9ULcZlJKNix2bFMf5_BbIZKavavKwB=w300" group-title="MUSICA", (ONLINE) PORTAL FOXMIX
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-o9pPhGXrzMU/UDQYqcGik4I/AAAAAAAAVVg/V01-iTq7J0g/s1600/TLX.png" group-title="MUSICA", (ONLINE) Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nrjlebanon.com/events/images/events/logo_NRJ_Hits_web.jpg" group-title="MUSICA", (ONLINE) NRJ HITS TV
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wpzgjWt.png" group-title="MUSICA", (ONLINE) Radio Sanborja (Peru)
+https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lS4CAgN.png" group-title="MUSICA", (ONLINE) Radio U
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:radioutv_all/rightbrainmedia-live-109/radioutv1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600000623424/REXl4v9d-Zmh5eJ7t6a0kv3DQJ-ar75OxvHSDMOoD-rCZEBlfy3klt6VgFlAkUw5yZE=w300" group-title="MUSICA", (ONLINE) U TV
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_Xite.png" group-title="MUSICA", (ONLINE) XITE Music
+http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="MUSICA", (ONLINE) MC Play
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="MUSICA", (ONLINE) Yearmix2009
+https://ia601308.us.archive.org/12/items/DJPanduroVideoYearmix2009/DJ%20Panduro%20-%20Video%20Yearmix%202009.mp4
+
+#EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="MUSICA", (ONLINE) Yearmix2010
+https://ia601305.us.archive.org/3/items/DJPanduroVideoYearmix2010/DJ%20Panduro%20-%20Video%20Yearmix%202010.mp4
+
+#EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="MUSICA", (ONLINE) Yearmix2011
+https://ia601306.us.archive.org/7/items/DJPanduroDJCoolVideoYearmix2011/DJ%20Panduro%20%26%20DJ%20Cool%20-%20Video%20Yearmix%202011%20%28HD%20720%29.mp4
+
+#EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="MUSICA", (ONLINE) Yearmix2012
+https://ia801305.us.archive.org/21/items/DJPanduroVideoYearmix2012/DJ%20Panduro%20-%20Video%20Yearmix%202012.mp4
+
+#EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="MUSICA", (DOUBTFUL) Yearmix2013
+https://ia801409.us.archive.org/35/items/DJPanduroVideoYearmix2013/DJ%20Panduro%20-%20Video%20Yearmix%202013.mp4
+
+#EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="MUSICA", (ONLINE) Yearmix2014
+https://ia800501.us.archive.org/34/items/DJPanduroVideoYearmix2014/DJ%20Panduro%20-%20Video%20Yearmix%202014%20%28HD%29.mp4
+
+#EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="MUSICA", (ONLINE) Yearmix2015
+https://ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%20-%20Video%20Yearmix%202015.mp4
+
+#EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="MUSICA", (ONLINE) The 80s Videomix Volume 1
+https://ia801307.us.archive.org/35/items/DJPanduroThe80sVideomixVolume1/DJ%20Panduro%20-%20The%2080%27s%20Videomix%20%28Volume%201%29.mp4
+
+#EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="MUSICA", (ONLINE) The 90s EurodanceVideomix
+https://ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ%20Panduro%20-%20The%2090%27s%20Eurodance%20Videomix.mp4
+
+#EXTINF:-1 tvg-logo="http://www.dvd-peliculas.com/_images/_fotos/19171.jpg" group-title="MUSICA", (DOUBTFUL) Camila Viña del Mar 2012
+https://www.youtube.com/watch?v=3kTDfixwjbI
+
+#EXTINF:-1 tvg-logo="http://www.subeimagenes.com/img/10989098-10152738699227199-5549515019174143518-n-1247473.jpg" group-title="MUSICA", (DOUBTFUL) rob Fernandez Viña del Mar 2015
+https://www.youtube.com/watch?v=wl4g_zwa2zw
+
+#EXTINF:-1 tvg-logo="http://www.marcoantoniosolis.com/uploads/6/9/8/9/69891291/2349777.jpg?360" group-title="MUSICA", (DOUBTFUL) Marco Antonio Solis en Villa del Mar 2016
+https://www.youtube.com/watch?v=KLyrHwaXwqc
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/85/e7/c0/85e7c0280e6d78f0bd13834d2bee2875.jpg" group-title="MUSICA", (DOUBTFUL) Juan Gabriel en Villa del Mar 1997
+https://www.youtube.com/watch?v=L5ClbIfvunk
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/JiSlj5IVWf4/hqdefault.jpg" group-title="MUSICA", (DOUBTFUL) Juan Gabriel en Villa del Mar 2004
+https://www.youtube.com/watch?v=JiSlj5IVWf4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqQBhVShbFC8w0KOIL931wcn5krI_yhwDY5m35bo6UYQH6oMo2MA" group-title="MUSICA", (DOUBTFUL) Juan Gabriel en Concierto
+https://www.youtube.com/watch?v=tYl1sfI2NII
+
+#EXTINF:-1 tvg-logo="http://www.americanairlinescenter.com/assets/img/Juan-Gabriel-Thumbnail.jpg" group-title="MUSICA", (DOUBTFUL) Juan Gabriel en Concierto
+https://www.youtube.com/watch?v=RwqV-drcy9I
+
+#EXTINF:-1 tvg-logo="http://www.americanairlinescenter.com/assets/img/Juan-Gabriel-Thumbnail.jpg" group-title="MUSICA", (DOUBTFUL) Juan Gabriel en Bellas Artes
+https://www.youtube.com/watch?v=oKxJ5nVmalY
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rXsCFGiB_Wo/maxresdefault.jpg" group-title="MUSICA", (DOUBTFUL) Rocio Durcal 2002 en Auditorio Nacional
+https://www.youtube.com/watch?v=ZhIlhRZW74g
+
+#EXTINF:-1 tvg-logo="http://www.24horas.cl/incoming/article1097263.ece/ALTERNATES/w620h350/A_UNO_374860.jpg" group-title="MUSICA", (DOUBTFUL) Raphael en Viña del Mar 2010
+https://www.youtube.com/watch?v=R5JzmTECIhE
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-ONkVyKYQGLg/VI2OseI9vVI/AAAAAAAABAg/mpqwOkWE8ao/s1600/Frontal.jpg" group-title="MUSICA", (DOUBTFUL) Luis Miguel Viña del Mar 2012
+https://www.youtube.com/watch?v=JOKc0ghT9Gs
+
+#EXTINF:-1 tvg-logo="http://latam.aetn.com/AE/imgs_latam/series/vina-del-mar-2014/personaje-gr-carlos-vives.jpg" group-title="MUSICA", (DOUBTFUL) Carlos Vives Festival Viña del Mar 2014
+https://www.youtube.com/watch?v=DroJzHpjNpc
+
+#EXTINF:-1 tvg-logo="http://www.subtorrents.com/imagenes/24287.jpg" group-title="MUSICA", (DOUBTFUL) Mana Viña del Mar 2013
+https://www.youtube.com/watch?v=5xoHi34Pvn0
+
+#EXTINF:-1 tvg-logo="http://www.eliconodigital.com/wp-content/uploads/2014/02/La_ley-en-Vi%C3%B1a_del_Mar-2014.jpg" group-title="MUSICA", (DOUBTFUL) La Ley en Viña del Mar 2014
+https://www.youtube.com/watch?v=J4I9ZEAttUI
+
+#EXTINF:-1 tvg-logo="http://s1.ticketm.net/tm/es-mx/dam/a/e55/b0581ee2-eab3-4ebc-b469-1968ef640e55_141291_CUSTOM.jpg" group-title="MUSICA", (DOUBTFUL) Elefante en Auditorio Nacional
+https://www.youtube.com/watch?v=xVUq3M08TWY
+
+#EXTINF:-1 tvg-logo="https://i0.fiuxy.com/4fc24efd1725310e2210529caea43582fcc0632b?url=http%3A%2F%2Fec1.images-amazon.com%2Fimages%2FP%2FB0001XARYU.01._SCLZZZZZZZ_.jpg" group-title="MUSICA", (DOUBTFUL) El TRI 35 Años
+https://www.youtube.com/watch?v=wn6F5FepMpY
+
+#EXTINF:-1 tvg-logo="https://cde.peru.com/ima/0/0/8/4/8/848887/628x353/tri.jpg" group-title="MUSICA", (DOUBTFUL) El TRI 45 Años
+https://www.youtube.com/watch?v=2xR9pt21E54
+
+#EXTINF:-1 tvg-logo="http://yanni.es/wp-content/uploads/2014/04/london16.jpg" group-title="MUSICA", (DOUBTFUL) Yanni en Londres 2014
+https://www.youtube.com/watch?v=XeiicQAw90U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Yannitributecover.jpg/220px-Yannitributecover.jpg" group-title="MUSICA", (DOUBTFUL) Yanni Tribute (Concierto)
+https://www.youtube.com/watch?v=Z8NqV7F4FRk
+
+#EXTINF:-1 tvg-logo="http://d1u32chujroui2.cloudfront.net/wp-content/uploads/2014/11/metallica-bizzcon-more1-213x300.jpg" group-title="MUSICA", (DOUBTFUL) Metallica Live Blizzcon
+https://www.youtube.com/watch?v=9DI-Sy-6_4w
+
+#EXTINF:-1 tvg-logo="http://www.downvids.net/video/bestimages/img-michael-jackson-smooth-criminal-live-munich-1997-hd-396.jpg" group-title="MUSICA", (DOUBTFUL) Michael Jackson en Munich 1997
+https://www.youtube.com/watch?v=Y0JcJbzTjjw
+
+#EXTINF:-1 tvg-logo="http://cdn.gigincorea.com/wp-content/uploads/2014/06/metallica-rock-am-ring-20141.jpg" group-title="MUSICA", (DOUBTFUL) Metallica Rock am Ring 2014
+https://www.youtube.com/watch?v=3PCFt3so9AM
+
+#EXTINF:-1 tvg-logo="https://images-mix.netdna-ssl.com/w/600/h/600/q/85/upload/images/extaudio/495cc423-6fb8-4ccf-9973-2b60604958c2.jpg" group-title="MUSICA", (DOUBTFUL) David Guetta - Ultra Music Festival 2014
+https://www.youtube.com/watch?v=P2x3-b6JEj8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/jBrwFe6IFdI/hqdefault.jpg" group-title="MUSICA", (DOUBTFUL) IL DIVO En Cocierto Arena Pula
+https://www.youtube.com/watch?v=Sk5zxA9UP2Q
+
+#EXTINF:-1 tvg-logo="http://images.45cat.com/scorpions-wind-of-changed-mercury.jpg" group-title="MUSICA", (DOUBTFUL) Scorpions - Wind Of Change
+https://www.youtube.com/watch?v=n4RjJKxsamQ
+
+#EXTINF:-1 tvg-logo="http://www.audiophileusa.com/covers400water/51010.jpg" group-title="MUSICA", (DOUBTFUL) Scorpions Still loving you
+https://www.youtube.com/watch?v=kKSJgWo07Jw&feature=youtu.be
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/S-kO5WVC2e0/maxresdefault.jpg" group-title="MUSICA", (DOUBTFUL) Creedence Clearwater Revival Have You Ever Seen The Rain
+https://www.youtube.com/watch?v=g4flAZEgtjs&feature=youtu.be
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Cv040KIUAkA/maxresdefault.jpg" group-title="MUSICA", (DOUBTFUL) The Greatest Rock Ballads Of All Time
+https://www.youtube.com/watch?v=Cv040KIUAkA
+
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/julioaldana/julioaldana1401/julioaldana140100069/25465928-Fiesta-Retro-vector-de-letras-los-a-os-ochenta-los-videojuegos-y-estilo-de-la-pel-cula-Foto-de-archivo.jpg" group-title="MUSICA", (DOUBTFUL) Retro Mix Fiesta
+https://www.youtube.com/watch?v=v6JdhRviUCc&t=740s
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/qUqEw4nsxIo/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Pegasso Vol. 01
+https://www.youtube.com/watch?v=sKqtnvDIOIQ
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/DmbWyo6ETdE/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Pegasso Vol. 02
+https://www.youtube.com/watch?v=eMRFmeonoNg&t=139s
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LmmxB4pQu8c/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Pegasso Vol. 03
+https://www.youtube.com/watch?v=zeqLBqEVVRo
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/7e/d5/fe/7ed5fe6f3475b0b951e028c0aca7650c.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Pegasso Vol. 04
+https://www.youtube.com/watch?v=kJNeWVsws-U
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51HGMgkE5YL.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Pegasso Vol. 05
+https://www.youtube.com/watch?v=01R_zJN9qkk
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/4lNggNXCks4/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Pegasso Vol. 06
+https://www.youtube.com/watch?v=3fD6t1oQOqw
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/qmaKYaZ2Z04/maxresdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Pegasso Vol. 07
+https://www.youtube.com/watch?v=9EWN82rQVnE
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YhzkSQB4oaw/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Pegasso Vol. 08
+https://www.youtube.com/watch?v=ougs63EDFic
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/pbgzBdq9SrY/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Pegasso Vol. 09 Adolescente y Bonita (Album Completo 1988)
+https://www.youtube.com/watch?v=JywysBHlm7M
+
+#EXTINF:-1 tvg-logo="http://direct.rhapsody.com/imageserver/images/Alb.190183055/500x500.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Pegasso Vol. 10 A La Luna (Album Completo 1989)
+https://www.youtube.com/watch?v=zKnnWSQ2MOE
+
+#EXTINF:-1 tvg-logo="http://direct.rhapsody.com/imageserver/images/Alb.190183055/500x500.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Pegasso Vol. 10 Mix
+https://www.youtube.com/watch?v=zKnnWSQ2MOE&t=11s
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CmetwiP_jvE/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) GRUPO PEGASSO CUANDO YO TE CONOCI (Album Completo 1990)
+https://www.youtube.com/watch?v=iRJhg-XajtY
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/DjzOmfw-1MU/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) PEGASSO Vol. 11 MITADES (Album Completo 1991)
+https://www.youtube.com/watch?v=U9WSP57xWu4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/EQT7u7LYKI0/maxresdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Pegasso Vol. 13
+https://www.youtube.com/watch?v=Mmk9x2O-O0Y
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-pA_qfh7lelY/Utrl8nTSJnI/AAAAAAAAB-Y/hLa5Ks2lElc/s1600/POLLO.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Pegasso Pollo Estevan Vol. 06
+https://www.youtube.com/watch?v=i-vkFVEe9Is
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_BdO4BwFVWc0/SfETSDmcVDI/AAAAAAAAAfE/fli07MS85Do/s400/Rompiendo%2520El%2520Hielo.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Pegasso Pollo Estevan Vol. 07
+https://www.youtube.com/watch?v=iJRK5MVxXhg
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bftI6zyECps/maxresdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Pegasso Pollo Estevan Vol. 08
+https://www.youtube.com/watch?v=VeCI60NmrnI
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_BdO4BwFVWc0/SfETR6binPI/AAAAAAAAAe0/43CCWergiVE/s400/volMuchasazones.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Pegasso Pollo Estevan Vol. 09
+https://www.youtube.com/watch?v=VeCI60NmrnI&t=30s
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/S0YQ0IP9_K8/maxresdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Pegasso Pollo Estevan Vol. 10
+https://www.youtube.com/watch?v=mNcnB1SNP4c
+
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000060953008-h5jq9o-t500x500.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Pegasso Pollo Estevan Vol. 11
+https://www.youtube.com/watch?v=EqThGElVjJE
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-lDbXlJqM4vo/TZ4-Nsmd-AI/AAAAAAAAAds/0U-rTQSOWrM/s1600/Pegasso11+-+Copy.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Pegasso Pollo Estevan Vol. 12
+https://www.youtube.com/watch?v=kKOJ_JwMboM
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MG3R4oRZjVs/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Pegasso Pollo Estevan Vol. 13
+https://www.youtube.com/watch?v=XCEOF3n-ghg&index=14&list=RDKEsdRu2SfuY
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-v1G8isWdezM/Vrqy2TRmLmI/AAAAAAAAAUE/jNA5729NgkE/s1600/FRONT.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Pegasso Pollo Estevan 12 Remembranzas
+https://www.youtube.com/watch?v=Gy_JEsxnRhg
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kPlS24dKXS0/maxresdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Pegasso Pollo Estevan Super exitos
+https://www.youtube.com/watch?v=vKQxM19APQI
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kPlS24dKXS0/maxresdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Pegasso Pollo Estevan Super exitos
+https://www.youtube.com/watch?v=07XeJvK0yMk
+
+#EXTINF:-1 tvg-logo="https://images.shazam.com/coverart/t277415820-b1065131440_s400.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Pegasso Pollo Estevan Pegamix
+https://www.youtube.com/watch?v=kPlS24dKXS0
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Sj5pGmv3RwY/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Pegasso Pollo Estevan Romanticas
+https://www.youtube.com/watch?v=dJ-_4PZE5g0
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/pHOGElVfc7c/maxresdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) GRUPO MITADES DEL TITERE - ABRAZAME (Album Completo 1992)
+https://www.youtube.com/watch?v=XlveIrJBG2Y
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/EgfihuKnw9w/maxresdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) GRUPO GAVIOTA (Juan Antonio Espinoza)
+https://www.youtube.com/watch?v=zIJ32FYh3qM
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-WidglKVoLSE/VNOxuTqXcrI/AAAAAAAACQw/Px8W8w7MDFI/s1600/zaaz.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Zaaz Vol. 01 (El Vuelo de la Paloma, 1984)
+https://www.youtube.com/watch?v=E45o1oXIuDk&t=91s
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Yvyu3opIl5Q/maxresdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Zaaz Vol. 02 (Loco Por ti, 1985)
+https://www.youtube.com/watch?v=H-mK-yZG1E4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6OePUi03veU/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Zaaz Vol. 03 (El LLavero, 1985)
+https://www.youtube.com/watch?v=m4Ig8sGzmyI
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-XFUjkoyOZVc/TqSC8W8w27I/AAAAAAAAAr0/q7bdR5j3ucs/s1600/Mu%25C3%25B1equita.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Zaaz Vol. 04 (Muñequita, 1986)
+https://www.youtube.com/watch?v=S6nejhGhV-k&t=25s
+
+#EXTINF:-1 tvg-logo="https://images.shazam.com/coverart/t59421424-b409145321_s400.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Zaaz Vol. 08 (Triste Damisela, 1990)
+https://www.youtube.com/watch?v=TcH17Jsuf4U
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/G3ScknYJuic/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Toppaz Vol. 01 Amandote 1986
+https://www.youtube.com/watch?v=g7OaKKyGSvY&t=1s
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/G3ScknYJuic/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Toppaz Vol. 03 Mix Felicidad 1988 (By Lomeli DJ)
+https://www.youtube.com/watch?v=G3ScknYJuic
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xluClqAznCQ/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Toppaz Mix Etapas de mi vida (By Lomeli DJ)
+https://www.youtube.com/watch?v=yac8JHfbZMw
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KTMT9SEUQXk/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Toppaz exitos
+https://www.youtube.com/watch?v=qlVJFylJtTI
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/SiWS3V8i8vA/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) MISTER CHIVO - PLAYA AZUL (Album Completo 1982)
+https://www.youtube.com/watch?v=SiWS3V8i8vA
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/JzOUkvmtPf4/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Mister Chivo Ron y Coca Cola
+https://www.youtube.com/watch?v=qHvzqylZxos&t=236s
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OSqpYQ6lhzU/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Mister Chivo Mix
+https://www.youtube.com/watch?v=k9APT22feHI
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1y3Bf3lgHh0/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Mister Chivo Romanticas
+https://www.youtube.com/watch?v=1y3Bf3lgHh0
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B2Ai9Xy4lQg/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Tropical Florida Cumbias
+https://www.youtube.com/watch?v=z8xXX5NVpso
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/FCze6lVNPPA/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Tropical Florida Quebradita
+https://www.youtube.com/watch?v=yoiYfNjwwYA
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-2I-1q6jgLP0/USGIKBpicJI/AAAAAAAAD4Y/91w0KchVvLs/s1600/Mr+Chivo+(mcNifico).JPG" group-title="Gruperos Inmortales", (DOUBTFUL) Tropical Panama Eva Maria album completo
+https://www.youtube.com/watch?v=e5xrcgx3brQ
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wWGlA5vOKaE/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) TROPICALISIMO APACHE 1989 - BAILANDO BIEN CON... (Album Completo)
+https://www.youtube.com/watch?v=g7P4_ouXx5Y
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/h8e3Z_ixhUo/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) TROPICALISIMO APACHE 1989 - EXITOS QUEMANTES Vol. II (Album Completo)
+https://www.youtube.com/watch?v=ZX1lG7wFnHU
+
+#EXTINF:-1 tvg-logo="http://cps-static.rovicorp.com/3/JPG_500/MI0001/793/MI0001793923.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) TROPICALISIMO APACHE 1993 - EXITOS QUEMANTES Vol. 4 (Album Completo)
+https://www.youtube.com/watch?v=S_nWtgm7vk8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mQ_MBXreKe4/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Tropicalisimo Apache Mix Byy Lomeli DJ
+https://www.youtube.com/watch?v=uYC94NEMNKo
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mQ_MBXreKe4/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Tropicalisimo Apache 15 Exitos
+https://www.youtube.com/watch?v=VlY-J4bHg7g
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mQ_MBXreKe4/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Tropicalisimo Apache Exitos
+https://www.youtube.com/watch?v=Wk17ko_h6jI
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0LqJmnSbo7U/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) LOS REYES LOCOS 1992 - SUAVE PA' BAILAR (Album Completo)
+https://www.youtube.com/watch?v=0LqJmnSbo7U
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Kl-DriVnbzM/maxresdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) SONIDO MAZTER 1991 - ESTE DOLOR (Album Completo)
+https://www.youtube.com/watch?v=jluuHUKhVHI
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kOgL90ZoB8k/maxresdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Sonido Mazter - Un Hombre Normal (Video Oficial)
+https://www.youtube.com/watch?v=Qw_EyBF70Pw
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-F41ZUy_tprA/V-Hcw8eLbUI/AAAAAAAAAI8/l7lelrpDASsOz_z5xW2U76e_sEk2jOKeQCLcB/s1600/por1.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Sonido la Changa
+https://www.youtube.com/watch?v=ZY_pXcXebIA
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/W_egaImpbZY/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Sonido la Changa
+https://www.youtube.com/watch?v=i4U7Amj_n9s
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ngFxb7nmOnA/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Liberacion Senderito de Amor
+https://www.youtube.com/watch?v=ngFxb7nmOnA
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/JB31EFD0cNY/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Liberacion Libre exitos
+https://www.youtube.com/watch?v=bpNxcXAD5JQ
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/JB31EFD0cNY/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Liberacion Exitos
+https://www.youtube.com/watch?v=gB0K4VhlTlI
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2eQ5jvZo0QY/mqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Liberacion Canta Miguel Angel Alfaro
+https://www.youtube.com/watch?v=2eQ5jvZo0QY
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QY0QYXA3L.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Liberacion - Sentimiento Ranchero
+https://www.youtube.com/watch?v=M3PpHXxD3o0
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/71/b7/4e/71b74eed7bf0115fa243f8bf79f21743.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) BRONCO 1986 - SERGIO EL BAILADOR (Album Completo)
+https://www.youtube.com/watch?v=6nfMfzV8Mnw
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-et9gQcu21JE/T9ABIcd0rFI/AAAAAAAABgk/tJdFzh2tI8Y/w1200-h630-p-k-no-nu/bronco+indomable+1986.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) BRONCO 1986 - INDOMABLE (Album Completo)
+https://www.youtube.com/watch?v=ljYRDWaDrKs
+
+#EXTINF:-1 tvg-logo="https://www.buenamusica.com/media/fotos/discos/b/bronco/bronco_super-bronco.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) BRONCO 1987 - BRONCO SUPER BRONCO (Album Completo)
+https://www.youtube.com/watch?v=9xxCFeN22vM
+
+#EXTINF:-1 tvg-logo="https://img.discogs.com/VRU7ma4DBxCObisafWIN7UxzQSc=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9821802-1486856441-5643.jpeg.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) BRONCO 1988 - UN GOLPE MAS (Album Completo)
+https://www.youtube.com/watch?v=gA1UVbjrZGk
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/DaJ7EhEunII/maxresdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) BRONCO 1989 - A TODO GALOPE (Album Completo)
+https://www.youtube.com/watch?v=-yBqt0rA9j0
+
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/los-bukis-falso-amor-lp-muy-raro-marco-antonio-solis-bronco-D_NQ_NP_423601-MLM20368465660_082015-F.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) LOS BUKIS 1975- FALSO AMOR (Album Completo)
+https://www.youtube.com/watch?v=BcGgZzxhnlE
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fHuJ9i0iEWI/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) LOS BUKIS 1976 - TE TUVE Y TE PERDI (Album Completo)
+https://www.youtube.com/watch?v=jpm3ZdXFlv0
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Me1qjGmEjOM/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) LOS BUKIS 1978 - ME SIENTO SOLO (Album Completo)
+https://www.youtube.com/watch?v=Me1qjGmEjOM
+
+#EXTINF:-1 tvg-logo="http://images.45worlds.com/f/cd/los-bukis-los-triunfadores-cd.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) LOS BUKIS 1979 - LOS TRIUNFADORES (Album Completo)
+https://www.youtube.com/watch?v=BROIgV64g7I
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RXnylUAxlWE/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) LOS BUKIS 1980 - MI NAJAYITA (Album Completo)
+https://www.youtube.com/watch?v=5MsAOy5aWp8
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-x8LiDL5u0nY/VK-glqGARfI/AAAAAAAABag/B11baklMKSA/s1600/Tapa.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) LOS BUKIS 1981 - PRESIENTO QUE VOY A LLORAR (Album Completo)
+https://www.youtube.com/watch?v=YNf3QIjaA94
+
+#EXTINF:-1 tvg-logo="https://www.buenamusica.com/media/fotos/discos/l/los-bukis/los-bukis_yo-te-necesito.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) LOS BUKIS 1982 - YO TE NECESITO (Album Completo)
+https://www.youtube.com/watch?v=bTTMnOtJdxM
+
+#EXTINF:-1 tvg-logo="http://s.ecrater.com/stores/30898/4a7a0c673fd9a_30898n.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) LOS BUKIS 1984 - MI FANTASIA (Album Completo)
+https://www.youtube.com/watch?v=x-AhJFrioME
+
+#EXTINF:-1 tvg-logo="http://direct.rhapsody.com/imageserver/images/Alb.6223760/500x500.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) LOS BUKIS 1986 - ME VOLVI A ACORDAR DE TI (Album Completo)
+https://www.youtube.com/watch?v=JTJKXpESSW8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/GZaueSLy_0U/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) LOS BUKIS 1988 - SI ME RECUERDAS (Album Completo)
+https://www.youtube.com/watch?v=uivxbZM9ew8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5MSMZ-2TjAY/maxresdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) LOS BUKIS 1989 - Y PARA SIEMPRE (Album Completo)
+https://www.youtube.com/watch?v=5MSMZ-2TjAY
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/XlajC_dmeXk/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) LOS BUKIS 1991 - A TRAVES DE TUS OJOS (Album Completo)
+https://www.youtube.com/watch?v=VZICeC0OjcU
+
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/cd-los-bukis-raro-D_NQ_NP_13399-MLM3256148493_102012-F.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) LOS BUKIS 1992 - QUIEREME (Album Completo)
+https://www.youtube.com/watch?v=JRedUYcHkmk
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/cwFzonNsdQc/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) LOS BUKIS 1993 - INALCANZABLE (Album Completo)
+https://www.youtube.com/watch?v=KPceJ71laMo
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Music/v4/f8/cd/0e/f8cd0ed8-72b1-9945-2696-135e59aa8707/source/1200x630bb.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) LOS BUKIS 1995 - POR AMOR A MI PUEBLO (Album Completo)
+https://www.youtube.com/watch?v=E5-qo8y64nA
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/SU75MDWAFIA/hqdefault.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Homenaje a la Sonora Santanera
+https://www.youtube.com/watch?v=X-Xqqwa4o-E&list=PLLVPFxhn9iVbZhag6qdO7TVz9JNLbR7vi
+
+#EXTINF:-1 tvg-logo="http://www.unioncancun.mx/sites/default/files/styles/galeria/public/viva-mexico-00_0.jpg" group-title="Gruperos Inmortales", (DOUBTFUL) Viva Mexico y sus Corridos
+https://www.youtube.com/watch?v=NBA150811rpL4s
+
+#EXTINF:-1 tvg-logo="http://puu.sh/nvrR5/1bb233b647.png" group-title="XXX Adultos", (ONLINE) Miami TV
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DLEFDcv.png" group-title="XXX Adultos", (ONLINE) Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", (ONLINE) HOT
+http://live.redtraffic.xyz/blowjob.m3u8
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", (ONLINE) Dusk
+http://live.redtraffic.xyz/milf.m3u8
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", (ONLINE) Juice
+http://live.redtraffic.xyz/latina.m3u8
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", (ONLINE) Juice
+http://live.redtraffic.xyz/bigass.m3u8
+
+#EXTINF:-1 tvg-logo="http://totaltv.tv/oec/images/tv_channels/bdc6d5c54bd382de621a6c1ec682ff89.png" group-title="XXX Adultos", (ONLINE) SEXTATION
+http://live.redtraffic.xyz/teen.m3u8
+
+#EXTINF:-1 tvg-logo="http://totaltv.tv/oec/images/tv_channels/bdc6d5c54bd382de621a6c1ec682ff89.png" group-title="XXX Adultos", (ONLINE) SEXTATION
+http://live.redtraffic.xyz/cuckold.m3u8
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", (ONLINE) You Porn
+http://live.redtraffic.xyz/pov.m3u8
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", (ONLINE) You Porn
+http://live.redtraffic.xyz/russian.m3u8
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", (ONLINE) PenthouseX
+http://live.redtraffic.xyz/pornstar.m3u8
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", (ONLINE) PenthouseX
+http://live.redtraffic.xyz/interracial.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png" group-title="XXX Adultos", (ONLINE) Sextreme
+http://live.redtraffic.xyz/fetish.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", (ONLINE) BRAZZERS
+http://live.redtraffic.xyz/bigtits.m3u8
+
+#EXTINF:-1 tvg-logo="https://s19.postimg.org/t9qpt32f7/HUSTLER.png" group-title="XXX Adultos", (ONLINE) HustlerXXX
+http://live.redtraffic.xyz/bigdick.m3u8
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", (DOUBTFUL) Porneq 06
+http://porneq.com/media/porn5/videos/465/Amanda-Black-20-10-2015-Mylove-360p-2Df89PnA8q2.mp4
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", (DOUBTFUL) Porneq 08
+http://porneq.com/media/porn7/videos/1929/Dirty-Western-2-Smokin-Guns-1995-Full-Movie-360p-7vnRLFOTPE2.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Christy Mack hace practicas en el ejercito
+https://cdn.servitubes.com/videos/4/3/9/4/5/4394549eecd8e8aa5341a37ccefd070eb1e5a049.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Una cura milagrosa
+https://cdn2.servitubes.com/videos/4/b/d/7/7/4bd772f66e7646c939d9e34554ab1c262ae93209.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Preston y Blue en accion
+https://cdn2.servitubes.com/videos/4/3/2/8/a/4328ad617ef937441dbd7481fd32db6c2c7ad545.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Penetrando a Kelsie Monroe
+https://cdn2.servitubes.com/videos/0/9/4/f/7/094f71d2f0310d75f102985daa132ee3f51368de.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Anna Bell sabe atender a los clientes
+https://cdn2.servitubes.com/videos/b/f/3/9/f/bf39f97b57efc3d8ce3259abae79d1070ac3b896.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Pego escondendo no armario
+https://cdn2.servitubes.com/videos/6/8/d/6/9/68d697f8109924a39ba9a6319935702ccc26eb55.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Como ser una ganadora dolorida
+https://cdn2.servitubes.com/videos/c/d/0/6/7/cd067ad27542e80d1183612d84d0c57fe810189d.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Pareja entra en calor en invierno
+https://cdn2.servitubes.com/videos/4/4/6/9/c/4469cd72eb8ae6b021a8c140e6ab824a9f408790.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Lecciones de cocina con Madison
+https://cdn2.servitubes.com/videos/f/3/0/3/c/f303c83df55269205ca2d0487c55145c7ac27907.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Mira tu polla
+https://cdn2.servitubes.com/videos/e/4/a/6/9/e4a69acb6e1e959c9b3f5b3413ebe1ea9b5e795e.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Ladrona de manos pegajosas
+https://cdn2.servitubes.com/videos/0/1/e/1/0/01e105ad11ee9f601c3ece428a70dfcbc3be0bde.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Todo el placer posible
+https://cdn2.servitubes.com/videos/6/d/9/e/0/6d9e03bfe19d62bed366da280b566f2350ce9010.mp4
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", (ONLINE) BRAZZERS 1
+http://static.brazzers.com/scenes/7119/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", (ONLINE) BRAZZERS 2
+http://static.brazzers.com/scenes/5457/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", (ONLINE) BRAZZERS 3
+http://static.brazzers.com/scenes/3327/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", (ONLINE) BRAZZERS 4
+http://static.brazzers.com/scenes/3328/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", (ONLINE) BRAZZERS 5
+http://static.brazzers.com/scenes/4517/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", (ONLINE) BRAZZERS 6
+http://static.brazzers.com/scenes/4521/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", (ONLINE) BRAZZERS 7
+http://static.brazzers.com/scenes/4523/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", (ONLINE) BRAZZERS 8
+http://static.brazzers.com/scenes/4524/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", (ONLINE) BRAZZERS 9
+http://static.brazzers.com/scenes/4525/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", (ONLINE) BRAZZERS 10
+http://static.brazzers.com/scenes/4526/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", (ONLINE) BRAZZERS 11
+http://static.brazzers.com/scenes/4527/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", (ONLINE) BRAZZERS 12
+http://static.brazzers.com/scenes/4528/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", (ONLINE) BRAZZERS 13
+http://static.brazzers.com/scenes/4529/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", (ONLINE) BRAZZERS 14
+http://static.brazzers.com/scenes/4530/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", (ONLINE) BRAZZERS 15
+http://static.brazzers.com/scenes/4531/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", (ONLINE) BRAZZERS 16
+http://static.brazzers.com/scenes/4533/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", (ONLINE) BRAZZERS 17
+http://static.brazzers.com/scenes/4534/180sec.flv
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", (ONLINE) BRAZZERS 18
+http://static.brazzers.com/scenes/4536/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", (ONLINE) XXXVOD3D-20+18 3D
+http://galleries.3Dcatchyfetish.com/tube/020/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", (ONLINE) XXXVOD3D-21+18 3D
+http://galleries.3Dcatchyfetish.com/tube/021/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", (ONLINE) XXXVOD3D-1+18 3D
+http://galleries.3dcatchyfetish.com/tube/001/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", (ONLINE) XXXVOD3D-10+18 3D
+http://galleries.3Dcatchyfetish.com/tube/010/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", (ONLINE) XXXVOD3D-11+18 3D
+http://galleries.3Dcatchyfetish.com/tube/011/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", (ONLINE) XXXVOD3D-13+18 3D
+http://galleries.3Dcatchyfetish.com/tube/013/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", (ONLINE) XXXVOD3D-15+18 3D
+http://galleries.3Dcatchyfetish.com/tube/015/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", (ONLINE) XXXVOD3D-16+18 3D
+http://galleries.3Dcatchyfetish.com/tube/016/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", (ONLINE) XXXVOD3D-25+18 3D
+http://galleries.3Dcatchyfetish.com/tube/025/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", (ONLINE) XXXVOD3D-3+18 3D
+http://galleries.3dcatchyfetish.com/tube/003/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", (ONLINE) XXXVOD3D-4+18 3D
+http://galleries.3dcatchyfetish.com/tube/004/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", (ONLINE) XXXVOD3D-5+18 3D
+http://galleries.3Dcatchyfetish.com/tube/005/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", (ONLINE) XXXVOD3D-6+18 3D
+http://galleries.3Dcatchyfetish.com/tube/006/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", (ONLINE) XXXVOD3D-7+18 3D
+http://galleries.3Dcatchyfetish.com/tube/007/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", (ONLINE) XXXVOD3D-8+18 3D
+http://galleries.3Dcatchyfetish.com/tube/008/trailer.f4v
+
+#EXTINF:-1 tvg-logo="https://sites.google.com/site/jonasiptvbr/logos/CLIMANIA.jpg" group-title="XXX Adultos", (ONLINE) XXXVOD3D-9+18 3D
+http://galleries.3Dcatchyfetish.com/tube/009/trailer.f4v
+
+#EXTINF:-1 tvg-logo="http://ycbeast.jasongentili.com/Pics/xxx-icon.png" group-title="XXX Adultos", (DOUBTFUL) XXX-Babes 1
+http://anysex.com/get_file/1/36c3f94673b9a0e998f5cf48a5dbae48/184000/184753/184753.mp4/
+
+#EXTINF:-1 tvg-logo="http://ycbeast.jasongentili.com/Pics/xxx-icon.png" group-title="XXX Adultos", (DOUBTFUL) XXX-Babes 10
+http://anysex.com/get_file/1/07d3eb53f530b5b9dce8585df1882e95/203000/203802/203802.mp4/
+
+#EXTINF:-1 tvg-logo="http://ycbeast.jasongentili.com/Pics/xxx-icon.png" group-title="XXX Adultos", (DOUBTFUL) XXX-Babes 11
+http://anysex.com/get_file/1/0f750593e9c13a97d1372da7ba5ff03d/182000/182756/182756.mp4/
+
+#EXTINF:-1 tvg-logo="http://ycbeast.jasongentili.com/Pics/xxx-icon.png" group-title="XXX Adultos", (DOUBTFUL) XXX-Babes 12
+http://anysex.com/get_file/1/ff756e8a922190e541ffb28fc1d0899c/182000/182758/182758.mp4/
+
+#EXTINF:-1 tvg-logo="http://ycbeast.jasongentili.com/Pics/xxx-icon.png" group-title="XXX Adultos", (DOUBTFUL) XXX-Babes 16
+http://anysex.com/get_file/1/05aea56460ffe6544e25c74d5e8d603f/203000/203203/203203.mp4/
+
+#EXTINF:-1 tvg-logo="http://ycbeast.jasongentili.com/Pics/xxx-icon.png" group-title="XXX Adultos", (DOUBTFUL) XXX-Babes 2
+http://anysex.com/get_file/1/fbb2fa94aaba78f34860bbaad1e245c2/202000/202080/202080.mp4/
+
+#EXTINF:-1 tvg-logo="http://ycbeast.jasongentili.com/Pics/xxx-icon.png" group-title="XXX Adultos", (DOUBTFUL) XXX-Babes 3
+http://anysex.com/get_file/1/7f1ab8fb692cdd03eceaa260c957393b/200000/200149/200149.mp4/
+
+#EXTINF:-1 tvg-logo="http://ycbeast.jasongentili.com/Pics/xxx-icon.png" group-title="XXX Adultos", (DOUBTFUL) XXX-Babes 4
+http://anysex.com/get_file/1/99441daeb374ea78124532d200b98c9d/204000/204522/204522.mp4/
+
+#EXTINF:-1 tvg-logo="http://ycbeast.jasongentili.com/Pics/xxx-icon.png" group-title="XXX Adultos", (DOUBTFUL) XXX-Babes 5
+http://anysex.com/get_file/1/96383cc05aedc07402e7b2dea40e505c/186000/186265/186265.mp4/
+
+#EXTINF:-1 tvg-logo="http://ycbeast.jasongentili.com/Pics/xxx-icon.png" group-title="XXX Adultos", (DOUBTFUL) XXX-Babes 6
+http://anysex.com/get_file/1/0dd12485608c09bc44a29b52b2f027cc/184000/184508/184508.mp4/
+
+#EXTINF:-1 tvg-logo="http://ycbeast.jasongentili.com/Pics/xxx-icon.png" group-title="XXX Adultos", (DOUBTFUL) XXX-Babes 7
+http://anysex.com/get_file/1/1d759b669f1a44309556024be91f9923/193000/193615/193615.mp4/
+
+#EXTINF:-1 tvg-logo="http://ycbeast.jasongentili.com/Pics/xxx-icon.png" group-title="XXX Adultos", (DOUBTFUL) XXX-Babes 8
+http://anysex.com/get_file/1/f3846b9c434f29d8bc9e6124122b9399/193000/193742/193742.mp4/
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", (DOUBTFUL) Chichi Medina
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chichi_medina_8minutes.mp4
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", (DOUBTFUL) Chloe Foster
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chloe_foster_8minutes.mp4
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", (DOUBTFUL) Dakota Skye
+http://tube.paperstreetcash.com/12mins/exxxtrasmall/exxxtrasmall_dakota_skye_12minute.mp4
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", (DOUBTFUL) Demida
+http://tube.paperstreetcash.com/8mins/rubateen/rubateen_demida_8minutes.mp4
+
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", (DOUBTFUL) Dusya
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_dusya_12minute.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Yurizan Beltran folla con un dilatador
+https://cdn2.servitubes.com/videos/d/a/5/d/f/da5df627cbb31ed5758ef77c5bd9dcfec9b911fd.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) La profesional doctora de cabecera
+https://cdn2.servitubes.com/videos/7/2/2/d/5/722d55f4d3dc5f40634f56ead0390645001e6d4e.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) A Remy le va de todo
+https://cdn2.servitubes.com/videos/e/9/5/c/2/e95c2c53b00f3a6f2e6a5765bbcda0b0b9c1616b.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Cuando la madre se va de casa
+https://cdn2.servitubes.com/videos/c/8/6/9/0/c86903853256f6f2eb40068e92fb3010f03c440c.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Asalto sexual a plena luz del dia
+https://cdn2.servitubes.com/videos/2/6/6/9/5/26695e82fb646124768065b3a7d8839c56219867.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Genial polvo en sofa con delicias orales
+https://cdn3.servitubes.com/videos/0/3/8/8/e/0388e1dee35010743e1cfcd738816e939bdd94ea.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Todo es mejor en Texas
+https://cdn2.servitubes.com/videos/9/e/b/a/4/9eba4d51b89b7f520809beff8c2ed0e63dab1cd8.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Calentamiento pone a un chico a punto
+https://cdn2.servitubes.com/videos/d/2/b/f/7/d2bf7ecf799ea10fe9a22d8d68325575c683a57b.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Lentos preliminares y ropidas pasiones
+https://cdn3.servitubes.com/videos/2/1/9/d/8/219d8519716d95d86ebb23de4041144875b9f00a.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Sexo rudo en el dormitorio
+https://cdn3.servitubes.com/videos/8/3/3/f/c/833fcb3668c892e5c76cf99fce3038b4f0ac5573.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Agujeros jovenes rosas
+https://cdn2.servitubes.com/videos/4/7/c/9/8/47c98bbc0f676a4299016092152abf1b2514bcb2.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Lecciones para una colegiala
+https://cdn3.servitubes.com/videos/a/9/7/7/d/a977d8daf20c18579b273a429c40856ac24360bc.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Compartiendo una polla con su madrastra
+https://cdn2.servitubes.com/videos/e/9/1/f/c/e91fc5e6e5308d853fcfd4ec53a6332bb954ab47.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Solo un consejo de medianoche
+https://cdn2.servitubes.com/videos/4/8/5/4/4/48544bb5a3a70d453df7d3390ead5418293174c3.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) SELEN
+http://videopornoitaliano.net/media/videos/5/4/8/e/b/548eb57b50a2b.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) SIGNORE SC@ND@LOSE DI PROVINCI@
+http://videopornoitaliano.net/media/videos/5/4/a/f/7/54af7b7a48578.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) R@tte e Sf@ndate
+http://cdn.videos.pornopizza.it/media/videos/5/7/a/8/b/57a8b58243474.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Le P@rcone Volanti
+http://cdn.videos.pornopizza.it/media/videos/5/7/3/a/f/573af2c3cc340.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Filomena M@rtusano
+http://cdn.videos.pornopizza.it/media/videos/5/7/8/a/5/578a53d649c3f.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Il Di@volo in C@nvento
+http://cdn.videos.pornopizza.it/media/videos/5/6/f/1/6/56f16772da365.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) C@lda pioggia di Sess@
+http://cdn.videos.pornopizza.it/media/videos/5/6/2/5/3/56253088b7670.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Le avventure Erotix di C@ppuccetto Ross@
+http://cdn.videos.pornopizza.it/media/videos/5/6/2/4/f/5624fb505edd6.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Pr@messi Sp@si
+http://cdn.videos.pornopizza.it/media/videos/5/6/2/3/e/5623e53b5500a.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) P@rno Classico Angelic@ Bell@
+http://cdn.videos.pornopizza.it/media/videos/5/6/2/3/8/56238a00f2fdd.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Cocco di p@p@'
+http://cdn.videos.pornopizza.it/media/videos/5/6/6/7/1/5667180f10c06.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) As paixões de uma Esposa safada
+http://media.tuboitaliano.it:81/videos/5/9/1/a/9/591a97ec61417.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (ONLINE) Young Girls Tube
+http://img3.younggirlstube.com/scj/thumbs/galleries/7/870/0_631.flv
+
