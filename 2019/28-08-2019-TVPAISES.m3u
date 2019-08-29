@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="CABLEAR-TV", CablearTV 28-08-2019
-https://image.winudf.com/v2/image1/Y29tLnNoYWthY29kZS5pcHR2Y2FibGVhcl9pY29uXzE1NTkxMjY5NDlfMDkw/icon.png?w=170&fakeurl=1
+https://www.youtube.com/watch?v=9gFr9ZtvG3I
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CABLEAR-TV", (ONLINE) Music Choice Play
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
