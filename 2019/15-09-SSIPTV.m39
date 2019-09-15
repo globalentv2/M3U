@@ -20,6 +20,394 @@
 #	En URL de la Base Logotipos de Canales: http://i.imgur.com/
 #
 #*****************************
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/las-estrellas/favicons/152x152.png" group-title="MEXICO", Las Estrellas
+http://51.77.246.215:25461/live/114/114/5221.m3u8
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/las-estrellas/favicons/152x152.png" group-title="MEXICO", Las Estrellas
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11213.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Imagen_TV_logo.png/200px-Imagen_TV_logo.png" group-title="MEXICO", Imagen Tv
+http://51.77.246.215:25461/live/114/114/40216.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Imagen_TV_logo.png/200px-Imagen_TV_logo.png" group-title="MEXICO", Imagen Tv
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11214.m3u8
+#EXTINF:-1 tvg-logo="https://image.freepik.com/psd-gratis/retro-tv-icono-psd_30-2308.jpg" group-title="MEXICO", CLASICOS ACS
+http://inliveserver.com:1935/8468/8468/chunklist_w1443004328.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-5-hd.gif" group-title="MEXICO", Canal 5 HD
+http://51.77.246.215:25461/live/114/114/1684.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-5-hd.gif" group-title="MEXICO", Canal 5 HD
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11244.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/azteca-7.gif" group-title="MEXICO", Azteca 7
+http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/azteca-7.gif" group-title="MEXICO", Azteca 7
+http://185.152.67.23:80/live/sdfghj/sdfghj/17158.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1014700120074416129/YCBrEdko_400x400.jpg" group-title="MEXICO", Canal Nu9ve
+http://51.77.246.215:25461/live/114/114/41236.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1014700120074416129/YCBrEdko_400x400.jpg" group-title="MEXICO", Canal Nu9ve
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11222.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="MEXICO", Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w2131787481_b1300000_slesp.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="MEXICO", Canal Once
+http://iptv.wtf:25461/live/arqxoxjd/ba6626FuzH/16826.m3u8
+#EXTINF:-1 tvg-logo="http://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg" group-title="MEXICO", Azteca Uno
+http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg" group-title="MEXICO", Azteca Uno
+http://51.77.246.215:25461/live/114/114/8717.m3u8
+#EXTINF:-1 tvg-logo="http://vertvgratis.us/wp-content/uploads/2017/08/CANAL-A.jpg" group-title="MEXICO", Azteca+ Plus
+http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
+#EXTINF:-1 tvg-logo="http://vertvgratis.us/wp-content/uploads/2017/08/CANAL-A.jpg" group-title="MEXICO", Azteca+ Plus
+http://live-aztecanoreste.kystream.com/h9ydbwnjcoe/p7UAKSv6AZ_low/index.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reOZL/d936c27d8a.png" group-title="MEXICO", Az Mundo
+http://51.77.246.215:25461/live/114/114/167805.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reKy9/756ca89d9b.png" group-title="MEXICO", Az Corazon
+http://51.77.246.215:25461/live/114/114/42113.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reKF3/42c6f26362.png" group-title="MEXICO", Az Clic
+http://51.77.246.215:25461/live/114/114/42146.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.expansion.mx/dims4/default/de126e6/2147483647/thumbnail/800x450%5E/quality/75/?url=https%3A%2F%2Fcdn.expansion.mx%2Fmedia%2F2015%2F09%2F28%2Fel-logo-del-canal-que-sumar-esfuerzo-de-televisiones-educativas-de-iberoamrica.jpg" group-title="MEXICO", Canal Iberoamericano
+http://200.57.164.179:1935/canaliberoamericano1/mp4:live.mp4/chunklist_w1287962499.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/media/CsMXThRUkAARDbk.jpg" group-title="MEXICO", Ciudad Tv 21.2
+http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://www.spr.gob.mx/img/ligas_interes/logo_canal_22.jpg" group-title="MEXICO", Canal 22
+http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8
+#EXTINF:-1 tvg-logo="http://oreox.net/images/logos-canales/101.png" group-title="MEXICO", TV MEXIQUENSE
+http://iptv.wtf:25461/live/arqxoxjd/ba6626FuzH/11211.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="MEXICO", MVS Tv
+http://thenew.tv:8000/live/pop/pop/78622.m3u8
+#EXTINF:-1 tvg-logo="http://nrtmexico.mx/site/images/sampledata/icetheme/slideshow/c4_slide_a.jpg" group-title="MEXICO", Canal 4 Monclova
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1014700120074416129/YCBrEdko_400x400.jpg" group-title="MEXICO", Televisa Piedras Negras
+https://www.youtube.com/watch?v=fUskKetacv8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1014700120074416129/YCBrEdko_400x400.jpg" group-title="MEXICO", Televisa Torreon
+https://www.youtube.com/watch?v=3blXGhDeJXU
+#EXTINF:-1 tvg-logo="http://www.rcgespectaculares.com.mx/images/rcg-logo-2014-288.png" group-title="MEXICO", RCG TV1
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.rcgespectaculares.com.mx/images/rcg-logo-2014-288.png" group-title="MEXICO", RCG TV2
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://is2.mzstatic.com/image/thumb/Purple71/v4/5d/2f/1c/5d2f1cb1-3a21-71ff-c10c-e27253ba13dc/source/1200x630bb.jpg" 
+group-title="MEXICO", 15TV Sabinas
+http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png" group-title="MEXICO",
+Multimedios CDMX
+http://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png" group-title="MEXICO",
+Multimedios Laguna
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png" group-title="MEXICO",
+Multimedios Monterrey 
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MEXICO", 17.1 C7 JALISCO
+http://streamingcws20.com:1935/c7noticias/videoc7noticias/chunklist_w2083906151.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MEXICO", 17.2 C7 JALISCO CULTURA
+http://streamingcws20.com:1935/c7cultura/videoc7cultura/chunklist_w1795618424.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MEXICO", CANAL 15 FRESNILLO
+http://live.zuperdns.net:1935/zuperhosting.live.grupob.canal15fresnillo/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MEXICO", CANAL 20 ZACATECAS
+http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/chunklist_w1017859043_b1428000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/943986668670894080/a3769um2_400x400.jpg" group-title="MEXICO", Canal 15 Zacatecas
+http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://amespre.org/wp-content/uploads/2016/02/imagen-Televisa-Monterrey-logo.jpg" group-title="MEXICO", Televisa Monterrey
+https://www.youtube.com/watch?v=HArAvplFjbg
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/Televisa_Regional_Logo.png" group-title="MEXICO", Televisa Matamoros
+https://www.youtube.com/watch?v=1SeNdy224ic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/Televisa_Regional_Logo.png" group-title="MEXICO", Televisa Juarez
+https://www.youtube.com/watch?v=KakxfS3i0WM
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1014700120074416129/YCBrEdko_400x400.jpg" group-title="MEXICO", Canal Nu9ve (Chihuahua)
+https://www.youtube.com/watch?v=S3LAs9OVxfM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/Televisa_Regional_Logo.png" group-title="MEXICO", Televisa Sonora
+https://www.youtube.com/watch?v=6Q7lASDgqOE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/Televisa_Regional_Logo.png" group-title="MEXICO", Televisa Sinaloa
+https://www.youtube.com/watch?v=VxkRRwvsGP0
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/783079051615281152/TPSrO5ff_400x400.jpg" group-title="MEXICO", XEWT 12 Tijuana  
+https://www.youtube.com/watch?v=usKuw5yitVs
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/XHBC_Mexicali.png" group-title="MEXICO", Canal 4 XHBC Mexicali
+https://www.youtube.com/watch?v=kpFMqRSq7ZU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Logo-XHILA-TDT.png/200px-Logo-XHILA-TDT.png" group-title="MEXICO", Canal 66 Mexicali
+http://51.77.246.215:25461/live/114/114/212776.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal4televisa.png" group-title="MEXICO", Televisa 4 Guadalajara
+https://www.youtube.com/watch?v=MvhNOVjNOMs
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/571122699986010112/VEV5tVR0_400x400.jpeg" group-title="MEXICO", Televisa Del Bajio Nacional
+https://www.youtube.com/watch?v=feWsqew-tXM
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1014700120074416129/YCBrEdko_400x400.jpg" group-title="MEXICO", Canal Nu9ve (EDOMEX)
+https://www.youtube.com/watch?v=Nr2-XgAgV80
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1014700120074416129/YCBrEdko_400x400.jpg" group-title="MEXICO", Canal Nu9ve (Acapulco)
+https://www.youtube.com/watch?v=eZBdwWLI2vA
+#EXTINF:-1 tvg-logo="http://telemarcampeche.com/wp-content/uploads/2017/05/logo-TELEMAR-big-110.png" group-title="MEXICO", Telemar Campeche
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_10806_7_36148.png" group-title="MEXICO", Trecevision Yucatán 
+http://streamingcws20.com:1935/trecevision/videotrecevision/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/2/2/4/2/224294/224294,640x360,b:2.jpg" group-title="MEXICO", Sipse TV Cancun
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/8846221_300x300.jpg" group-title="MEXICO", Canal 10 Chetumal 
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://noticaribe.com.mx/wp/wp-content/uploads/2017/02/sqcsnuevo_-400x400.png" group-title="MEXICO", SQCS Chetumal
+http://streamingcws20.com:1935/sqcs/videosqcs/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/06/Canal10-Chiapas-Logo-300x300.jpg" group-title="MEXICO", Canal 10 Chiapas
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist_w462891777.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYtgw2p2Rpkhly5JWQFyRpJdS_xDXstZ3jBiDIUCYUO_o3QI3y"  group-title="MEXICO", TV Tlaxcala
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-gewDA01TzUU/AAAAAAAAAAI/AAAAAAAAAAA/beMSFmP0Zvw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="MEXICO", TeleVer 
+https://www.youtube.com/watch?v=zQnn0LzkRKY
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/56/95/22/5695225e-b835-95e7-097e-2b8a24133729/source/392x696bb.jpg" group-title="MEXICO", Irapuato Tv
+http://streamingcws20.com:1935/irapuatotv/videoirapuatotv/chunklist_w1996003046_DVR.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MEXICO", TV HIDALGO
+http://189.204.60.62/hls-live/livepkgr/_definst_/liveevent/mylivestream3.m3u8
+#EXTINF:-1 tvg-logo="https://tvgratis.online/wp-content/uploads/2019/03/TMTV.png" group-title="MEXICO", TMTV
+http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1019608929729310721/_cG160gn.jpg" group-title="MEXICO", Televisa Puebla
+https://www.youtube.com/watch?v=dVzGuSmFK8o
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_canal-44_m.png" group-title="MEXICO", Cana 44 Puebla
+http://189.240.210.28:1935/envivo/puecom2019/chunklist_w223598040.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/4e/ce/4c/4ece4c0c-35ee-0011-2c77-0d39a2ba7c8d/pr_source.png/246x0w.png" group-title="MEXICO", Canal 4.1
+https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/chunklist_w481386766_b13128000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvcuatro.com/images/producciones/phpqW3swJ.jpg" group-title="MEXICO", Canal 4.2
+https://5ca3e84a76d30.streamlock.net/tv42/smil:tv42.smil/chunklist_w1657506489_b13128000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://ii.ct-stc.com/2/logos/empresas/2016/03/29/6cb2130990c748ada472thumbnail.png" group-title="MEXICO", Canal 6 (Michoacan) 
+http://streamingcws20.com:1935/canal6mich/videocanal6mich/chunklist_w848387750.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/734049037452644352/ECTXaL-p.jpg" group-title="MEXICO", Canal 7
+https://streams.helnix.com/autoHLS/887d2dc1c7812655/887d2dc1c7812655.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="MEXICO", Ultra TV Puebla
+https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="MEXICO", Ultra TV Aguascalientes
+https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/unicable.gif" group-title="Latinos", Unicable
+http://51.77.246.215:25461/live/114/114/8553.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/unicable.gif" group-title="Latinos", Unicable
+http://iptv.wtf:8080/live/arqxoxjd/ba6626FuzH/16812.m3u8
+#EXTINF:-1 tvg-logo="http://elpoderdelasideas.com/wp-content/uploads/unimas_logo_detail-550x605.gif" group-title="Latinos", Unimas
+http://51.77.246.215:25461/live/114/114/58528.m3u8
+#EXTINF:-1 tvg-logo="http://elpoderdelasideas.com/wp-content/uploads/unimas_logo_detail-550x605.gif" group-title="Latinos", Unimas
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11131.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="Latinos", Univision
+http://185.246.209.109:8080/UNIVISION/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="Latinos", Univision
+http://51.77.246.215:25461/live/114/114/58527.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="Latinos", Univision 
+http://iptv.wtf:8080/live/arqxoxjd/ba6626FuzH/17060.m3u8
+#EXTINF:-1 tvg-logo="http://rec-eph.gfrcdn.net/images/tnph3/295/379/0/0/295/379/2014/10/17/univision141017.jpg" group-title="Latinos", Univisión Puerto Rico
+http://144.217.69.93:25461/live/Maelo777/magie777/58998.m3u8
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/wp-content/uploads/2012/11/Galavision_3D.jpg" group-title="Latinos", GALAVISION
+http://51.77.246.215:25461/live/114/114/41236.m3u8
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/wp-content/uploads/2012/11/Galavision_3D.jpg" group-title="Latinos", GALAVISION
+http://xse.jfglno.com:23618/live/cyx-ON3Lw0MMCrlQV0GOp1XbI4uEDAB1.ts
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/telemundo.gif" group-title="Latinos", TELEMUNDO
+http://ktmdlive-lh.akamaihd.net/i/KTMD_LIVE1@183610/master.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/telemundo.gif" group-title="Latinos", TELEMUNDO
+https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/telemundo.gif" group-title="Latinos", TELEMUNDO
+http://51.77.246.215:25461/live/114/114/61835.m3u8
+#EXTINF:-1 tvg-logo="http://t3mexico.mx/team/wp-content/uploads/2017/04/estrella-tv-logo-695x463.png" group-title="Latinos", ESTRELLA TV
+http://144.217.69.93:25461/live/Maelo777/magie777/58937.m3u8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Na97VWhc-QE/U9bmoF5w3VI/AAAAAAAAtPU/5MFPr-OHcIQ/s1600/Telemundo.PNG" group-title="Latinos", TELEMUNDO PR
+http://144.217.69.93:25461/live/Maelo777/magie777/58991.m3u8
+#EXTINF:-1 tvg-logo="http://tvbtn.files.wordpress.com/2015/02/nbc-universo-logo.jpg?w=1100" group-title="Latinos", NBC Universo
+http://144.217.69.93:25461/live/Maelo777/magie777/58319.m3u8
+#EXTINF:-1 tvg-logo="http://tvbtn.files.wordpress.com/2015/02/nbc-universo-logo.jpg?w=1100" group-title="Latinos", NBC Universo
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11093.m3u8
+#EXTINF:-1 tvg-logo="http://photos.prNEWSwire.com/prnvar/20120316/CL71752LOGO" group-title="Latinos", Mega TV
+http://144.217.69.93:25461/live/Maelo777/magie777/58999.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Am%C3%A9rica_Tev%C3%A9_Logo.png" group-title="Latinos", AmericaTeve MIAMI
+http://api.new.livestream.com/accounts/5730046/events/2966225/live.m3u8
+#EXTINF:-1 tvg-logo="http://telecalasparra.com/wp-content/uploads/2016/09/tlnovelas-logo.png" group-title="Latinos", TL Novelas
+http://51.77.246.215:25461/live/114/114/40569.m3u8
+#EXTINF:-1 tvg-logo="http://telecalasparra.com/wp-content/uploads/2016/09/tlnovelas-logo.png" group-title="Latinos", TL Novelas
+http://iptv.wtf:25461/live/arqxoxjd/ba6626FuzH/17032.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-f2Bs9iD3FqE/Vr_1tv9AjYI/AAAAAAAAzjw/uqjSpCsbbfg/s1600/univision-tlnovelas-logo.jpg" group-title="Latinos", Univision Tlnovelas
+http://51.77.246.215:25461/live/114/114/43504.m3u8
+#EXTINF:-1 tvg-logo="http://www.thedailytelevision.com/sites/default/files/notas/imagenes/pasiones_logo_big_grandefinal.jpg" group-title="Latinos", Pasiones
+http://144.217.69.93:25461/live/Maelo777/magie777/58892.m3u8
+#EXTINF:-1 tvg-logo="http://www.thedailytelevision.com/sites/default/files/notas/imagenes/pasiones_logo_big_grandefinal.jpg" group-title="Latinos", Pasiones
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/14011.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-ZUOM6xBxUMw/AAAAAAAAAAI/AAAAAAAAAAA/_-I8vEkAWXw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Latinos", RCN Novelas
+http://iptv.wtf:25461/live/arqxoxjd/ba6626FuzH/16494.m3u8
+#EXTINF:-1 tvg-logo="http://plan.org.ec/wp-content/uploads/2017/02/Logo_0.png" group-title="Latinos", TC Mi Canal
+https://elcanaldelfutbol.com/static/wowza/test/hls/10001/360p/playlist.m3u8?360
+#EXTINF:-1 tvg-logo="https://yiptv.com/live-tv/wp-content/uploads/2015/06/VE-plus-400x400-logos.png" group-title="Latinos", VePlus Tv
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/13006.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/1.png" group-title="Latinos", Glitz
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16821.m3u8
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/bc/500px-WAPA-TV_logo_2007_TAG_spot_svg.png" group-title="Latinos", Wapa
+http://144.217.69.93:25461/live/Maelo777/magie777/58994.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-TV9bFojvv3w/V1YUoSQ6aHI/AAAAAAAA0xk/fgz13awlu1Ull6Ad3qPVDYNp1gRHZYCkACLcB/s1600/WIPR%2BTV.PNG" 
+group-title="Latinos", WIPR
+http://api.new.livestream.com/accounts/16550960/events/8077197/live.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfHFI46D0L9hJlebcoAJlt4e0hslTxJ5I1CK1g=s900-mo-c-c0xffffffff-rj-k-no" group-title="Latinos", ULTRA LUNA 
+http://144.217.69.93:25461/live/Maelo777/magie777/62160.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.assets3.olympusat.com/wp-content/uploads/UltraMacho_NLogo.png"  group-title="Latinos", ULTRA MACHO 
+http://144.217.69.93:25461/live/Maelo777/magie777/62159.m3u8
+#EXTINF:-1 tvg-logo="http://panamajazzfestival.com/wp-content/uploads/2015/11/nextv.png" group-title="Latinos",  NEX TV
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nvqIf/75fd708f8a.png" group-title="Latinos", RPC
+http://disfruta.net:8000/live/1908veopag/E8W7VelVZN/4008.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nvqHL/e383619f72.png" group-title="Latinos", Telemetro
+http://disfruta.net:8000/live/1908veopag/E8W7VelVZN/4013.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/816180573697875968/u5PPDISI.jpg" group-title="Latinos", TV MAX
+http://disfruta.net:8000/live/1908veopag/E8W7VelVZN/4010.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVN_HD_Chile.png" group-title="Latinos", TVN Panama
+http://disfruta.net:8000/live/1908veopag/E8W7VelVZN/4014.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-oWwq4sz7xi8/AAAAAAAAAAI/AAAAAAAAAAA/EVeSO1aMco8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Latinos", Canal Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/tvazteca.png" group-title="Latinos", AZ GUATEMALA
+http://aztecalive-lh.akamaihd.net/i/0j674ifgl_1@500584/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/televicentro-canal-2-nicaragua-logo-82E5DB9EC0-seeklogo.com.png" group-title="Latinos", Canal 2 Nicaragua
+http://138.117.4.70:8079/streams/d/Canal-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://nuevaya.com.ni/wp-content/uploads/2015/03/canal-4.jpg" group-title="Latinos", Canal 4 Nicaragua
+http://138.117.4.70:8079/streams/d/Canal-4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Pagina_de_canal.jpg" group-title="Latinos", Canal 6 Nicaragua
+http://138.117.4.70:8079/streams/d/Canal-6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tn8.tv/media/cache/ef/86/ef865dae4f5bda2d27a01dd320b8a045.jpg" group-title="Latinos", Canal 8 Nicaragua
+http://138.117.4.70:8079/streams/d/Canal-8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1012028349915582471/VpWbkCcn_400x400.jpg" group-title="Latinos", Canal 9 Nicaragua
+http://138.117.4.70:8079/streams/d/Canal-9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nicavision-canal-12-logo-B92DA2E4B4-seeklogo.com.png" group-title="Latinos", Canal 12 Nicaragua
+http://138.117.4.70:8079/streams/d/Canal-12/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Logo_Viva_Nicaragua_Canal_13.png" group-title="Latinos", Canal 13 Nicaragua
+http://138.117.4.70:8079/streams/d/Canal-13/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://imgur.com/SVFUP73.jpeg" group-title="Latinos", AZ HONDURAS
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://www.tencanal10.tv/wp-content/uploads/2017/08/ThumbnailTEN1.jpg" group-title="Latinos", TEN Honduras
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Canal_5_%28Honduras%29.png" group-title="Latinos", 5 El Lider
+https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TSi_Honduras.png" group-title="Latinos", TSi
+https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png" group-title="Latinos", Multimedios Costa Rica
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-k5QO6YHdanw/AAAAAAAAAAI/AAAAAAAAAAA/UTcqO9gj0z0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Latinos", CANAL 52 Ticavision (Costa Rica)
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.unored.tv/wp-content/uploads/2015/08/Extrema-TV-logo.jpg" group-title="Latinos", Extrema TV(Costa Rica) 
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YqW3o4z.png" group-title="Latinos", TV Sur 14 (Costa Rica) 
+http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/36SGwRc_3fk/0.jpg" group-title="Latinos", TeleRed
+http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3663601877/9f46b5977e2c9d2e370e46d686a95ef7_400x400.jpeg" group-title="Latinos", BHTV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.ptvtelecom.com/ficheros/imagennoticia332_0.jpg" group-title="Latinos", CUBAVISION
+http://iptv.wtf:25461/live/arqxoxjd/ba6626FuzH/13094.m3u8
+#EXTINF:-1 tvg-logo="http://www.cubaheadlines.com/sites/default/files/cubahl_oldimages/multivision-logo1.jpg" group-title="Latinos", MULTIVISION
+http://iptv.wtf:25461/live/arqxoxjd/ba6626FuzH/13090.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-SjHk5gt2MQc/TWDwSqtDENI/AAAAAAAACjA/DYoOlAEqzRk/s1600/tvmarti.jpg" group-title="Latinos", TV MARTÍ (Cuba)
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/47/8d/55/478d558e-fcb9-743d-9552-df9e47dad1ee/source/512x512bb.jpg" group-title="Latinos", Acento Tv
+http://acentotv01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.logo_borealTV.png.670436e2072d13a97442d954c3c8a45e.png" group-title="Latinos", BOREAL Television
+https://5b38ce71f1f00.streamlock.net/8180/8180/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2014/02/lunatv-1.jpg" group-title="Latinos", Luna Tv
+http://ss1.domint.net:2140/luna_str/lunatv/chunklist_w1219551061.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/938438643521392647/7m9Lmsjs_400x400.jpg" group-title="Latinos", Teleuniverso
+http://ss1.domint.net:2302/tu_str/universo/chunklist_w197342393.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/571325118678331392/90JKEFvQ.jpeg" group-title="Latinos", GH TV
+http://ss6.domint.net:2046/gh_str/tv10/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg" group-title="Latinos", HMTV 33
+http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/tv-recuerdos-56-300x169.jpg" group-title="Latinos", CANAL 56
+http://media.az-streamingserver.com:1935/7230/7230/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.elmasacre.com/fotos/articulos/2018-07-02_8WM56MJr_400x400.jpg" group-title="Latinos", LINIEROS Tv
+http://cm.hostlagarto.com:8081/LinierosTV/linieros.myStream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/899038610392981504/d5aPzZ3K_400x400.jpg" group-title="Latinos", MEGAVISION
+http://stream3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://grupomedrano.com.do/wp-content/uploads/2014/09/Microvision-Canal-101.jpg" group-title="Latinos", MICROvision 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000306126615-ce2quc-t500x500.jpg" group-title="Latinos", Morro Tv
+http://cm.hostlagarto.com:8081/morrotv/Morrotv.myStream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-4z0vpcQN4cM/WJfPZVIRX8I/AAAAAAAADO8/V8hxQ4oUkBwr9nkHcTHkFmF6vOUf2AoCQCLcB/s1600/Ready%2BTV%2BCanal%2B6.png" group-title="Latinos", READY TV
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://dominicanchannels.net/wp-content/uploads/2014/09/telecanal12.jpg" group-title="Latinos", TELE 12
+https://59f2354c05961.streamlock.net:1443/tele12/_definst_/tele12/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://telecanal28.net/wp-content/uploads/2019/03/cropped-logo-tl28.png" group-title="Latinos", Telecanal 28
+http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telemilenio.jpg" group-title="Latinos", TL MILENIO
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/Tv-Plata.jpg" group-title="Latinos", TV PLATA
+http://ss6.domint.net:2104/tvp_str/tvplata/chunklist_w780794720.m3u8
+#EXTINF:-1 tvg-logo="http://tvonline.com.do/images/sobipro/entries/24/img_romana-tv-canal-42.jpg" group-title="Latinos", ROMANA TV
+http://tv.romanatv42.com/hls/live.m3u8
+#EXTINF:-1 tvg-logo="http://www.vallevision.com.do/images/vallevision.png" group-title="Latinos", VALLEVISION
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
+#EXTINF:-1 tvg-logo="http://blixtv.com/wp-content/uploads/2015/03/ecuavisa.jpg" group-title="Latinos", Ecuavisa
+http://elcanaldelfutbol.com/static/wowza/test/hls/20001/480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="Latinos", Teleamazonas
+http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
+#EXTINF:-1 tvg-logo="http://elpilon.com.co/wp-content/uploads/2017/08/canal-uno.jpg" group-title="Latinos", Canal Uno
+http://iptv.wtf:25461/live/arqxoxjd/ba6626FuzH/12239.m3u8
+#EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/caracol.png" group-title="Latinos", Caracol
+http://disfruta.net:8000/live/1908veopag/E8W7VelVZN/236.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Citytv_HD_logo.svg" group-title="Latinos", City Tv
+http://disfruta.net:8000/live/1908veopag/E8W7VelVZN/12478.m3u8
+#EXTINF:-1 tvg-logo="http://neivasocial.ucoz.net/img_2/rcn.png" group-title="Latinos", RCN Colombia
+http://disfruta.net:8000/live/1908veopag/E8W7VelVZN/20272.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Telecafe2017.png" group-title="Latinos", Telecafe
+http://disfruta.net:8000/live/1908veopag/E8W7VelVZN/12472.m3u8
+#EXTINF:-1 tvg-logo="http://www.gmkfreelogos.com/logos/T/img/Telepacifico.gif" group-title="Latinos", Telepacifico 
+http://disfruta.net:8000/live/1908veopag/E8W7VelVZN/12471.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/961008464934899712/yaKoOZ-l_400x400.jpg" group-title="Latinos", NIU Media TV
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/claro.jpg" group-title="Latinos", Canal Claro
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/51/LogoMega2015.png" group-title="Latinos", Megavision
+http://disfruta.net:8000/live/1908veopag/E8W7VelVZN/7445.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVChile_logo_2016.png" group-title="Latinos", TV Chile
+http://disfruta.net:8000/live/1908veopag/E8W7VelVZN/104.m3u8
+#EXTINF:-1 tvg-logo="http://www.observatoriofucatel.cl/wp-content/uploads/2010/12/logo-chilevision-300x300.jpg" group-title="Latinos", Chilevision
+http://disfruta.net:8000/live/1908veopag/E8W7VelVZN/7483.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/bHNsj7/Captura_de_pantalla_22.png" group-title="Latinos", FMHOT HD
+http://iptv.wtf:8080/live/arqxoxjd/ba6626FuzH/4479.m3u8
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/58b9cf114f976_RedMsHD.png.e1b38a940b0d63fefca30a77481c3fc6.png" group-title="Latinos", RED
+http://disfruta.net:8000/live/1908veopag/E8W7VelVZN/108.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-zZ1mqD-N3D0/AAAAAAAAAAI/AAAAAAAAAAA/aQXLTyHZhTE/s288-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Latinos", Canal 3 (Argentina)
+http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.canal4jujuy.com.ar/img/logo.jpg" group-title="Latinos",Canal 4 Jujuy
+http://iptv.wtf:8080/live/arqxoxjd/ba6626FuzH/14739.m3u8
+#EXTINF:-1 tvg-logo="http://www.canal9comodoro.com/images/logo.png" group-title="Latinos", Canal 4 Esquel
+http://iptv.wtf:8080/live/arqxoxjd/ba6626FuzH/14740.m3u8
+#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/12/elnuevenuevo.jpg" group-title="Latinos", El Nueve
+http://iptv.wtf:8080/live/arqxoxjd/ba6626FuzH/13318.m3u8
+#EXTINF:-1 tvg-logo="http://cableaudiovision.com.ar/grilla-web/canales/mvnueve.png" group-title="Latinos", Canal 9 Multivision
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/553578456013746176/ZiuKif1w.png" group-title="Latinos", El 13
+http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
+#EXTINF:-1 tvg-logo="https://k60.kn3.net/2/6/6/8/2/8/B0E.png" group-title="Latinos", Tv Publica 
+http://iptv.wtf:8080/live/arqxoxjd/ba6626FuzH/13309.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-60_56ArPKk0/VnSe7Oq438I/AAAAAAAAAd4/MrX0f9s5KhQ/s1600/telefe-hd-2012.png" group-title="Latinos", TELEFE 
+http://iptv.wtf:8080/live/arqxoxjd/ba6626FuzH/13311.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jsnI65B.png" group-title="Latinos", Telpin Teven 
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2016/08/logo-de-tves.jpg" group-title="Latinos", TLT La Tele Tuya
+http://disfruta.net:8000/live/1908veopag/E8W7VelVZN/271.m3u8
+#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/-EUCjF4Ff5V4/UYURXfRHd4I/AAAAAAAAB4I/_ceVk-yAxuI/s288/logo%2520de%2520TVO%25202011-actual%2520v2.png" 
+group-title="Latinos", TVO
+http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Latinos", TVEPACO VENEZUELA
+http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/chunklist_w2073389661.m3u8
+#EXTINF:-1 tvg-logo="http://www.venevision.com/sites/default/files/imagecache/600x400_despliegue/logo_venevision_0.jpg" group-title="Latinos", Venevision
+http://iptv.wtf:8080/live/arqxoxjd/ba6626FuzH/13007.m3u8
+#EXTINF:-1 tvg-logo="http://www.elvenezolano.tv/wp-content/themes/elvenezolanotv-theme/images/logo.png" group-title="Latinos", EL VENEZOLANO TV 
+http://iptv.wtf:8080/live/arqxoxjd/ba6626FuzH/13009.m3u8
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/mediatv.png" group-title="Latinos", TU MEJOR TELEVISION 
+http://iptv.wtf:8080/live/arqxoxjd/ba6626FuzH/13011.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8c/PTV_Paraguay.png/revision/latest?cb=20171021194904" Television del Este
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lapatilla.com/site/wp-content/uploads/2014/10/TVes-logo.x70825.jpg" group-title="Latinos", TvES
+http://iptv.wtf:8080/live/arqxoxjd/ba6626FuzH/13008.m3u8
+#EXTINF:-1 tvg-logo="http://www.dazplayer.com/img_chh/canal_m.png" group-title="Latinos", Canal M
+http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.livetvcentral.com/imgs/imgs/3699.jpg" group-title="Latinos", Intercable 
+http://201.217.3.212/TV/intercable/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/AlUK3kT2VNq7-QVHj6ev0BwEsj8gM4cYgqbmSJZKi-KQxoSCualdChk4wwprBADu2Ho=w300" group-title="Latinos", Latina TV
+http://iptv.wtf:8080/live/arqxoxjd/ba6626FuzH/16792.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dv979fQ.png" group-title="Latinos", Panamericana TV 
+http://iptv.wtf:8080/live/arqxoxjd/ba6626FuzH/16789.m3u8
+#EXTINF:-1 tvg-logo="http://sin-tele.com/wp-content/uploads/2011/01/activa-tv-300-144x144.png" group-title="Latinos", Activa Tv
+http://iptv.wtf:8080/live/arqxoxjd/ba6626FuzH/16798.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/ATB.png" group-title="Latinos", ATB Tv
+http://186.121.206.197/live/daniel/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.elchaco.info/wp-content/uploads/2017/06/bolivia-tv.jpg" group-title="Latinos", Bolivia TV
+http://disfruta.net:8000/live/1908veopag/E8W7VelVZN/4256.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/ebo-tv-empresa-boliviana-de-television-logo-CCAE762A8E-seeklogo.com.png" group-title="Latinos", EBO TV
+http://v3.ciclano.io:1935/ebotv/ebotv/chunklist_w1881195296.m3u8
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/2414323/logo_mega%20tv.png" group-title="Latinos", MEGA TV PERU
+http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://viasatelital.com/buscador/wp-content/uploads/2018/06/Tv-Peru-en-vivo-por-internet-300x200.jpg" group-title="Latinos", PERU TV
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reHTY/cd49899b1c.png" group-title="Latinos", Willax TV
+http://api.new.livestream.com/accounts/26619010/events/7987650/live.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/IOfmiyP.png" group-title="Canales Chilenos", LA RED (x)
 https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone
