@@ -1,4 +1,10 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", CABLEAR TV ES
+https://raw.githubusercontent.com/freearhey/iptv/master/channels/es.m3u
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", CABLEAR TV CL
+https://raw.githubusercontent.com/freearhey/iptv/master/channels/cl.m3u
 
 
 #EXTINF:-1 group-title="FILMES",101 DALMATIONS
