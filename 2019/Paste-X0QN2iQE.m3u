@@ -4,9 +4,7 @@
 #######################################################
 #####
 #######################################################
-#EXTM3U 
-#EXTINF:-1 ,[COLOR yellow]CARLOSTECNOMAN YOUTUBE 230218b[/COLOR]
-https://lh3.googleusercontent.com/-bieqqvLsia0/WPnBSe26NbI/AAAAAAAAADg/9HShsg29EyUZvHZOvlQAUfNKa-4bFzFhQCEwYBhgL/w140-h78-p/yo.jpg
+
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-logo="https://i3.radionomy.com/radios/400/48a8df4c-f063-4b46-8e1b-b5a1e65ed446.jpg" group-title= "MUSICA", Virgin TV music SNAKE
 http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
 #EXTINF:0 type="stream" channelId="2920" tvg-logo="http://www.djing.com/img/facebook.png" group-title= "MUSICA", DJING CLASSIC HD SNAKE
