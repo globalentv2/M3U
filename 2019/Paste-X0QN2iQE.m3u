@@ -5,63 +5,6 @@
 #EXTINF:-1 group-title= "LISTA 2016-2018",  LISTA UPDATED 2016 -2018
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 
-
-#EXTINF:-1,TOROS TV
-http://188.165.13.95:8080/26/index.m3u8
-#EXTINF:-1,NOVA
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8
-#EXTINF:-1,MEGA
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
-#EXTINF:-1,MEZZO
-http://188.165.13.95:8080/111/index.m3u8
-#EXTINF:-1,TV GALICIA
-http://europa-crtvg.flumotion.com/crtvg/europa/playlist.m3u8
-
-#EXTINF:-1,Golf
-http://185.231.160.49/601/1/index.m3u8
-
-#EXTINF:-1,COSMO HD
-http://185.231.160.49/602/1/index.m3u8
-
-#EXTINF:-1,MOVISTAR Series Xtra
-http://185.231.160.49/600/1/index.m3u8
-
-#EXTINF:-1,COMEDY HD
-http://185.231.160.49/604/1/index.m3u8
-
-#EXTINF:-1,COMEDY CENTRAL HD
-http://185.231.160.49/605/1/index.m3u8
-
-#EXTINF:-1,Bein sport
-http://185.231.160.49/607/1/index.m3u8
-
-#EXTINF:-1,HOLLYWOOD HD
-http://185.231.160.49/610/1/index.m3u8
-
-#EXTINF:-1,HOLLYWOOD HD
-http://185.231.160.49/611/1/index.m3u8
-
-#EXTINF:-1,AXN HD
-http://185.231.160.49/612/1/index.m3u8
-
-#EXTINF:-1,MOVISTAR Comedia
-http://185.231.160.49/613/1/index.m3u8
-
-#EXTINF:-1,Moto GP
-http://185.231.160.49/652/1/index.m3u8
-
-#EXTINF:-1,Formula 1
-http://185.231.160.49/651/1/index.m3u8
-
-#EXTINF:-1,amc
-http://185.231.160.49/653/1/index.m3u8
-
-#EXTINF:-1,FOX LIFE
-http://185.231.160.49/599/1/index.m3u8
-
-#EXTINF:-1,laligatv
-http://185.231.160.49/614/1/index.m3u8
-
 #EXTINF:-1,La 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 
