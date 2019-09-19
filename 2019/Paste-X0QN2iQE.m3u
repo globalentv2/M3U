@@ -1,8 +1,8 @@
 #EXTM3U 
 
-#EXTNF:0, LISTA UPDATED 2016 -2018
+
 #######################################################
-#####
+#####   LISTA UPDATED 2016 -2018
 #######################################################
 
 #EXTINF:-1 tvg-id="Exabyte TV " tvg-logo="https://i3.radionomy.com/radios/400/48a8df4c-f063-4b46-8e1b-b5a1e65ed446.jpg" group-title= "MUSICA", Virgin TV music SNAKE
@@ -5948,8 +5948,10 @@ http://tsfdirecto.tsf.pt/tsfdirecto.mp3
 
 
 #######################################################
-##### EDICION 2019
+#################### EDICION 2019  ####################
 #######################################################
+
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",Costa Rica | Teleuno
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",DEP | CDO BASICO
