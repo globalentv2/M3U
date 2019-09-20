@@ -120,44 +120,7 @@ http://a3live-lh.akamaihd.net:80/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8
 #EXTINF:-1,REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
-#EXTINF:-1,IBERALIA<<<
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/603/index.m3u8
 
-#EXTINF:-1,TOROS TV
-http://188.165.13.95:8080/26/index.m3u8
-
-#EXTINF:-1,NOVA
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8
-
-#EXTINF:-1,MEGA
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
-
-#EXTINF:-1,MEZZO
-http://188.165.13.95:8080/111/index.m3u8
-
-#EXTINF:-1,TV GALICIA
-http://europa-crtvg.flumotion.com/crtvg/europa/playlist.m3u8
-
-#EXTINF:-1,BBC WORLD NEWS
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-
-#EXTINF:-1,FOX NEWS
-http://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/index_300_av-b.m3u8
-
-#EXTINF:-1,FRANCE 24 EN
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-
-#EXTINF:-1,RUSSIA TODAY ESPAÑOL
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/211/index.m3u8
-
-#EXTINF:-1,TV5 MONDE
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-
-#EXTINF:-1,BLOOMBERG
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-
-#EXTINF:-1,DW LATINO
-http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 
 #EXTINF:-1,LAS ESTRELLAS
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
@@ -400,14 +363,6 @@ http://cdn-g.bonus-tv.ru:80/tnv/tracks-v1a1/index.m3u8
 #EXTINF:-1,Tochka TV (Opt-1)
 http://serv24.vintera.tv:8081/tochka/tochkatv/playlist.m3u8
 
-#EXTINF:-1,Today
-http://i.imgur.com/BTiGp2B.png?tecnotv",Today
-
-#EXTINF:-1,Toddler
-http://i.imgur.com/BTiGp2B.png?tecnotv",Toddler
-
-#EXTINF:-1,Toddler Tunes
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC144/chunklist.m3u8
 
 #EXTINF:-1,Todo Deportes
 http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8?iptvgratis?chile.m3u8
@@ -463,44 +418,6 @@ http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
 #EXTINF:-1,Trentino TV (Opt-2)
 http://77.72.196.214:8554/live/TrentinoSAT/livestream.m3u8
 
-#EXTINF:-1,TRM h24
-http://flash.streamingmedia.it:1935/TRM/livestream/live.m3u8
-
-#EXTINF:-1,TRO Soyuz
-http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-
-#EXTINF:-1,Tropicales
-http://i.imgur.com/BTiGp2B.png?tecnotv",Tropicales
-
-#EXTINF:-1,TRT
-http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-
-#EXTINF:-1,TRT 1
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-
-#EXTINF:-1,TRT Avaz
-http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
-
-#EXTINF:-1,TRT Cocuk
-http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-
-#EXTINF:-1,TRT Haber
-http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
-
-#EXTINF:-1,TRT Kurdi
-http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
-
-#EXTINF:-1,TRT Muzik
-http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-
-#EXTINF:-1,TRT Okul
-http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
-
-#EXTINF:-1,TRT Turk
-http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
-
-#EXTINF:-1,TRT World
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
 #EXTINF:-1,TruTV
 http://freeiptv.apisecurers.com/canal_73_trutv.m3u8
@@ -1207,80 +1124,6 @@ http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
 #EXTINF:-1,XTREMOVISION
 http://extremo01.streamprolive.com/hls/live.m3u8
 
-#EXTINF:-1,XXX AdultosVOD3D-1+18 3D
-http://galleries.3dcatchyfetish.com/tube/001/trailer.f4v
-
-#EXTINF:-1,XXX AdultosVOD3D-10+18 3D
-http://galleries.3Dcatchyfetish.com/tube/010/trailer.f4v
-
-#EXTINF:-1,XXX-Babes 19 TECNO-WILL
-http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4/
-
-#EXTINF:-1,XXX-Babes 2
-http://anysex.com/get_file/1/fbb2fa94aaba78f34860bbaad1e245c2/202000/202080/202080.mp4/
-
-#EXTINF:-1,XXX-Babes 3
-http://anysex.com/get_file/1/7f1ab8fb692cdd03eceaa260c957393b/200000/200149/200149.mp4/
-
-#EXTINF:-1,XXX-Babes 4
-http://anysex.com/get_file/1/99441daeb374ea78124532d200b98c9d/204000/204522/204522.mp4/
-
-#EXTINF:-1,XXX-Babes 5
-http://anysex.com/get_file/1/96383cc05aedc07402e7b2dea40e505c/186000/186265/186265.mp4/
-
-#EXTINF:-1,XXX-Babes 6
-http://anysex.com/get_file/1/0dd12485608c09bc44a29b52b2f027cc/184000/184508/184508.mp4/
-
-#EXTINF:-1,XXX-Babes 7
-http://anysex.com/get_file/1/1d759b669f1a44309556024be91f9923/193000/193615/193615.mp4/
-
-#EXTINF:-1,XXX-Babes 8
-http://anysex.com/get_file/1/f3846b9c434f29d8bc9e6124122b9399/193000/193742/193742.mp4/
-
-#EXTINF:-1,XXXVOD3D-11+18 3D
-http://galleries.3Dcatchyfetish.com/tube/011/trailer.f4v
-
-#EXTINF:-1,XXXVOD3D-13+18 3D
-http://galleries.3Dcatchyfetish.com/tube/013/trailer.f4v
-
-#EXTINF:-1,XXXVOD3D-15+18 3D
-http://galleries.3Dcatchyfetish.com/tube/015/trailer.f4v
-
-#EXTINF:-1,XXXVOD3D-16+18 3D TECNO-WILL
-http://galleries.3Dcatchyfetish.com/tube/016/trailer.f4v
-
-#EXTINF:-1,XXXVOD3D-20+18 3D
-http://galleries.3Dcatchyfetish.com/tube/020/trailer.f4v
-
-#EXTINF:-1,XXXVOD3D-21+18 3D
-http://galleries.3Dcatchyfetish.com/tube/021/trailer.f4v
-
-#EXTINF:-1,XXXVOD3D-25+18 3D
-http://galleries.3Dcatchyfetish.com/tube/025/trailer.f4v
-
-#EXTINF:-1,XXXVOD3D-26+18 3D
-http://galleries.3Dcatchyfetish.com/tube/026/trailer.f4v
-
-#EXTINF:-1,XXXVOD3D-3+18 3D
-http://galleries.3dcatchyfetish.com/tube/003/trailer.f4v
-
-#EXTINF:-1,XXXVOD3D-4+18 3D
-http://galleries.3dcatchyfetish.com/tube/004/trailer.f4v
-
-#EXTINF:-1,XXXVOD3D-5+18 3D
-http://galleries.3Dcatchyfetish.com/tube/005/trailer.f4v
-
-#EXTINF:-1,XXXVOD3D-6+18 3D
-http://galleries.3Dcatchyfetish.com/tube/006/trailer.f4v
-
-#EXTINF:-1,XXXVOD3D-7+18 3D
-http://galleries.3Dcatchyfetish.com/tube/007/trailer.f4v
-
-#EXTINF:-1,XXXVOD3D-8+18 3D
-http://galleries.3Dcatchyfetish.com/tube/008/trailer.f4v
-
-#EXTINF:-1,XXXVOD3D-9+18 3D
-http://galleries.3Dcatchyfetish.com/tube/009/trailer.f4v
 
 #EXTINF:-1,Y2K
 http://i.imgur.com/BTiGp2B.png?tecnotv",Y2K
@@ -2112,11 +1955,89 @@ http://wow01.105.net:1935/live/rmc1/livestream.m3u8
 
 
 
+#EXTINF:-1 group-title="EDICION 2019", SET IPTV
+https://www.youtube.com/watch?v=9bmVnFIwoI4
+#EXTINF:-1 group-title="EDICION 2019", EDICION 2019 (1)
+https://www.youtube.com/watch?v=sri3tvmNeok
+#EXTINF:-1 group-title="EDICION 2019", EDICION 2019
+https://www.youtube.com/watch?v=jYlhivdmREc
 
-#######################################################
-#################### EDICION 2019  ####################
-#######################################################
 
+
+#EXTINF:-1 group-title="ADULTOS", XXX AdultosVOD3D-1+18 3D
+http://galleries.3dcatchyfetish.com/tube/001/trailer.f4v
+
+#EXTINF:-1 group-title="ADULTOS", XXX AdultosVOD3D-10+18 3D
+http://galleries.3Dcatchyfetish.com/tube/010/trailer.f4v
+
+#EXTINF:-1 group-title="ADULTOS", XXX-Babes 19 TECNO-WILL
+http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4/
+
+#EXTINF:-1 group-title="ADULTOS", XXX-Babes 2
+http://anysex.com/get_file/1/fbb2fa94aaba78f34860bbaad1e245c2/202000/202080/202080.mp4/
+
+#EXTINF:-1 group-title="ADULTOS", XXX-Babes 3
+http://anysex.com/get_file/1/7f1ab8fb692cdd03eceaa260c957393b/200000/200149/200149.mp4/
+
+#EXTINF:-1 group-title="ADULTOS", XXX-Babes 4
+http://anysex.com/get_file/1/99441daeb374ea78124532d200b98c9d/204000/204522/204522.mp4/
+
+#EXTINF:-1 group-title="ADULTOS", XXX-Babes 5
+http://anysex.com/get_file/1/96383cc05aedc07402e7b2dea40e505c/186000/186265/186265.mp4/
+
+#EXTINF:-1 group-title="ADULTOS", XXX-Babes 6
+http://anysex.com/get_file/1/0dd12485608c09bc44a29b52b2f027cc/184000/184508/184508.mp4/
+
+#EXTINF:-1 group-title="ADULTOS", XXX-Babes 7
+http://anysex.com/get_file/1/1d759b669f1a44309556024be91f9923/193000/193615/193615.mp4/
+
+#EXTINF:-1 group-title="ADULTOS", XXX-Babes 8
+http://anysex.com/get_file/1/f3846b9c434f29d8bc9e6124122b9399/193000/193742/193742.mp4/
+
+#EXTINF:-1 group-title="ADULTOS", XXXVOD3D-11+18 3D
+http://galleries.3Dcatchyfetish.com/tube/011/trailer.f4v
+
+#EXTINF:-1 group-title="ADULTOS", XXXVOD3D-13+18 3D
+http://galleries.3Dcatchyfetish.com/tube/013/trailer.f4v
+
+#EXTINF:-1 group-title="ADULTOS", XXXVOD3D-15+18 3D
+http://galleries.3Dcatchyfetish.com/tube/015/trailer.f4v
+
+#EXTINF:-1 group-title="ADULTOS", XXXVOD3D-16+18 3D TECNO-WILL
+http://galleries.3Dcatchyfetish.com/tube/016/trailer.f4v
+
+#EXTINF:-1 group-title="ADULTOS", XXXVOD3D-20+18 3D
+http://galleries.3Dcatchyfetish.com/tube/020/trailer.f4v
+
+#EXTINF:-1 group-title="ADULTOS", XXXVOD3D-21+18 3D
+http://galleries.3Dcatchyfetish.com/tube/021/trailer.f4v
+
+#EXTINF:-1 group-title="ADULTOS", XXXVOD3D-25+18 3D
+http://galleries.3Dcatchyfetish.com/tube/025/trailer.f4v
+
+#EXTINF:-1 group-title="ADULTOS", XXXVOD3D-26+18 3D
+http://galleries.3Dcatchyfetish.com/tube/026/trailer.f4v
+
+#EXTINF:-1 group-title="ADULTOS", XXXVOD3D-3+18 3D
+http://galleries.3dcatchyfetish.com/tube/003/trailer.f4v
+
+#EXTINF:-1 group-title="ADULTOS", XXXVOD3D-4+18 3D
+http://galleries.3dcatchyfetish.com/tube/004/trailer.f4v
+
+#EXTINF:-1 group-title="ADULTOS", XXXVOD3D-5+18 3D
+http://galleries.3Dcatchyfetish.com/tube/005/trailer.f4v
+
+#EXTINF:-1 group-title="ADULTOS", XXXVOD3D-6+18 3D
+http://galleries.3Dcatchyfetish.com/tube/006/trailer.f4v
+
+#EXTINF:-1 group-title="ADULTOS", XXXVOD3D-7+18 3D
+http://galleries.3Dcatchyfetish.com/tube/007/trailer.f4v
+
+#EXTINF:-1 group-title="ADULTOS", XXXVOD3D-8+18 3D
+http://galleries.3Dcatchyfetish.com/tube/008/trailer.f4v
+
+#EXTINF:-1 group-title="ADULTOS", XXXVOD3D-9+18 3D
+http://galleries.3Dcatchyfetish.com/tube/009/trailer.f4v
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",Costa Rica | Teleuno
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
