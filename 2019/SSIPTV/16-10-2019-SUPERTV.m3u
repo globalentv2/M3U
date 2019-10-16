@@ -1,4 +1,10 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/tvplay.png" group-title="INFO", -- TELEVISION PARA TODOS --
+http://flow.nibbletv.info/ts/ts_ntv.ts
+
+#EXTINF:-1 tvg-logo="http://tvyradio.ml/android/images/1529196209.jpg" group-title="PELICULAS-NibbleTV", Condorito
+https://onedrive.live.com/download?cid=466094F1AEC7B58D&resid=466094F1AEC7B58D%21108&authkey=AGWTdnVcU2IfGPo
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/sl8i8hswe5eg833/logo.png" group-title="GRUPO TVFLIXHD", (DOUBTFUL) - TVFLIXHD-TV PREMIUM
 https://dl.dropbox.com/s/sl8i8hswe5eg833/logo.png"
  
