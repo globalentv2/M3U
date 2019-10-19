@@ -59,16 +59,17 @@
          "image": "https://img.youtube.com/vi/jNQXAC9IVRw/0.jpg",
          "imageScale": "centerCrop",
          "url": "https://www.youtube.com/watch?v=jNQXAC9IVRw"
-},
+      },
       {
+		"name": "M3U",		
 		"image": "https://i.imgur.com/srLDM7D.png",
-		"name": "A - E",
+
 		"groups": [{
 			"image": "http://hdfull.me/tthumb/172x265/show_462e36a0e2a8b46935c4e2d9b963e9dc.jpg",
-			"name": "1992",
+			"name": "2019",
 			"stations": [{
 				"image": "https://hdfull.me/tthumb/220x124/ethumb_tt2983290_1_1.jpg",
-				"name": "1x1 Episodio 1",
+				"name": "PRIMERA LISTA",
 				"embed": "true",
 				"url": "https://raw.githubusercontent.com/globalentv2/M3U/master/2019/SSIPTV/16-10-2019-SUPERTV.m3u"
 			      }
