@@ -61,17 +61,9 @@
          "url": "https://www.youtube.com/watch?v=jNQXAC9IVRw"
       },
       {
-		"name": "M3U",		
-		"image": "https://i.imgur.com/srLDM7D.png",
-
-		"groups": [{
-			"image": "http://hdfull.me/tthumb/172x265/show_462e36a0e2a8b46935c4e2d9b963e9dc.jpg",
-			"name": "2019",
-			"stations": [{
-				"image": "https://hdfull.me/tthumb/220x124/ethumb_tt2983290_1_1.jpg",
-				"name": "PRIMERA LISTA",
-				"embed": "true",
-				"url": "https://raw.githubusercontent.com/globalentv2/M3U/master/2019/SSIPTV/16-10-2019-SUPERTV.m3u"
+	"name": "M3U",		
+	"image": "https://i.imgur.com/srLDM7D.png",
+	"url": "https://raw.githubusercontent.com/globalentv2/M3U/master/2019/SSIPTV/16-10-2019-SUPERTV.m3u"
 			      }
   ]
 }
