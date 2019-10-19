@@ -62,3 +62,19 @@
       }
   ]
 }
+{
+	"author": "©Anonymous - 2018",
+	"name": "Series Premium",
+	"info": "Series actualizadas 02/06/2018", 
+	"groups": [{
+		"image": "https://i.imgur.com/srLDM7D.png",
+		"name": "A - E",
+		"groups": [{
+			"image": "http://hdfull.me/tthumb/172x265/show_462e36a0e2a8b46935c4e2d9b963e9dc.jpg",
+			"name": "1992",
+			"stations": [{
+				"image": "https://hdfull.me/tthumb/220x124/ethumb_tt2983290_1_1.jpg",
+				"name": "1x1 Episodio 1",
+				"embed": "true",
+				"url": "https://raw.githubusercontent.com/globalentv2/M3U/master/2019/SSIPTV/16-10-2019-SUPERTV.m3u"
+			}
