@@ -59,14 +59,8 @@
          "image": "https://img.youtube.com/vi/jNQXAC9IVRw/0.jpg",
          "imageScale": "centerCrop",
          "url": "https://www.youtube.com/watch?v=jNQXAC9IVRw"
-      }
-  ]
-}
-{
-	"author": "©Anonymous - 2018",
-	"name": "Series Premium",
-	"info": "Series actualizadas 02/06/2018", 
-	"groups": [{
+},
+      {
 		"image": "https://i.imgur.com/srLDM7D.png",
 		"name": "A - E",
 		"groups": [{
@@ -77,4 +71,7 @@
 				"name": "1x1 Episodio 1",
 				"embed": "true",
 				"url": "https://raw.githubusercontent.com/globalentv2/M3U/master/2019/SSIPTV/16-10-2019-SUPERTV.m3u"
-			}
+			      }
+  ]
+}
+{
