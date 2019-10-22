@@ -6,6 +6,43 @@
    "contact": "w3u@testmail.com",
    "info": "Sample list for w3u tutorial using publicly available links",
    "groups": [ 
+   {
+			"name": "CajondeLista.com",
+			"image": "https://i.imgur.com/XVMIskC.png",
+			"stations": [
+
+
+				{
+					"name": "Rhino TV 📺 | Pulsame Para Agregar la lista",
+					"image": "https://www.brandcrowd.com/gallery/brands/thumbs/thumb14885260898156.jpg",
+					"url": "https://w3ubin.com/SJ_eLTblV.w3u",
+					"import": true
+				},
+				{
+					"name": "Series de Tv | Pulsame Para Agregar la lista",
+					"image": "https://i.imgur.com/IkJ30ZZ.jpg",
+					"url": "https://w3ubin.com/SksQAly4Z.w3u",
+					"import": true
+				},
+				{
+					"name": "Vip 18 | Pulsame Para Agregar la lista",
+					"image": "https://i.imgur.com/ey4DXZn.jpg",
+					"url": "https://w3ubin.com/HJ183fZVG.w3u",
+					"import": true
+				},
+				{
+					"name": "Elixir Peliculas | Pulsame Para Agregar la lista *",
+					"image": "https://i.imgur.com/GvCrf8n.png",
+					"url": "https://w3ubin.com/HkraM_ELM.w3u",
+					"import": true
+				},
+				{
+					"name": "Soy Curioso | Pulsame Para Agregar la lista",
+					"image": "http://generadordememesonline.com/media/created/lrdpql.jpg",
+					"url": "https://w3ubin.com/S1Sr59Z_m.w3u",
+					"import": true
+				}
+
       { 
          "name": "Movies",
          "image": "https://i.imgur.com/ExU2ep3.png",
