@@ -1,5 +1,52 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", GLOBAL EN TV
+https://pastebin.com/raw/YcLpahdA
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Youtube MUSICA", FIESTA
+https://www.youtube.com/watch?v=EzKkl64rRbM&list=PLo3pNg0eiPc_jQ_jhD8P4UoiOE6vmGdU6
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Youtube MUSICA", 2020
+https://www.youtube.com/watch?v=p7bfOZek9t4&list=PL64G6j8ePNur3kXmRujUMAJBqcIf3Ru_L
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Youtube TELEVISION", TV ONLINE
+https://www.youtube.com/playlist?list=PLsiFIDHQ--5_2R66k0-REifqQp-MQoATx
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Youtube PELISTAS", FICCION
+https://www.youtube.com/watch?v=q1ra4W7LhSM&list=PLLxxgrF1QnBinkXrSdqaC5FwAsjXQt7Xm
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Youtube PELISTAS", 2019
+https://www.youtube.com/watch?v=51YNxLoaWbk&list=PLCeBy5HguhG8-BwzsWa-4BzJqYt5tozBb
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Youtube PELISTAS", 1980-2019
+https://www.youtube.com/watch?v=jqhqsMAKvC8&list=PLU8k9FmSfyGUYtG0kGxUMwtR4aOkdK53G
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Youtube PELISTAS", ACCION 2019
+https://www.youtube.com/watch?v=opsM30Wymmg&list=PLASaZPIu5gsuQXrNBTFRapvx9Ol6SGQUX
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="YOUTUBE PLAY", INCOMPRENDIDOS
+https://youtu.be/51YNxLoaWbk
+ 
+#EXTINF:0 tvg-logo="https://pastebin.com/cache/img/12/23/4/5191535.jpg" group-title="YOUTUBE PLAY", EL BISCOCHO DEL PANADERO (1991)
+https://youtu.be/hTQd2VbB-kY
+#EXTINF:0 tvg-logo="https://pastebin.com/cache/img/12/23/4/5191535.jpg" group-title="YOUTUBE PLAY", ENREDOS DE UN RECIEN CASADO
+https://youtu.be/Qg1BXLW8MJY
+#EXTINF:0 tvg-logo="https://pastebin.com/cache/img/12/23/4/5191535.jpg" group-title="YOUTUBE PLAY", BAÑEROS - LA PLAYA LOCA
+https://youtu.be/V58It5MKjTw
+#EXTINF:0 tvg-logo="https://pastebin.com/cache/img/12/23/4/5191535.jpg" group-title="YOUTUBE PLAY", LAS GOLFAS (1969)
+https://youtu.be/d0yHjEChgj8
+#EXTINF:0 tvg-logo="https://pastebin.com/cache/img/12/23/4/5191535.jpg" group-title="YOUTUBE PLAY", VECINOS - PELICULA DE AMOR
+https://youtu.be/UiiCmSWy35w
+#EXTINF:0 tvg-logo="https://pastebin.com/cache/img/12/23/4/5191535.jpg" group-title="YOUTUBE PLAY", TRAS CORNUDOS APALEADOS
+https://youtu.be/_yUCJqBDLT4
+#EXTINF:0 tvg-logo="https://pastebin.com/cache/img/12/23/4/5191535.jpg" group-title="YOUTUBE PLAY", LA RISA SIN CALZONES
+https://youtu.be/i_XC4PVXvEs
+#EXTINF:0 tvg-logo="https://pastebin.com/cache/img/12/23/4/5191535.jpg" group-title="YOUTUBE PLAY", EL CORNUDO SINVERGÜENZA
+https://youtu.be/xPhQO42ZtBs
+#EXTINF:0 tvg-logo="https://pastebin.com/cache/img/12/23/4/5191535.jpg" group-title="YOUTUBE PLAY", LOS REYES DE LA MACANA
+https://youtu.be/XtMr7DIVa8Q
+
+
 #EXTINF:-1 tvg-logo="http://www.nibbletv.info/img/ch/tvplay.png" group-title="INFO", -- TELEVISION PARA TODOS --
 http://flow.nibbletv.info/ts/ts_ntv.ts
 
