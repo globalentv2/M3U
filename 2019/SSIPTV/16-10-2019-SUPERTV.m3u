@@ -3,6 +3,12 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", GLOBAL EN TV
 https://pastebin.com/raw/YcLpahdA
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Youtube MUSICA", ALEATORIA
+https://www.youtube.com/watch?v=A8wNlmY9fYE&list=PL02F1320343FD39D2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Youtube MUSICA", CUMBIATUBE
+https://www.youtube.com/watch?v=1Cqj7pDHXBk&list=PLCRay1a1nHYwub8TJYrUTIxz3Vu-PxYVg
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Youtube MUSICA", FIESTA
 https://www.youtube.com/watch?v=EzKkl64rRbM&list=PLo3pNg0eiPc_jQ_jhD8P4UoiOE6vmGdU6
 
@@ -23,6 +29,9 @@ https://www.youtube.com/watch?v=jqhqsMAKvC8&list=PLU8k9FmSfyGUYtG0kGxUMwtR4aOkdK
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Youtube PELISTAS", ACCION 2019
 https://www.youtube.com/watch?v=opsM30Wymmg&list=PLASaZPIu5gsuQXrNBTFRapvx9Ol6SGQUX
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="Youtube PELISTAS", 100 PELIS
+https://www.youtube.com/playlist?list=PLNq2eaZvd5PsY9bF9QTeJ30IRscWVT_4c
 
 #EXTINF:0 tvg-logo="https://pastebin.com/cache/img/12/23/4/5191535.jpg" group-title="YOUTUBE PLAY", INCOMPRENDIDOS
 https://youtu.be/51YNxLoaWbk
