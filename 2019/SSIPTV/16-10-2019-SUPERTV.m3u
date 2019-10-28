@@ -2,6 +2,57 @@
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", GLOBAL EN TV
 https://pastebin.com/raw/YcLpahdA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", CHILE 1
+http://xtreamiptv.cl/listagratis.m3u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", CHILE 2
+http://chileiptv.cl/cl.m3u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", MAUI GA
+http://maui.ga/tv.m3u             
+#EXTINF:-1,HBO2
+http://wowza2.mysoltv.com:1992/Latino_HBO_2/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", ACHO 3
+https://www.achoapps.com/listas/lista3.m3u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", ACHO
+https://www.achotv.com/listas/acho.m3u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", ACHOTV 2019
+https://www.achotv.com/listas/achotv2019.m3u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", ACHOTV 2018
+https://www.achotv.com/listas/achotv2018.m3u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", ACHO CANALS
+https://www.achotv.com/listas/canales.m3u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", ACHO MOVIES
+https://www.achotv.com/listas/peliculas.m3u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", ACHO CCTV
+https://www.achotv.com/listas/cctv.m3u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", ACHO PAISES
+https://www.achotv.com/listas/paises.m3u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", ACHO MOVIE ENG
+https://www.achotv.com/listas/peliculas-ingles.m3u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", ACHO XXX
+https://www.achotv.com/listas/canales-x.m3u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", ACHO PORTUGAL
+https://www.achotv.com/listas/portugal.m3u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", Paste Pelis
+https://pastebin.com/raw/yGhgVUHx
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", Paste A2nMn6cS
+https://pastebin.com/raw/A2nMn6cS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", Paste cnQnAp5k
+https://pastebin.com/raw/cnQnAp5k
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", Paste Bolivia
+https://pastebin.com/raw/gnugDY0F
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", Paste Premium 1
+https://pastebin.com/raw/RVtjZDGp
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", Paste Premium 2
+https://pastebin.com/raw/d9y2fdXs
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", Paste Paises
+https://pastebin.com/raw/d9y2fdXs
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", MX Colombia
+https://pastebin.com/raw/dbyNwVLZ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", Paste Fluxus 1
+https://pastebin.com/raw/ZzGTySZE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", Paste Fluxus 2
+https://pastebin.com/raw/d5cb3Wxw
+
 
 #EXTINF:-1,ARGENTINA:Canal 26 1
 http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
