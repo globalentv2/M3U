@@ -53,6 +53,8 @@ https://pastebin.com/raw/ZzGTySZE
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", Paste Fluxus 2
 https://pastebin.com/raw/d5cb3Wxw
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", PAISES 10-2019
+https://raw.githubusercontent.com/globalentv2/M3U/master/2019/SSIPTV/PAISES-28-10-2019.m3u
 
 #EXTINF:-1,ARGENTINA:Canal 26 1
 http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
