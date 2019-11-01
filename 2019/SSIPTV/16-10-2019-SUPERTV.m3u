@@ -2,14 +2,29 @@
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", GLOBAL EN TV
 https://pastebin.com/raw/YcLpahdA
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", CHILE 1
 http://xtreamiptv.cl/listagratis.m3u
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", CHILE 2
 http://chileiptv.cl/cl.m3u
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", MAUI GA
-http://maui.ga/tv.m3u             
-#EXTINF:-1,HBO2
-http://wowza2.mysoltv.com:1992/Latino_HBO_2/tracks-v1a1/index.m3u8
+
+#######Funcional solo en apps android#######
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U",TecnoTV 1
+http://tecnotv.club/vi1/principal.m3u
+
+#######GEOMEX-Solo para Mexico - apps android#######
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U",TecnoTV 2
+http://tecnotv.club/vi1/geomex.m3u
+
+#######Funcional para smartv##########
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", TecnoTV 3
+http://tecnotv.club/vi1/smartv.m3u
+
+##########Todo dispositivo##########
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", TecnoTV 4
+http://tecnotv.club/vi1/lista2.m3u
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", ACHO 3
 https://www.achoapps.com/listas/lista3.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", ACHO
