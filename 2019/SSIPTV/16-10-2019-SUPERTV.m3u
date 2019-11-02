@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", VISION IPTV
+https://raw.githubusercontent.com/globalentv2/M3U/master/2019/SSIPTV/VISIONIPTV.m3u
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", GLOBAL EN TV
 https://pastebin.com/raw/YcLpahdA
 
@@ -10,19 +13,19 @@ http://xtreamiptv.cl/listagratis.m3u
 http://chileiptv.cl/cl.m3u
 
 #######Funcional solo en apps android#######
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U",TecnoTV 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", CEL TecnoTV
 http://tecnotv.club/vi1/principal.m3u
 
 #######GEOMEX-Solo para Mexico - apps android#######
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U",TecnoTV 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", GEO TecnoTV
 http://tecnotv.club/vi1/geomex.m3u
 
 #######Funcional para smartv##########
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", TecnoTV 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", ST TecnoTV
 http://tecnotv.club/vi1/smartv.m3u
 
 ##########Todo dispositivo##########
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", TecnoTV 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", TD TecnoTV
 http://tecnotv.club/vi1/lista2.m3u
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", ACHO 3
@@ -77,17 +80,11 @@ https://raw.githubusercontent.com/globalentv2/M3U/master/2019/SSIPTV/PAISES-28-1
 #EXTINF:-1,ARGENTINA:Canal 26 1
 http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,ARGENTINA:Canal 26 2
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?
-
-chile.m3u8
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,ARGENTINA:Canal 26 3
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?
-
-chile.m3u8
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,ARGENTINA:TLX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
-
-chile.m3u8
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,ARGENTINA:Canal 2 Telpin Tv
 http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,ARGENTINA:Canal Provincial
@@ -109,9 +106,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1,ARGENTINA:Radio TV Neuquen
 http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
 #EXTINF:-1,ARGENTINA:Canal 2 Telpin Tv
-http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/playlist.m3u8?
-
-iptvgratis?
+http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/playlist.m3u8?iptvgratis?
 
 chile.m3u8
 #EXTINF:-1,MUSICA:Music Top Argentina
@@ -119,23 +114,15 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?
 
 iptvgratis?chile.m3u8
 #EXTINF:-1,RADIOTV:Power HD Argentina
-http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8?
-
-iptvgratis?
-
-chile.m3u8
-#EXTINF:-1,RADIOTV:Power HD Argentina
-http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8?
-
-iptvgratis?chile.m3u8
-#EXTINF:-1,RADIOTV:Power HD Argentina
 http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8?iptvgratis?
 
 chile.m3u8
+#EXTINF:-1,RADIOTV:Power HD Argentina
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,RADIOTV:Power HD Argentina
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,MUSICA:Music Top Argentina
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?
-
-chile.m3u8
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1, Canal 3 (Argentina)
 http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 #EXTINF:-1, Canal 3 (Argentina)
@@ -143,17 +130,11 @@ http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 #EXTINF:-1,ARGENTINA:Canal 26 1
 http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,ARGENTINA:Canal 26 2
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?
-
-chile.m3u8
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,ARGENTINA:Canal 26 3
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?
-
-chile.m3u8
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,ARGENTINA:TLX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
-
-chile.m3u8
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,ARGENTINA:Canal 2 Telpin Tv
 http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,ARGENTINA:Canal Provincial
@@ -229,17 +210,11 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1,ARGENTINA:Canal 26 1
 http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,ARGENTINA:Canal 26 2
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?
-
-chile.m3u8
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,ARGENTINA:Canal 26 3
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?
-
-chile.m3u8
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,ARGENTINA:TLX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
-
-chile.m3u8
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,ARGENTINA:Canal 2 Telpin Tv
 http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1,ARGENTINA:Canal 9 Salta
@@ -357,15 +332,11 @@ http://tvpremiumhd.club/lista-gratuita/153015/tlx.m3u8
 #EXTINF:-1,ARGENTINA: CADENA SUDESTE TV
 http://tvpremiumhd.club/lista-gratuita/153015/on/live.php?id=stmv3.questreaming.com/cadenasd/cadenasd/playlist.m3u8
 #EXTINF:-1,ARGENTINA: Canal 26
-http://tvpremiumhd.club/lista-gratuita/153015/on/live.php?id=200.115.193.177/live/26hd-480/.m3u8?teleregiogratis?
-
-chile.m3u8
+http://tvpremiumhd.club/lista-gratuita/153015/on/live.php?id=200.115.193.177/live/26hd-480/.m3u8?teleregiogratis?chile.m3u8
 #EXTINF:-1,ARGENTINA: Canal 26
 http://tvpremiumhd.club/lista-gratuita/153015/canal26.m3u8
 #EXTINF:-1,ARGENTINA: Canal 26 Buenos Aires (OP2)
-http://tvpremiumhd.club/lista-gratuita/153015/on/live.php?id=live-edge01.telecentro.net.ar:1935/live/26hd-
-
-720/livestream.m3u8
+http://tvpremiumhd.club/lista-gratuita/153015/on/live.php?id=live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
 #EXTINF:-1,ARGENTINA: Canal 26 HD
 http://tvpremiumhd.club/lista-gratuita/153015/on/iptv.php?id=live-edge01.telecentro.net.ar/live/26hd-720/playlist
 #EXTINF:-1,ARGENTINA: CANAL 4 POSADAS
@@ -381,43 +352,29 @@ http://tvpremiumhd.club/lista-gratuita/153015/on/iptv.php?id=live-edge01.telecen
 #EXTINF:-1,ARGENTINA: NET TV
 http://tvpremiumhd.club/lista-gratuita/153015/on/live.php?id=unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1,ARGENTINA: Power HD
-http://tvpremiumhd.club/lista-gratuita/153015/on/iptv.php?id=wowza.telpin.com.ar:1935/live-
-
-powerTV/power.stream/playlist
+http://tvpremiumhd.club/lista-gratuita/153015/on/iptv.php?id=wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist
 #EXTINF:-1,ARGENTINA: Power HD
-http://tvpremiumhd.club/lista-gratuita/153015/on/live.php?id=wowza.telpin.com.ar:1935/live-
-
-powerTV/power.stream/playlist.m3u8
+http://tvpremiumhd.club/lista-gratuita/153015/on/live.php?id=wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 #EXTINF:-1,ARGENTINA: TELEMAX
-http://tvpremiumhd.club/lista-gratuita/153015/on/live.php?id=live-
-
-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+http://tvpremiumhd.club/lista-gratuita/153015/on/live.php?id=live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1,ARGENTINA: Telemax HD
 http://tvpremiumhd.club/lista-gratuita/153015/on/iptv.php?id=live-edge01.telecentro.net.ar/live/smil:tlx.smil/master
 #EXTINF:-1,ARGENTINA: TLX
-http://tvpremiumhd.club/lista-gratuita/153015/on/live.php?id=live-
-
-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w153015id3435_b1828000_sleng.m3u8?teleregiogratis?chile.m3u8
+http://tvpremiumhd.club/lista-gratuita/153015/on/live.php?id=live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w153015id3435_b1828000_sleng.m3u8?teleregiogratis?chile.m3u8
 #EXTINF:-1,ARGENTINA: TV MANA
 http://tvpremiumhd.club/lista-gratuita/153015/on/live.php?id=csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
 #EXTINF:-1,ARGENTINA: UFROVISION HD
-http://tvpremiumhd.club/lista-gratuita/153015/on/live.php?id=mdstrm.com/live-stream-
-
-playlist/580a80b827de0ae2086ea6d8.m3u8
+http://tvpremiumhd.club/lista-gratuita/153015/on/live.php?id=mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
 #EXTINF:-1,ARGENTINA: AIRE DE SANTA FE
 http://tvpremiumhd.club/lista-gratuita/153015/on/live.php?id=184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
 #EXTINF:-1,ARGENTINA: CADENA SUDESTE TV
 http://tvpremiumhd.club/lista-gratuita/153015/on/live.php?id=stmv3.questreaming.com/cadenasd/cadenasd/playlist.m3u8
 #EXTINF:-1,ARGENTINA: Canal 26
-http://tvpremiumhd.club/lista-gratuita/153015/on/live.php?id=200.115.193.177/live/26hd-480/.m3u8?teleregiogratis?
-
-chile.m3u8
+http://tvpremiumhd.club/lista-gratuita/153015/on/live.php?id=200.115.193.177/live/26hd-480/.m3u8?teleregiogratis?chile.m3u8
 #EXTINF:-1,ARGENTINA: Canal 26
 http://tvpremiumhd.club/lista-gratuita/153015/canal26.m3u8
 #EXTINF:-1,ARGENTINA: Canal 26 Buenos Aires (OP2)
-http://tvpremiumhd.club/lista-gratuita/153015/on/live.php?id=live-edge01.telecentro.net.ar:1935/live/26hd-
-
-720/livestream.m3u8
+http://tvpremiumhd.club/lista-gratuita/153015/on/live.php?id=live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
 #EXTINF:-1,ARGENTINA: Canal 26 HD
 http://tvpremiumhd.club/lista-gratuita/153015/on/iptv.php?id=live-edge01.telecentro.net.ar/live/26hd-720/playlist
 #EXTINF:-1,ARGENTINA: CANAL 4 POSADAS
@@ -433,23 +390,15 @@ http://tvpremiumhd.club/lista-gratuita/153015/on/iptv.php?id=live-edge01.telecen
 #EXTINF:-1,ARGENTINA: NET TV
 http://tvpremiumhd.club/lista-gratuita/153015/on/live.php?id=unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1,ARGENTINA: Power HD
-http://tvpremiumhd.club/lista-gratuita/153015/on/iptv.php?id=wowza.telpin.com.ar:1935/live-
-
-powerTV/power.stream/playlist
+http://tvpremiumhd.club/lista-gratuita/153015/on/iptv.php?id=wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist
 #EXTINF:-1,ARGENTINA: Power HD
-http://tvpremiumhd.club/lista-gratuita/153015/on/live.php?id=wowza.telpin.com.ar:1935/live-
-
-powerTV/power.stream/playlist.m3u8
+http://tvpremiumhd.club/lista-gratuita/153015/on/live.php?id=wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 #EXTINF:-1,ARGENTINA: TELEMAX
-http://tvpremiumhd.club/lista-gratuita/153015/on/live.php?id=live-
-
-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+http://tvpremiumhd.club/lista-gratuita/153015/on/live.php?id=live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1,ARGENTINA: Telemax HD
 http://tvpremiumhd.club/lista-gratuita/153015/on/iptv.php?id=live-edge01.telecentro.net.ar/live/smil:tlx.smil/master
 #EXTINF:-1,ARGENTINA: TLX
-http://tvpremiumhd.club/lista-gratuita/153015/on/live.php?id=live-
-
-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w153015id3435_b1828000_sleng.m3u8?teleregiogratis?chile.m3u8
+http://tvpremiumhd.club/lista-gratuita/153015/on/live.php?id=live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w153015id3435_b1828000_sleng.m3u8?teleregiogratis?chile.m3u8
 #EXTINF:-1,ARGENTINA: TV MANA
 http://tvpremiumhd.club/lista-gratuita/153015/on/live.php?id=csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
 #EXTINF:-1,ARGENTINA: UFROVISION HD
