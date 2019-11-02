@@ -1,0 +1,547 @@
+#EXTM3U url="http://visioniptv1.dynu.net:8073/getlink?username=24hs&password=24hs&type=m3u"
+#EXTINF:-1 tvg-id="A24" group-title="Argentina",A24
+http://visioniptv1.dynu.net:8073/A24?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="AMERICA TV SD." group-title="Argentina",AMERICA TV SD.
+http://visioniptv1.dynu.net:8073/AMERICA%20TV%20SD%2E?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="America Tv HD" group-title="Argentina",America Tv HD
+http://visioniptv1.dynu.net:8073/America%20Tv%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="C5N" group-title="Argentina",C5N
+http://visioniptv1.dynu.net:8073/C5N?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="CANAL 26 HD ARGENTINA" group-title="Argentina",CANAL 26 HD ARGENTINA
+http://visioniptv1.dynu.net:8073/CANAL%2026%20HD%20ARGENTINA?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="CANAL 26 SD" group-title="Argentina",CANAL 26 SD
+http://visioniptv1.dynu.net:8073/CANAL%2026%20SD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="CN23" group-title="Argentina",CN23
+http://visioniptv1.dynu.net:8073/CN23?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="CNN ESPA√ëOL" group-title="Argentina",CNN ESPA—OL
+http://visioniptv1.dynu.net:8073/CNN%20ESPA%E2%80%94OL?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Chacra Tv" group-title="Argentina",Chacra Tv
+http://visioniptv1.dynu.net:8073/Chacra%20Tv?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Ciudad Magazine" group-title="Argentina",Ciudad Magazine
+http://visioniptv1.dynu.net:8073/Ciudad%20Maga%7Aine?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Cronica Hd" group-title="Argentina",Cronica Hd
+http://visioniptv1.dynu.net:8073/Cronica%20Hd?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="El Trece HD." group-title="Argentina",El Trece HD
+http://visioniptv1.dynu.net:8073/El%20Trece%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="El Trece Sd" group-title="Argentina",El Trece Sd
+http://visioniptv1.dynu.net:8073/El%20Trece%20Sd?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Encuentro" group-title="Argentina",Encuentro
+http://visioniptv1.dynu.net:8073/Encuentro?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="La Nacion Tv" group-title="Argentina",La Nacion Tv
+http://visioniptv1.dynu.net:8073/La%20Nacion%20Tv?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Nueve  sd" group-title="Argentina",Nueve  sd
+http://visioniptv1.dynu.net:8073/Nueve%20%20sd?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Nueve HD." group-title="Argentina",Nueve HD.
+http://visioniptv1.dynu.net:8073/Nueve%20HD%2E?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="TN" group-title="Argentina",TN
+http://visioniptv1.dynu.net:8073/TN?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="TN HD" group-title="Argentina",TN HD
+http://visioniptv1.dynu.net:8073/TN%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Telefe HD" group-title="Argentina",Telefe HD
+http://visioniptv1.dynu.net:8073/Telefe%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Telefe SD" group-title="Argentina",Telefe SD
+http://visioniptv1.dynu.net:8073/Telefe%20SD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Tv Publica Arg." group-title="Argentina",Tv Publica Arg.
+http://visioniptv1.dynu.net:8073/Tv%20Publica%20Arg%2E?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Tv Publica Hd" group-title="Argentina",Tv Publica Hd
+http://visioniptv1.dynu.net:8073/Tv%20Publica%20Hd?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="MEGA" group-title="Chile",MEGA
+http://visioniptv1.dynu.net:8073/MEGA?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="13 Chile" group-title="Chile",13 Chile
+http://visioniptv1.dynu.net:8073/13%20Chile?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="24 Horas TVN" group-title="Chile",24 Horas TVN
+http://visioniptv1.dynu.net:8073/24%20Horas%20TVN?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Red Television" group-title="Chile",Red Television
+http://visioniptv1.dynu.net:8073/Red%20Television?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="CHV" group-title="Chile",CHV
+http://visioniptv1.dynu.net:8073/CHV?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Tvn" group-title="Chile",Tvn
+http://visioniptv1.dynu.net:8073/Tvn?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Fox Series Hd" group-title="Cine Hd",Fox Series Hd
+http://visioniptv1.dynu.net:8073/Fox%20Series%20Hd?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="HBO 2 HD" group-title="Cine Hd",HBO 2 HD
+http://visioniptv1.dynu.net:8073/HBO%202%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="HBO Family HD" group-title="Cine Hd",HBO Family HD
+http://visioniptv1.dynu.net:8073/HBO%20Family%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="HBO HD" group-title="Cine Hd",HBO HD
+http://visioniptv1.dynu.net:8073/HBO%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="HBO Plus HD" group-title="Cine Hd",HBO Plus HD
+http://visioniptv1.dynu.net:8073/HBO%20Plus%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="DHE HD" group-title="Cine Hd",DHE HD
+http://visioniptv1.dynu.net:8073/DHE%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Cinecanal HD" group-title="Cine Hd",Cinecanal HD
+http://visioniptv1.dynu.net:8073/Cinecanal%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="A&E HD" group-title="Cine Hd",A&E HD
+http://visioniptv1.dynu.net:8073/A%26E%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Cine AR HD" group-title="Cine Hd",Cine AR HD
+http://visioniptv1.dynu.net:8073/Cine%20AR%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Paramount Hd." group-title="Cine Hd",Paramount Hd.
+http://visioniptv1.dynu.net:8073/Paramount%20Hd%2E?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="FX HD" group-title="Cine Hd",FX HD
+http://visioniptv1.dynu.net:8073/FX%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Sony HD" group-title="Cine Hd",Sony HD
+http://visioniptv1.dynu.net:8073/Sony%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="FX MOVIES HD" group-title="Cine Hd",FX MOVIES HD
+http://visioniptv1.dynu.net:8073/FX%20MOVIES%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Fox Action HD" group-title="Cine Hd",Fox Action HD
+http://visioniptv1.dynu.net:8073/Fox%20Action%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="TNT Series HD" group-title="Cine Hd",TNT Series HD
+http://visioniptv1.dynu.net:8073/TNT%20Series%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Fox Classic Hd." group-title="Cine Hd",Fox Classic Hd.
+http://visioniptv1.dynu.net:8073/Fox%20Classic%20Hd%2E?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Fox Comedy Hd" group-title="Cine Hd",Fox Comedy Hd
+http://visioniptv1.dynu.net:8073/Fox%20Comedy%20Hd?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Tnt HD." group-title="Cine Hd",Tnt HD.
+http://visioniptv1.dynu.net:8073/Tnt%20HD%2E?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Fox Family Hd." group-title="Cine Hd",Fox Family Hd.
+http://visioniptv1.dynu.net:8073/Fox%20Family%20Hd%2E?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Fox HD" group-title="Cine Hd",Fox HD
+http://visioniptv1.dynu.net:8073/Fox%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Fox Movie Hd." group-title="Cine Hd",Fox Movie Hd.
+http://visioniptv1.dynu.net:8073/Fox%20Movie%20Hd%2E?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Universal Hd" group-title="Cine Hd",Universal Hd
+http://visioniptv1.dynu.net:8073/Universal%20Hd?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Warner Channel HD" group-title="Cine Hd",Warner Channel HD
+http://visioniptv1.dynu.net:8073/Warner%20Channel%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="FX Movies" group-title="Cine Sd",FX Movies
+http://visioniptv1.dynu.net:8073/FX%20Movies?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="HBO2" group-title="Cine Sd",HBO2
+http://visioniptv1.dynu.net:8073/HBO2?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="I-Sat" group-title="Cine Sd",I-Sat
+http://visioniptv1.dynu.net:8073/I%2DSat?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="AMC" group-title="Cine Sd",AMC
+http://visioniptv1.dynu.net:8073/AMC?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Fox Cinema" group-title="Cine Sd",Fox Cinema
+http://visioniptv1.dynu.net:8073/Fox%20Cinema?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Max Prime E" group-title="Cine Sd",Max Prime E
+http://visioniptv1.dynu.net:8073/Max%20Prime%20E?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Fox Classics" group-title="Cine Sd",Fox Classics
+http://visioniptv1.dynu.net:8073/Fox%20Classics?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Paramount Channel" group-title="Cine Sd",Paramount Channel
+http://visioniptv1.dynu.net:8073/Paramount%20Channel?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="FOX Action" group-title="Cine Sd",FOX Action
+http://visioniptv1.dynu.net:8073/FOX%20Action?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="FOX CHANNEL" group-title="Cine Sd",FOX CHANNEL
+http://visioniptv1.dynu.net:8073/FOX%20CHANNEL?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Space" group-title="Cine Sd",Space
+http://visioniptv1.dynu.net:8073/Space?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Studio Universal" group-title="Cine Sd",Studio Universal
+http://visioniptv1.dynu.net:8073/Studio%20Universal?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="TCM" group-title="Cine Sd",TCM
+http://visioniptv1.dynu.net:8073/TCM?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="FOX Family" group-title="Cine Sd",FOX Family
+http://visioniptv1.dynu.net:8073/FOX%20Family?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="FOX Life" group-title="Cine Sd",FOX Life
+http://visioniptv1.dynu.net:8073/FOX%20Life?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="FOX Movies" group-title="Cine Sd",FOX Movies
+http://visioniptv1.dynu.net:8073/FOX%20Movies?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Golden" group-title="Cine Sd",Golden
+http://visioniptv1.dynu.net:8073/Golden?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Golden Edge" group-title="Cine Sd",Golden Edge
+http://visioniptv1.dynu.net:8073/Golden%20Edge?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Tnt Series Sd" group-title="Cine Sd",Tnt Series Sd
+http://visioniptv1.dynu.net:8073/Tnt%20Series%20Sd?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="AXN SD" group-title="Cine Sd",AXN SD
+http://visioniptv1.dynu.net:8073/AXN%20SD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Volver" group-title="Cine Sd",Volver
+http://visioniptv1.dynu.net:8073/Volver?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Cinemax" group-title="Cine Sd",Cinemax
+http://visioniptv1.dynu.net:8073/Cinemax?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Gol Peru" group-title="Deportes",Gol Peru
+http://visioniptv1.dynu.net:8073/Gol%20Peru?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Deportv sd" group-title="Deportes",Deportv sd
+http://visioniptv1.dynu.net:8073/Deportv%20sd?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Espn 3" group-title="Deportes",Espn 3
+http://visioniptv1.dynu.net:8073/Espn%203?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Golf Channel" group-title="Deportes",Golf Channel
+http://visioniptv1.dynu.net:8073/Golf%20Channel?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="ESPN" group-title="Deportes",ESPN
+http://visioniptv1.dynu.net:8073/ESPN?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="ESPN + HD" group-title="Deportes",ESPN + HD
+http://visioniptv1.dynu.net:8073/ESPN%20%2B%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="ESPN 2" group-title="Deportes",ESPN 2
+http://visioniptv1.dynu.net:8073/ESPN%202?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="ESPN 2HD" group-title="Deportes",ESPN 2HD
+http://visioniptv1.dynu.net:8073/ESPN%202HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="ESPN 3 HD" group-title="Deportes",ESPN 3 HD
+http://visioniptv1.dynu.net:8073/ESPN%203%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="TNT Sports HD" group-title="Deportes",TNT Sports HD
+http://visioniptv1.dynu.net:8073/TNT%20Sports%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="ESPN HD" group-title="Deportes",ESPN HD
+http://visioniptv1.dynu.net:8073/ESPN%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="EVENTOS." group-title="Deportes",EVENTOS.
+http://visioniptv1.dynu.net:8073/EVENTOS%2E?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="America Sport" group-title="Deportes",America Sport
+http://visioniptv1.dynu.net:8073/America%20Sport?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Cdf P" group-title="Deportes",Cdf P
+http://visioniptv1.dynu.net:8073/Cdf%20P?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Fox Sports" group-title="Deportes",Fox Sports
+http://visioniptv1.dynu.net:8073/Fox%20Sports?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Fox Sports 2" group-title="Deportes",Fox Sports 2
+http://visioniptv1.dynu.net:8073/Fox%20Sports%202?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Fox Sports 2 HD" group-title="Deportes",Fox Sports 2 HD
+http://visioniptv1.dynu.net:8073/Fox%20Sports%202%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="TyC Sports HD" group-title="Deportes",TyC Sports HD
+http://visioniptv1.dynu.net:8073/TyC%20Sports%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Movistar Deportes" group-title="Deportes",Movistar Deportes
+http://visioniptv1.dynu.net:8073/Movistar%20Deportes?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Fox Sports 3" group-title="Deportes",Fox Sports 3
+http://visioniptv1.dynu.net:8073/Fox%20Sports%203?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Fox Sports 3 HD" group-title="Deportes",Fox Sports 3 HD
+http://visioniptv1.dynu.net:8073/Fox%20Sports%203%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Fox Sports HD" group-title="Deportes",Fox Sports HD
+http://visioniptv1.dynu.net:8073/Fox%20Sports%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Fox Sports Premium HD" group-title="Deportes",Fox Sports Premium HD
+http://visioniptv1.dynu.net:8073/Fox%20Sports%20Premium%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Sun Channel" group-title="General Streams",Sun Channel
+http://visioniptv1.dynu.net:8073/Sun%20Channel?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="TBS Very Funny HD" group-title="General Streams",TBS Very Funny HD
+http://visioniptv1.dynu.net:8073/TBS%20Very%20Funny%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Discovery Channel" group-title="General Streams",Discovery Channel
+http://visioniptv1.dynu.net:8073/Discovery%20Channel?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Discovery Channel Hd" group-title="General Streams",Discovery Channel Hd
+http://visioniptv1.dynu.net:8073/Discovery%20Channel%20Hd?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Discovery Civilization" group-title="General Streams",Discovery Civilization
+http://visioniptv1.dynu.net:8073/Discovery%20Civili%7Aation?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="History Channel HD" group-title="General Streams",History Channel HD
+http://visioniptv1.dynu.net:8073/History%20Channel%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Hola!TV" group-title="General Streams",Hola!TV
+http://visioniptv1.dynu.net:8073/Hola%21TV?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Discovery H&H HD" group-title="General Streams",Discovery H&H HD
+http://visioniptv1.dynu.net:8073/Discovery%20H%26H%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="ID - Investigation Discovery" group-title="General Streams",ID - Investigation Discovery
+http://visioniptv1.dynu.net:8073/ID%20%2D%20Investigation%20Discovery?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Glitz" group-title="General Streams",Glitz
+http://visioniptv1.dynu.net:8073/Glit%7A?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Globovision" group-title="General Streams",Globovision
+http://visioniptv1.dynu.net:8073/Globovision?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Telemundo" group-title="General Streams",Telemundo
+http://visioniptv1.dynu.net:8073/Telemundo?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Telemundo HD" group-title="General Streams",Telemundo HD
+http://visioniptv1.dynu.net:8073/Telemundo%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Discovery H&H SD." group-title="General Streams",Discovery H&H SD.
+http://visioniptv1.dynu.net:8073/Discovery%20H%26H%20SD%2E?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="El Gourmet" group-title="General Streams",El Gourmet
+http://visioniptv1.dynu.net:8073/El%20Gourmet?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="TruTV" group-title="General Streams",TruTV
+http://visioniptv1.dynu.net:8073/TruTV?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="TruTV HD" group-title="General Streams",TruTV HD
+http://visioniptv1.dynu.net:8073/TruTV%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Nat Geo Wild" group-title="General Streams",Nat Geo Wild
+http://visioniptv1.dynu.net:8073/Nat%20Geo%20Wild?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="National Geographic" group-title="General Streams",National Geographic
+http://visioniptv1.dynu.net:8073/National%20Geographic?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Discovery Science" group-title="General Streams",Discovery Science
+http://visioniptv1.dynu.net:8073/Discovery%20Science?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Discovery Turbo" group-title="General Streams",Discovery Turbo
+http://visioniptv1.dynu.net:8073/Discovery%20Turbo?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="H2" group-title="General Streams",H2
+http://visioniptv1.dynu.net:8073/H2?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="E! Entertainment" group-title="General Streams",E! Entertainment
+http://visioniptv1.dynu.net:8073/E%21%20Entertainment?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Animal Planet HD" group-title="General Streams",Animal Planet HD
+http://visioniptv1.dynu.net:8073/Animal%20Planet%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Canal de las Estrellas" group-title="General Streams",Canal de las Estrellas
+http://visioniptv1.dynu.net:8073/Canal%20de%20las%20Estrellas?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Film & arts HD." group-title="General Streams",Film & arts HD.
+http://visioniptv1.dynu.net:8073/Film%20%26%20arts%20HD%2E?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Disney Jr." group-title="Infantiles",Disney Jr.
+http://visioniptv1.dynu.net:8073/Disney%20Jr%2E?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Nat Geo Kids" group-title="Infantiles",Nat Geo Kids
+http://visioniptv1.dynu.net:8073/Nat%20Geo%20Kids?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Disney XD" group-title="Infantiles",Disney XD
+http://visioniptv1.dynu.net:8073/Disney%20XD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Cartoon Network" group-title="Infantiles",Cartoon Network
+http://visioniptv1.dynu.net:8073/Cartoon%20Network?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Nickelodeon." group-title="Infantiles",Nickelodeon.
+http://visioniptv1.dynu.net:8073/Nickelodeon%2E?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Discovery Kids" group-title="Infantiles",Discovery Kids
+http://visioniptv1.dynu.net:8073/Discovery%20Kids?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Boomerang" group-title="Infantiles",Boomerang
+http://visioniptv1.dynu.net:8073/Boomerang?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Paka Paka HD" group-title="Infantiles",Paka Paka HD
+http://visioniptv1.dynu.net:8073/Paka%20Paka%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Baby Tv" group-title="Infantiles",Baby Tv
+http://visioniptv1.dynu.net:8073/Baby%20Tv?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Tooncast" group-title="Infantiles",Tooncast
+http://visioniptv1.dynu.net:8073/Tooncast?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Disney Channel" group-title="Infantiles",Disney Channel
+http://visioniptv1.dynu.net:8073/Disney%20Channel?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Retro Music TV" group-title="Musica",Retro Music TV
+http://visioniptv1.dynu.net:8073/Retro%20Music%20TV?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Music Top" group-title="Musica",Music Top
+http://visioniptv1.dynu.net:8073/Music%20Top?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Claro Music" group-title="Musica",Claro Music
+http://visioniptv1.dynu.net:8073/Claro%20Music?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="MTV HD" group-title="Musica",MTV HD
+http://visioniptv1.dynu.net:8073/MTV%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Concert Channel Hd" group-title="Musica",Concert Channel Hd
+http://visioniptv1.dynu.net:8073/Concert%20Channel%20Hd?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="VM Latino" group-title="Musica",VM Latino
+http://visioniptv1.dynu.net:8073/VM%20Latino?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="MC MUSIC" group-title="Musica",MC MUSIC
+http://visioniptv1.dynu.net:8073/MC%20MUSIC?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Quiero Musica" group-title="Musica",Quiero Musica
+http://visioniptv1.dynu.net:8073/Quiero%20Musica?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Nu Music" group-title="Musica",Nu Music
+http://visioniptv1.dynu.net:8073/Nu%20Music?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Montecarlo" group-title="Uruguay",Montecarlo
+http://visioniptv1.dynu.net:8073/Montecarlo?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="VTV HD URUGUAY" group-title="Uruguay",VTV HD URUGUAY
+http://visioniptv1.dynu.net:8073/VTV%20HD%20URUGUAY?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="VTV URUGUAY" group-title="Uruguay",VTV URUGUAY
+http://visioniptv1.dynu.net:8073/VTV%20URUGUAY?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="VTV+" group-title="Uruguay",VTV+
+http://visioniptv1.dynu.net:8073/VTV%2B?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="La Tele uruguay" group-title="Uruguay",La Tele uruguay
+http://visioniptv1.dynu.net:8073/La%20Tele%20uruguay?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="SAETA URUGUAY" group-title="Uruguay",SAETA URUGUAY
+http://visioniptv1.dynu.net:8073/SAETA%20URUGUAY?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="TNU URUGUAY" group-title="Uruguay",TNU URUGUAY
+http://visioniptv1.dynu.net:8073/TNU%20URUGUAY?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Playboy." group-title="X X X +18",Playboy.
+http://visioniptv1.dynu.net:8073/Playboy%2E?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Sextreme" group-title="X X X +18",Sextreme
+http://visioniptv1.dynu.net:8073/Sextreme?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Venus." group-title="X X X +18",Venus.
+http://visioniptv1.dynu.net:8073/Venus%2E?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Axn Hd" group-title="CIne Hd",Axn Hd
+http://visioniptv1.dynu.net:8073/Axn%20Hd?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="VIAJAR HD" group-title="MOVISTAR +",VIAJAR HD
+http://visioniptv1.dynu.net:8073/VIAJAR%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="TNT. HD" group-title="MOVISTAR +",TNT. HD
+http://visioniptv1.dynu.net:8073/TNT%2E%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="TELEDEPORTE" group-title="MOVISTAR +",TELEDEPORTE
+http://visioniptv1.dynu.net:8073/TELEDEPORTE?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="TELECINCO" group-title="MOVISTAR +",TELECINCO
+http://visioniptv1.dynu.net:8073/TELECINCO?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="TCM HD" group-title="MOVISTAR +",TCM HD
+http://visioniptv1.dynu.net:8073/TCM%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="SYFY HD" group-title="MOVISTAR +",SYFY HD
+http://visioniptv1.dynu.net:8073/SYFY%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="SUNDACE TV" group-title="MOVISTAR +",SUNDACE TV
+http://visioniptv1.dynu.net:8073/SUNDACE%20TV?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="R. MADRID TV" group-title="MOVISTAR +",R. MADRID TV
+http://visioniptv1.dynu.net:8073/R%2E%20MADRID%20TV?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="PLAYBOY TV" group-title="X X X +18",PLAYBOY TV
+http://visioniptv1.dynu.net:8073/PLAYBOY%20TV?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="PARAMOUNT" group-title="MOVISTAR +",PARAMOUNT
+http://visioniptv1.dynu.net:8073/PARAMOUNT?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="NICKELODEON" group-title="MOVISTAR +",NICKELODEON
+http://visioniptv1.dynu.net:8073/NICKELODEON?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="NICK JR." group-title="MOVISTAR +",NICK JR.
+http://visioniptv1.dynu.net:8073/NICK%20JR%2E?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="NG WILD HD" group-title="MOVISTAR +",NG WILD HD
+http://visioniptv1.dynu.net:8073/NG%20WILD%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="NEOX" group-title="MOVISTAR +",NEOX
+http://visioniptv1.dynu.net:8073/NEOX?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="NATH GEOGRAFIC" group-title="MOVISTAR +",NATH GEOGRAFIC
+http://visioniptv1.dynu.net:8073/NATH%20GEOGRAFIC?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="NAT GEO HD" group-title="MOVISTAR +",NAT GEO HD
+http://visioniptv1.dynu.net:8073/NAT%20GEO%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="MULTIFUTBOL1" group-title="MOVISTAR +",MULTIFUTBOL1
+http://visioniptv1.dynu.net:8073/MULTIFUTBOL1?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="MULTIDEPORTE" group-title="MOVISTAR +",MULTIDEPORTE
+http://visioniptv1.dynu.net:8073/MULTIDEPORTE?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="MTV ESPAÑA" group-title="MOVISTAR +",MTV ESPAÑA
+http://visioniptv1.dynu.net:8073/MTV%20ESPA%C3%91A?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="MEZZO" group-title="MOVISTAR +",MEZZO
+http://visioniptv1.dynu.net:8073/MEZZO?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M.PartidazoHD" group-title="MOVISTAR +",M.PartidazoHD
+http://visioniptv1.dynu.net:8073/M%2EPartida%7AoHD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M.MOTOGPHD" group-title="MOVISTAR +",M.MOTOGPHD
+http://visioniptv1.dynu.net:8073/M%2EMOTOGPHD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M.LCAMPEON1" group-title="MOVISTAR +",M.LCAMPEON1
+http://visioniptv1.dynu.net:8073/M%2ELCAMPEON1?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M.FORMULA1HD" group-title="MOVISTAR +",M.FORMULA1HD
+http://visioniptv1.dynu.net:8073/M%2EFORMULA1HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M.ESTRENOSHD" group-title="MOVISTAR +",M.ESTRENOSHD
+http://visioniptv1.dynu.net:8073/M%2EESTRENOSHD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M.CineDoc&Roll" group-title="MOVISTAR +",M.CineDoc&Roll
+http://visioniptv1.dynu.net:8073/M%2ECineDoc%26Roll?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M.COMEDIA HD" group-title="MOVISTAR +",M.COMEDIA HD
+http://visioniptv1.dynu.net:8073/M%2ECOMEDIA%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M. SERIESMANIAS HD" group-title="MOVISTAR +",M. SERIESMANIAS HD
+http://visioniptv1.dynu.net:8073/M%2E%20SERIESMANIAS%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M. SERIES HD" group-title="MOVISTAR +",M. SERIES HD
+http://visioniptv1.dynu.net:8073/M%2E%20SERIES%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M. PARTIDAZO" group-title="MOVISTAR +",M. PARTIDAZO
+http://visioniptv1.dynu.net:8073/M%2E%20PARTIDAZO?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M. MOTOGP" group-title="MOVISTAR +",M. MOTOGP
+http://visioniptv1.dynu.net:8073/M%2E%20MOTOGP?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M. LCAMPEONES2" group-title="MOVISTAR +",M. LCAMPEONES2
+http://visioniptv1.dynu.net:8073/M%2E%20LCAMPEONES2?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M. LCAMPEON4" group-title="MOVISTAR +",M. LCAMPEON4
+http://visioniptv1.dynu.net:8073/M%2E%20LCAMPEON4?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M. LCAMPEON2" group-title="MOVISTAR +",M. LCAMPEON2
+http://visioniptv1.dynu.net:8073/M%2E%20LCAMPEON2?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M. GOLF HD" group-title="MOVISTAR +",M. GOLF HD
+http://visioniptv1.dynu.net:8073/M%2E%20GOLF%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M. FUTBOL HD" group-title="MOVISTAR +",M. FUTBOL HD
+http://visioniptv1.dynu.net:8073/M%2E%20FUTBOL%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M. FORMULA1" group-title="MOVISTAR +",M. FORMULA1
+http://visioniptv1.dynu.net:8073/M%2E%20FORMULA1?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M. F.TBOL HD" group-title="MOVISTAR +",M. F.TBOL HD
+http://visioniptv1.dynu.net:8073/M%2E%20F%2ETBOL%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M. ESTRENOS" group-title="MOVISTAR +",M. ESTRENOS
+http://visioniptv1.dynu.net:8073/M%2E%20ESTRENOS?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M. ESPORTS" group-title="MOVISTAR +",M. ESPORTS
+http://visioniptv1.dynu.net:8073/M%2E%20ESPORTS?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M. DRAMA" group-title="MOVISTAR +",M. DRAMA
+http://visioniptv1.dynu.net:8073/M%2E%20DRAMA?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M. DISNEY" group-title="MOVISTAR +",M. DISNEY
+http://visioniptv1.dynu.net:8073/M%2E%20DISNEY?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M. DEPORTES7" group-title="MOVISTAR +",M. DEPORTES7
+http://visioniptv1.dynu.net:8073/M%2E%20DEPORTES7?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M. DEPORTES6" group-title="MOVISTAR +",M. DEPORTES6
+http://visioniptv1.dynu.net:8073/M%2E%20DEPORTES6?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M. DEPORTES5" group-title="MOVISTAR +",M. DEPORTES5
+http://visioniptv1.dynu.net:8073/M%2E%20DEPORTES5?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M. DEPORTES4" group-title="MOVISTAR +",M. DEPORTES4
+http://visioniptv1.dynu.net:8073/M%2E%20DEPORTES4?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M. DEPORTES3" group-title="MOVISTAR +",M. DEPORTES3
+http://visioniptv1.dynu.net:8073/M%2E%20DEPORTES3?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M. DEPORTES2" group-title="MOVISTAR +",M. DEPORTES2
+http://visioniptv1.dynu.net:8073/M%2E%20DEPORTES2?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M. DEPORTES1" group-title="MOVISTAR +",M. DEPORTES1
+http://visioniptv1.dynu.net:8073/M%2E%20DEPORTES1?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M. DEP1 HD" group-title="MOVISTAR +",M. DEP1 HD
+http://visioniptv1.dynu.net:8073/M%2E%20DEP1%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M. DEP 1 HD" group-title="MOVISTAR +",M. DEP 1 HD
+http://visioniptv1.dynu.net:8073/M%2E%20DEP%201%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M. DCINE HD" group-title="MOVISTAR +",M. DCINE HD
+http://visioniptv1.dynu.net:8073/M%2E%20DCINE%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M. COMEDIA HD" group-title="MOVISTAR +",M. COMEDIA HD
+http://visioniptv1.dynu.net:8073/M%2E%20COMEDIA%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M. CINE DOCK&ROLL" group-title="MOVISTAR +",M. CINE DOCK&ROLL
+http://visioniptv1.dynu.net:8073/M%2E%20CINE%20DOCK%26ROLL?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M. ACCI©N HD" group-title="MOVISTAR +",M. ACCI©N HD
+http://visioniptv1.dynu.net:8073/M%2E%20ACCI%C2%A9N%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="M. ACCION HD" group-title="MOVISTAR +",M. ACCION HD
+http://visioniptv1.dynu.net:8073/M%2E%20ACCION%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="LA SEXTA HD" group-title="MOVISTAR +",LA SEXTA HD
+http://visioniptv1.dynu.net:8073/LA%20SEXTA%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="LA LIGATV BAR" group-title="MOVISTAR +",LA LIGATV BAR
+http://visioniptv1.dynu.net:8073/LA%20LIGATV%20BAR?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="LA LIGA123TVM3" group-title="MOVISTAR +",LA LIGA123TVM3
+http://visioniptv1.dynu.net:8073/LA%20LIGA123TVM3?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="LA LIGA123TVM2" group-title="MOVISTAR +",LA LIGA123TVM2
+http://visioniptv1.dynu.net:8073/LA%20LIGA123TVM2?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="LA LIGA123TVM1" group-title="MOVISTAR +",LA LIGA123TVM1
+http://visioniptv1.dynu.net:8073/LA%20LIGA123TVM1?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="LA LIGA123 TV" group-title="MOVISTAR +",LA LIGA123 TV
+http://visioniptv1.dynu.net:8073/LA%20LIGA123%20TV?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="LA LIGA TVBAR1" group-title="MOVISTAR +",LA LIGA TVBAR1
+http://visioniptv1.dynu.net:8073/LA%20LIGA%20TVBAR1?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="LA LIGA TV BAR" group-title="MOVISTAR +",LA LIGA TV BAR
+http://visioniptv1.dynu.net:8073/LA%20LIGA%20TV%20BAR?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="LA 2" group-title="MOVISTAR +",LA 2
+http://visioniptv1.dynu.net:8073/LA%202?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="LA 1 HD" group-title="MOVISTAR +",LA 1 HD
+http://visioniptv1.dynu.net:8073/LA%201%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="IBERALIA TV" group-title="MOVISTAR +",IBERALIA TV
+http://visioniptv1.dynu.net:8073/IBERALIA%20TV?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="HISTORIA" group-title="MOVISTAR +",HISTORIA
+http://visioniptv1.dynu.net:8073/HISTORIA?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="GOL" group-title="MOVISTAR +",GOL
+http://visioniptv1.dynu.net:8073/GOL?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="FOX LIVE HD" group-title="MOVISTAR +",FOX LIVE HD
+http://visioniptv1.dynu.net:8073/FOX%20LIVE%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="EUROSPORT1HD" group-title="MOVISTAR +",EUROSPORT1HD
+http://visioniptv1.dynu.net:8073/EUROSPORT1HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="EUROSPORT1 HD" group-title="MOVISTAR +",EUROSPORT1 HD
+http://visioniptv1.dynu.net:8073/EUROSPORT1%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="EUROSPORT 2" group-title="MOVISTAR +",EUROSPORT 2
+http://visioniptv1.dynu.net:8073/EUROSPORT%202?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="EUROSPORT 1" group-title="MOVISTAR +",EUROSPORT 1
+http://visioniptv1.dynu.net:8073/EUROSPORT%201?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="ENERGY" group-title="MOVISTAR +",ENERGY
+http://visioniptv1.dynu.net:8073/ENERGY?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="DIVINITY" group-title="MOVISTAR +",DIVINITY
+http://visioniptv1.dynu.net:8073/DIVINITY?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="DISNEY JR" group-title="MOVISTAR +",DISNEY JR
+http://visioniptv1.dynu.net:8073/DISNEY%20JR?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="DISNEY CH HD" group-title="MOVISTAR +",DISNEY CH HD
+http://visioniptv1.dynu.net:8073/DISNEY%20CH%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="DISCOVERY" group-title="MOVISTAR +",DISCOVERY
+http://visioniptv1.dynu.net:8073/DISCOVERY?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="CUATRO HD" group-title="MOVISTAR +",CUATRO HD
+http://visioniptv1.dynu.net:8073/CUATRO%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="CRIMEN E INVESTIGACION" group-title="MOVISTAR +",CRIMEN E INVESTIGACION
+http://visioniptv1.dynu.net:8073/CRIMEN%20E%20INVESTIGACION?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="COSMO HD" group-title="MOVISTAR +",COSMO HD
+http://visioniptv1.dynu.net:8073/COSMO%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="COMEDY CENTRAL HD" group-title="MOVISTAR +",COMEDY CENTRAL HD
+http://visioniptv1.dynu.net:8073/COMEDY%20CENTRAL%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="CLASSICA" group-title="MOVISTAR +",CLASSICA
+http://visioniptv1.dynu.net:8073/CLASSICA?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="CLAN TVE" group-title="MOVISTAR +",CLAN TVE
+http://visioniptv1.dynu.net:8073/CLAN%20TVE?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="CINE ESPAÑOL" group-title="MOVISTAR +",CINE ESPAÑOL
+http://visioniptv1.dynu.net:8073/CINE%20ESPA%C3%91OL?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="CAZAyPESCA HD" group-title="MOVISTAR +",CAZAyPESCA HD
+http://visioniptv1.dynu.net:8073/CAZAyPESCA%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="CAZA Y PESCA" group-title="MOVISTAR +",CAZA Y PESCA
+http://visioniptv1.dynu.net:8073/CAZA%20Y%20PESCA?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="CANAL SUR A." group-title="MOVISTAR +",CANAL SUR A.
+http://visioniptv1.dynu.net:8073/CANAL%20SUR%20A%2E?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="CANAL PANDA" group-title="MOVISTAR +",CANAL PANDA
+http://visioniptv1.dynu.net:8073/CANAL%20PANDA?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="CANAL ORBE21" group-title="MOVISTAR +",CANAL ORBE21
+http://visioniptv1.dynu.net:8073/CANAL%20ORBE21?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="CANAL ODISEA" group-title="MOVISTAR +",CANAL ODISEA
+http://visioniptv1.dynu.net:8073/CANAL%20ODISEA?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="CANAL DECASA" group-title="MOVISTAR +",CANAL DECASA
+http://visioniptv1.dynu.net:8073/CANAL%20DECASA?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="CANAL COCINA" group-title="MOVISTAR +",CANAL COCINA
+http://visioniptv1.dynu.net:8073/CANAL%20COCINA?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="CALLE 13 HD" group-title="MOVISTAR +",CALLE 13 HD
+http://visioniptv1.dynu.net:8073/CALLE%2013%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="BOING" group-title="MOVISTAR +",BOING
+http://visioniptv1.dynu.net:8073/BOING?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="BLAZE" group-title="MOVISTAR +",BLAZE
+http://visioniptv1.dynu.net:8073/BLAZE?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="BEIN SPORTS" group-title="MOVISTAR +",BEIN SPORTS
+http://visioniptv1.dynu.net:8073/BEIN%20SPORTS?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="BEIN LALIGA2" group-title="MOVISTAR +",BEIN LALIGA2
+http://visioniptv1.dynu.net:8073/BEIN%20LALIGA2?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="BEIN LALIGA1" group-title="MOVISTAR +",BEIN LALIGA1
+http://visioniptv1.dynu.net:8073/BEIN%20LALIGA1?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="BEIN LALIGA FULL HD" group-title="MOVISTAR +",BEIN LALIGA FULL HD
+http://visioniptv1.dynu.net:8073/BEIN%20LALIGA%20FULL%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="BEIN LA LIGA FULL HD" group-title="MOVISTAR +",BEIN LA LIGA FULL HD
+http://visioniptv1.dynu.net:8073/BEIN%20LA%20LIGA%20FULL%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="BE MAD" group-title="MOVISTAR +",BE MAD
+http://visioniptv1.dynu.net:8073/BE%20MAD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="BAR.A TV" group-title="MOVISTAR +",BAR.A TV
+http://visioniptv1.dynu.net:8073/BAR%2EA%20TV?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="BABY TV" group-title="MOVISTAR +",BABY TV
+http://visioniptv1.dynu.net:8073/BABY%20TV?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="AXN WHITE HD" group-title="MOVISTAR +",AXN WHITE HD
+http://visioniptv1.dynu.net:8073/AXN%20WHITE%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="ARAGON TV" group-title="MOVISTAR +",ARAGON TV
+http://visioniptv1.dynu.net:8073/ARAGON%20TV?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="ANTENA 3 HD" group-title="MOVISTAR +",ANTENA 3 HD
+http://visioniptv1.dynu.net:8073/ANTENA%203%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="AMC HD" group-title="MOVISTAR +",AMC HD
+http://visioniptv1.dynu.net:8073/AMC%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="24 HORAS" group-title="MOVISTAR +",24 HORAS
+http://visioniptv1.dynu.net:8073/24%20HORAS?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="#VAMOSHD" group-title="MOVISTAR +",#VAMOSHD
+http://visioniptv1.dynu.net:8073/%23VAMOSHD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="#0" group-title="MOVISTAR +",#0
+http://visioniptv1.dynu.net:8073/%230?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="HOLLYWOOD" group-title="MOVISTAR +",HOLLYWOOD
+http://visioniptv1.dynu.net:8073/HOLLYWOOD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="FOX HD ESPANA" group-title="MOVISTAR +",FOX HD ESPANA
+http://visioniptv1.dynu.net:8073/FOX%20HD%20ESPANA?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="TOROS" group-title="MOVISTAR +",TOROS
+http://visioniptv1.dynu.net:8073/TOROS?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="TOROS HD" group-title="MOVISTAR +",TOROS HD
+http://visioniptv1.dynu.net:8073/TOROS%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="#0 HD" group-title="MOVISTAR +",#0 HD
+http://visioniptv1.dynu.net:8073/%230%20HD?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Tnt Sport Sd" group-title="Deportes",Tnt Sport Sd
+http://visioniptv1.dynu.net:8073/Tnt%20Sport%20Sd?u=24hs:p=24hs
+#EXTINF:-1 tvg-id="Fox Sport Prem Sd" group-title="Deportes",Fox Sport Prem Sd
+http://visioniptv1.dynu.net:8073/Fox%20Sport%20Prem%20Sd?u=24hs:p=24hs
