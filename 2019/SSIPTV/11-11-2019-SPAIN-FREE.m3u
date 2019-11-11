@@ -1332,3 +1332,361 @@ http://dominiopersonal.xyz:25461/whiteitv/AgfgETfghtZCVs/386
 http://dominiopersonal.xyz:25461/whiteitv/AgfgETfghtZCVs/387
 
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFO M3U",LATINFLIX 1
+http://www.latinflixplus.net:25461/get.php?username=Up5UEG1R6F&password=e2x3VO55iV&type=m3u_plus&output=mpegts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFO M3U",LATINFLIX 2
+http://www.latinflixplus.net:25461/get.php?username=Up5UEG1R6F&password=e2x3VO55iV&type=m3u_plus&output=m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", ZOOMOO SD (m)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6624
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", TOONCAST(c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6623
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", NICKTOONS SD(c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6618
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", NICK JR SD(c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6615
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/disney%20jr.png" group-title="INFANTILES", DISNEY JUNIOR SD (m)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6608
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/334.png" group-title="INFANTILES", BOOMERANG SD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6603
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png/revision/latest?cb=20111201223043" group-title="INFANTILES", BABY TV SD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6601
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", NICK JR HD(c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6600
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", NICK 2 HD (m)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6598
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", NICK 2 HD(c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6597
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", NICKELODEON HD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6596
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", DISCOVERY KIDS HD (m)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6595
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", DISNEY JUNIOR  HD SUR(c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6594
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", CARTOON NETWORK HD (m)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6593
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTILES", BABY FIRST HD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6591
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/tnt.png" group-title="CINE Y SERIES", TNT SD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6584
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/fox%20family.png" group-title="CINE Y SERIES", FOX FAMILY HD (m)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6537
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/FOX%20Comedy.png" group-title="CINE Y SERIES", FOX COMEDY HD (m)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6536
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/fox%20action.png" group-title="CINE Y SERIES", FOX ACTION HD (m)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6535
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/espn.png" group-title="DEPORTES", ESPN AR (p)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6366
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/ar_cinecanal-1_m.png" group-title="FULL HD", CINECANAL FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6672
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/FXM.png" group-title="FULL HD", FXM FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6684
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/Golden%20Plus.png" group-title="FULL HD", GOLDEN PLUS FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6685
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/hbo2.png" group-title="FULL HD", HBO 2 FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6687
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/hbo%20family.png" group-title="FULL HD", HBO FAMILY FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6688
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/HBO.png" group-title="FULL HD", HBO FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6689
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/HBO.png" group-title="FULL HD", HBO FHD (SUB) (g)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6690
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/HBO%20Plus.png" group-title="FULL HD", HBO PLUS FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6691
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/HBO_Signature.png" group-title="FULL HD", HBO SIGNATURE FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6692
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/maxprime.png" group-title="FULL HD", MAX PRIME FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6693
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/maxup.png" group-title="FULL HD", MAX UP FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6694
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/paramount.png" group-title="FULL HD", PARAMOUNT CHANNEL FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6695
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/sony.png" group-title="FULL HD", SONY FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6696
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/Space_lam_hd.png" group-title="FULL HD", SPACE FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6697
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/studiouniversal.png" group-title="FULL HD", STUDIO UNIVERSAL FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6698
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/sundanceESP.png" group-title="FULL HD", SUNDANCE CHANNEL FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6699
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/syfy.png" group-title="FULL HD", SYFY FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6700
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/tnt%20hd.png" group-title="FULL HD", TNT FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6701
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/tntseries.png" group-title="FULL HD", TNT SERIES FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6702
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/trutv%20hd.png" group-title="FULL HD", TRU TV FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6703
+
+#EXTINF:-1 tvg-logo="http://ipuntotv.com/IMAGES/TVC-Networks-logo-1.png" group-title="FULL HD", TVC FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6704
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/UniversalHD.png" group-title="FULL HD", UNIVERSAL CHANNEL FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6705
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/Warner.png" group-title="FULL HD", WARNER CHANNEL FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6706
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/animal%20planet.png" group-title="FULL HD", ANIMAL PLANET FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6707
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/discovery%20channel.png" group-title="FULL HD", DISCOVERY CHANNEL FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6708
+
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/h_h-logo-01.png" group-title="FULL HD", DISCOVERY HOME & HEALTH FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6709
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/ID.png" group-title="FULL HD", DISCOVERY INVESTIGATION FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6710
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/Discovery%20theater.png" group-title="FULL HD", DISCOVERY THEATER FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6711
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/discovery%20turbo.png" group-title="FULL HD", DISCOVERY TURBO FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6713
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/Discovery%20World.png" group-title="FULL HD", DISCOVERY WORLD FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6714
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/el%20gourmet.png" group-title="FULL HD", GOURMET FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6715
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/history%20hd.png" group-title="FULL HD", HISTORY CHANNEL FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6716
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FULL HD", MTV LIVE  FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6717
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FULL HD", MTV FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6718
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/vh1%20hd.png" group-title="FULL HD", VH1 FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6719
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/adn40.png" group-title="FULL HD", ADN 40 FHD MX (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6720
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/AZCORA.png" group-title="FULL HD", AZ CORAZON FHD MX (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6721
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/AZmundo.png" group-title="FULL HD", AZ MUNDO FHD MX (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6722
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/Az-Cinema.png" group-title="FULL HD", AZ CINEMA FHD MX (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6725
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/AZCORA.png" group-title="FULL HD", AZ CORAZON FHD  MX (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6726
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/AZClic.png" group-title="FULL HD", AZ CLIC FHD MX (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6727
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/canal%205%20HD.png" group-title="FULL HD", CANAL 5  FHD MX (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6728
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/las%20estrellas.png" group-title="FULL HD", LAS ESTRELLAS FHD  MX (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6730
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/1200px-Pasiones_Tv_logo.svg.png" group-title="FULL HD", PASIONES FHD MX (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6732
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Televisa_logo.svg/1200px-Televisa_logo.svg.png" group-title="FULL HD", TELEVISA FHD MX (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6733
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/BOOMERA%29.png" group-title="FULL HD", BOOMERANG FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6734
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/Cartoon_Network_2010.png" group-title="FULL HD", CARTOON NETWORK FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6735
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/discovery%20kids.png" group-title="FULL HD", DISCOVERY KIDS FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6736
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/disney%20channel.png" group-title="FULL HD", DISNEY CHANNEL FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6737
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/natgeo%20kids.png" group-title="FULL HD", NATGEO KIDS FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6738
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/nick%20jr.png" group-title="FULL HD", NICK JR FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6739
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/nickelodeon%20%28nick%29.png" group-title="FULL HD", NICKELODEON FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6740
+
+#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/MAS-CHIC.jpg" group-title="FULL HD", MAS CHIC FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6741
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/HOLATV.png" group-title="FULL HD", HOLA TV  FHD (C)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6742
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/fox%20life.png" group-title="FULL HD", FOX LIFE FHD(c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6743
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/COMEDYCENTRAL%29.png" group-title="FULL HD", COMEDY CENTRAL FHD (c)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6744
+
+#EXTINF:-1 tvg-logo="https://ikslujavi.000webhostapp.com/INFATILES%2024/NatGeo.png" group-title="CULTURA", NAT GEO HD (m)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6745
+
+#EXTINF:-1 tvg-logo="https://ikslujavi.000webhostapp.com/INFATILES%2024/History.png" group-title="CULTURA", HISTORY HD (m)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6746
+
+#EXTINF:-1 tvg-logo="https://ikslujavi.000webhostapp.com/INFATILES%2024/discovery%20channel.png" group-title="CULTURA", DISCOVERY CHANNEL HD (m)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6748
+
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64,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" group-title="CULTURA", DISCOVERY ID HD (m)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6749
+
+#EXTINF:-1 tvg-logo="https://ikslujavi.000webhostapp.com/INFATILES%2024/Discovery%20theater.png" group-title="CULTURA", DISCOVERY THEATHER HD (m)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6750
+
+#EXTINF:-1 tvg-logo="https://ikslujavi.000webhostapp.com/INFATILES%2024/Discovery%20World.png" group-title="CULTURA", DISCOVERY WORLD HD (m)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6751
+
+#EXTINF:-1 tvg-logo="https://ikslujavi.000webhostapp.com/INFATILES%2024/home%20and%20health.png" group-title="CULTURA", HOME & HEALTH HD (m)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6754
+
+#EXTINF:-1 tvg-logo="https://ikslujavi.000webhostapp.com/INFATILES%2024/NatGeo.png" group-title="CULTURA", NAT GEO HD (m)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6755
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/dhe.png" group-title="CULTURA", DHE HD (m)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6756
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Food_Network_Canada_HD.PNG" group-title="CULTURA", FOOD NETWORK HD (i)
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6757
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/ACCION.jpg" group-title="CINEMA PPV", CINEMA ACCION EPRO
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6768
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/INFATILES.png" group-title="CINEMA PPV", CINEMA INFANTIL EPRO
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6769
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/TERROR.jpg" group-title="CINEMA PPV", CINEMA TERROR EPRO
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6770
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/CINEMAPPV.png" group-title="CINEMA PPV", PPV CINEMA 01
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6771
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/CINEMAPPV.png" group-title="CINEMA PPV", PPV CINEMA 04
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6773
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/CINEMAPPV.png" group-title="CINEMA PPV", PPV CINEMA 05
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6774
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/CINEMAPPV.png" group-title="CINEMA PPV", PPV CINEMA 06
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6776
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/CINEMAPPV.png" group-title="CINEMA PPV", PPV CINEMA 08
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6777
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/CINEMAPPV.png" group-title="CINEMA PPV", PPV CINEMA 09
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6778
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/CINEMAPPV.png" group-title="CINEMA PPV", PPV CINEMA 07
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6779
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/CINEMAPPV.png" group-title="CINEMA PPV", PPV CINEMA 11
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6780
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/CINEMAPPV.png" group-title="CINEMA PPV", PPV CINEMA 10
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6781
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/CINEMAPPV.png" group-title="CINEMA PPV", PPV CINEMA 12
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6782
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/CINEMAPPV.png" group-title="CINEMA PPV", PPV CINEMA 13
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6783
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/CINEMAPPV.png" group-title="CINEMA PPV", PPV CINEMA 14
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6784
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/CINEMAPPV.png" group-title="CINEMA PPV", PPV CINEMA 15
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6785
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/CINEMAPPV.png" group-title="CINEMA PPV", PPV CINEMA 16
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6786
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/CINEMAPPV.png" group-title="CINEMA PPV", PPV CINEMA 20
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6789
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/CINEMAPPV.png" group-title="CINEMA PPV", PPV CINEMA 22
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6792
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/CINEMAPPV.png" group-title="CINEMA PPV", PPV CINEMA 24
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6794
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/CINEMAPPV.png" group-title="CINEMA PPV", PPV CINEMA 25
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6795
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/CINEMAPPV.png" group-title="CINEMA PPV", PPV CINEMA 26
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6796
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/CINEMAPPV.png" group-title="CINEMA PPV", PPV CINEMA 27
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6797
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/CINEMAPPV.png" group-title="CINEMA PPV", PPV CINEMA 28
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6798
+
+#EXTINF:-1 tvg-logo="http://ikslujavi.hostingerapp.com/logos%20de%20jems/CINEMAPPV.png" group-title="CINEMA PPV", PPV CINEMA 29
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6799
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="ADULTOS", Miami TV
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6825
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="ADULTOS", Miami TV Jenny Live
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6826
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="ADULTOS", Miami TV Latino
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6827
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NEW CANALES", Antena 3
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6828
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ff8556d00486db576233d86dd2e52bef.png" group-title="NEW CANALES", Wow TV
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6829
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/200px-Major_League_Baseball_logo.svg.png" group-title="NEW CANALES", MLB EN VIVO
+http://www.latinflixplus.net:25461/Up5UEG1R6F/e2x3VO55iV/6830
+
+
+
