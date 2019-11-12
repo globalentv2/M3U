@@ -1,6 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="LISTA M3U",LISTA INFO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U",11-2019
+https://raw.githubusercontent.com/globalentv2/M3U/master/2019/SSIPTV/05-11-2019-SUPERTV.m3u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U",10-2019
+https://raw.githubusercontent.com/globalentv2/M3U/master/2019/SSIPTV/16-10-2019-SUPERTV.m3u
+
+#EXTINF:-1 tvg-logo="" group-title="LISTA M3U",SPAIN UPDATE
 http://tv.justcccam.info:8080/get.php?&username=5pJ2Bd3SUq&password=PCzNNMCu2k&type=m3u
 
 #EXTINF:-1 tvg-logo="" group-title="SPAIN",======== SPAIN ========
