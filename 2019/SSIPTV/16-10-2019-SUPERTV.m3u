@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", 11-2019
+https://raw.githubusercontent.com/globalentv2/M3U/master/2019/SSIPTV/05-11-2019-SUPERTV.m3u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", 11-19 SPAIN
+https://raw.githubusercontent.com/globalentv2/M3U/master/2019/SSIPTV/11-11-2019-SPAIN-FREE.m3u
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U", VISION IPTV
 https://raw.githubusercontent.com/globalentv2/M3U/master/2019/SSIPTV/VISIONIPTV.m3u
 
