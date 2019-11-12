@@ -1335,7 +1335,7 @@ http://dominiopersonal.xyz:25461/whiteitv/AgfgETfghtZCVs/386
 #EXTINF:-1,TAQ 6
 http://dominiopersonal.xyz:25461/whiteitv/AgfgETfghtZCVs/387
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="TDT ES",254TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="TDT 254",254TV
 http://dsb250.tv:8000/get.php?&username=live&password=ga288&type=m3u
 
 #EXTINF:-1,PORTADA
@@ -1881,7 +1881,7 @@ http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/332.mkv
 #EXTINF:-1,Aladin
 http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/331.mkv
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="TDT ES",DSB 250
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="TDT DSB",DSB 250
 https://pastebin.com/raw/QCg7QFQc
 
 #EXTINF:-1 tvg-ID="" tvg-name="Sol musica" tvg-logo="" group-title="MUSICA",Sol musica
