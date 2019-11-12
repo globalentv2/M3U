@@ -523,7 +523,6 @@ http://tv.justcccam.info:8080/5pJ2Bd3SUq/PCzNNMCu2k/48701
 http://tv.justcccam.info:8080/5pJ2Bd3SUq/PCzNNMCu2k/48702
 
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SmnHNwJ/s-Te-explicamos-con-detalles-que-es-IPTV.jpg",QUE ES IPTV?
 https://ia601504.us.archive.org/16/items/servicioiptv/SERVICIO%20IPTV.mp4
 #EXTINF:-1, VIVA CRISTO TV MUSIC
@@ -1336,6 +1335,897 @@ http://dominiopersonal.xyz:25461/whiteitv/AgfgETfghtZCVs/386
 #EXTINF:-1,TAQ 6
 http://dominiopersonal.xyz:25461/whiteitv/AgfgETfghtZCVs/387
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="TDT ES",254TV
+http://dsb250.tv:8000/get.php?&username=live&password=ga288&type=m3u
+
+#EXTINF:-1,PORTADA
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/67.ts
+#EXTINF:-1,LA 1 HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/81.ts
+#EXTINF:-1,LA 1
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/117.ts
+#EXTINF:-1,LA 2
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/83.ts
+#EXTINF:-1,ANTENA 3 HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/4.ts
+#EXTINF:-1,ANTENA 3
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/90.ts
+#EXTINF:-1,CUATRO HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/15.ts
+#EXTINF:-1,CUATRO
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/106.ts
+#EXTINF:-1,TELECINCO HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/71.ts
+#EXTINF:-1,TELECINCO
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/148.ts
+#EXTINF:-1,LA SEXTA HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/26.ts
+#EXTINF:-1,LA SEXTA
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/118.ts
+#EXTINF:-1,ENERGY
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/19.ts
+#EXTINF:-1,DIVINITY
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/18.ts
+#EXTINF:-1,Fdf
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/111.ts
+#EXTINF:-1,NOVA
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/143.ts
+#EXTINF:-1,NEOX
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/140.ts
+#EXTINF:-1,MEGA
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/152.ts
+#EXTINF:-1,DKISS
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/432.ts
+#EXTINF:-1,BE MAD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/97.ts
+#EXTINF:-1,Astres Series
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/353.ts
+#EXTINF:-1,Gran Hermano VIP
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/391.ts
+#EXTINF:-1,À Punt HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/361.ts
+#EXTINF:-1,7 RM HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/357.ts
+#EXTINF:-1,ARAGON TV INT
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/91.ts
+#EXTINF:-1,24 HORAS
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/89.ts
+#EXTINF:-1,CANAL SUR A.
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/100.ts
+#EXTINF:-1,CANAL SUR A. HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/354.ts
+#EXTINF:-1,TeleMadrid
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/356.ts
+#EXTINF:-1,ETB 1 HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/358.ts
+#EXTINF:-1,Canal Castilla La Mancha
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/355.ts
+#EXTINF:-1,#0 HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/1.ts
+#EXTINF:-1,#0
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/87.ts
+#EXTINF:-1,M. ESTRENOS HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/86.ts
+#EXTINF:-1,M. ESTRENOS
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/39.ts
+#EXTINF:-1,M. ACCION HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/30.ts
+#EXTINF:-1,M. ACCION
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/120.ts
+#EXTINF:-1,M. COMEDIA HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/85.ts
+#EXTINF:-1,M. COMEDIA
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/122.ts
+#EXTINF:-1,M.DRAMA HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/38.ts
+#EXTINF:-1,M.DRAMA
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/126.ts
+#EXTINF:-1,M.CineDoc&Roll hd
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/150.ts
+#EXTINF:-1,M.CineDoc&Roll
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/130.ts
+#EXTINF:-1,M. SERIES HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/44.ts
+#EXTINF:-1,M. SERIES
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/129.ts
+#EXTINF:-1,M. DISNEY
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/37.ts
+#EXTINF:-1,M.Seriesmania HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/138.ts
+#EXTINF:-1,M. SERIESMANIA
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/45.ts
+#EXTINF:-1,M. Cine Español
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/121.ts
+#EXTINF:-1,Canal XTRM
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/367.ts
+#EXTINF:-1,Canal Somos
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/368.ts
+#EXTINF:-1,Canal Darck
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/366.ts
+#EXTINF:-1,PARAMOUNT
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/144.ts
+#EXTINF:-1,COSMO HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/79.ts
+#EXTINF:-1,COSMO
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/104.ts
+#EXTINF:-1,AXN HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/94.ts
+#EXTINF:-1,AXN
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/92.ts
+#EXTINF:-1,AXN WHITE HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/96.ts
+#EXTINF:-1,AXN WHITE
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/95.ts
+#EXTINF:-1,FOX
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/112.ts
+#EXTINF:-1,FOX HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/23.ts
+#EXTINF:-1,FOX LIFE HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/80.ts
+#EXTINF:-1,FOX LIFE
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/113.ts
+#EXTINF:-1,COMEDYCENTRALHD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/78.ts
+#EXTINF:-1,COMEDY CENTRAL
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/14.ts
+#EXTINF:-1,TNT HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/73.ts
+#EXTINF:-1,TNT
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/149.ts
+#EXTINF:-1,HOLLYWOODHD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/25.ts
+#EXTINF:-1,HOLLYWOOD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/115.ts
+#EXTINF:-1,Calle13 hd
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/9.ts
+#EXTINF:-1,Calle13
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/8.ts
+#EXTINF:-1,AMC HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/2.ts
+#EXTINF:-1,AMC
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/3.ts
+#EXTINF:-1,TCM HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/70.ts
+#EXTINF:-1,TCM
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/69.ts
+#EXTINF:-1,SYFY HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/147.ts
+#EXTINF:-1,SYFY
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/68.ts
+#EXTINF:-1,Sundance FHD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/447.ts
+#EXTINF:-1,SUNDANCE TV
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/146.ts
+#EXTINF:-1,TELEDEPORTE
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/72.ts
+#EXTINF:-1,NAT GEO HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/62.ts
+#EXTINF:-1,NAT GEOGRAPH
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/63.ts
+#EXTINF:-1,NG WILD HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/64.ts
+#EXTINF:-1,NAT GEO WILD sd
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/151.ts
+#EXTINF:-1,HISTORIA HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/375.ts
+#EXTINF:-1,HISTORIA
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/114.ts
+#EXTINF:-1,CANAL ODISEA hd
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/370.ts
+#EXTINF:-1,CANAL ODISEA
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/12.ts
+#EXTINF:-1,DISCOVERY HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/442.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/107.ts
+#EXTINF:-1,Discovery Max
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/373.ts
+#EXTINF:-1,CAZAVISION
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/429.ts
+#EXTINF:-1,CAZAyPESCA HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/13.ts
+#EXTINF:-1,CAZA Y PESCA
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/101.ts
+#EXTINF:-1,IBERALIA TV
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/116.ts
+#EXTINF:-1,TOROS HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/75.ts
+#EXTINF:-1,TOROS
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/74.ts
+#EXTINF:-1,BLAZE
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/98.ts
+#EXTINF:-1,CRIMEN+INVES
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/105.ts
+#EXTINF:-1,CLASSICA
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/103.ts
+#EXTINF:-1,VIAJAR
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/76.ts
+#EXTINF:-1,Decasa FHD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/446.ts
+#EXTINF:-1,CANAL DECASA
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/11.ts
+#EXTINF:-1,Canal Cocina FHD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/448.ts
+#EXTINF:-1,Canal cocina
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/10.ts
+#EXTINF:-1,DAZN MOTO GP FHD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/369.ts
+#EXTINF:-1,#VAMOSHD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/77.ts
+#EXTINF:-1,#VAMOS
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/88.ts
+#EXTINF:-1,M. laliga HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/93.ts
+#EXTINF:-1,M.LALIGA1 hd
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/49.ts
+#EXTINF:-1,M. LaLiga 2 HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/127.ts
+#EXTINF:-1,M. LaLiga 3 HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/128.ts
+#EXTINF:-1,M. LaLiga
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/41.ts
+#EXTINF:-1,M. LALIGA 1
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/42.ts
+#EXTINF:-1,M.LALIGA2
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/50.ts
+#EXTINF:-1,M.LALIGA3
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/131.ts
+#EXTINF:-1,M.LALIGA4
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/132.ts
+#EXTINF:-1,M.LALIGA5
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/51.ts
+#EXTINF:-1,M.LALIGA6
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/52.ts
+#EXTINF:-1,M.LALIGA7
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/53.ts
+#EXTINF:-1,M.LALIGA8
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/133.ts
+#EXTINF:-1,LALIGATV BAR hd
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/82.ts
+#EXTINF:-1,LALIGATVBAR1
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/27.ts
+#EXTINF:-1,LALIGATVBAR2
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/119.ts
+#EXTINF:-1,LALIGATVBAR3
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/28.ts
+#EXTINF:-1,LALIGATVBAR4
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/29.ts
+#EXTINF:-1,M.LCAMPEONES HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/21.ts
+#EXTINF:-1,M.LCAMPEONES SD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/60.ts
+#EXTINF:-1,M.LCAMPEON1 hd
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/134.ts
+#EXTINF:-1,M.LCAMPEON2 hd
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/136.ts
+#EXTINF:-1,M.LCAMPEON1
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/54.ts
+#EXTINF:-1,M.LCAMPEON2
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/135.ts
+#EXTINF:-1,M.LCAMPEON3
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/55.ts
+#EXTINF:-1,M.LCAMPEON4
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/137.ts
+#EXTINF:-1,M.LCAMPEON5
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/56.ts
+#EXTINF:-1,M.LCAMPEON6
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/57.ts
+#EXTINF:-1,M.LCAMPEON7
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/58.ts
+#EXTINF:-1,M.LCAMPEON8
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/59.ts
+#EXTINF:-1,M.FORMULA1HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/48.ts
+#EXTINF:-1,M.FORMULA1
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/47.ts
+#EXTINF:-1,M. GOLF HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/84.ts
+#EXTINF:-1,M. GOLF
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/40.ts
+#EXTINF:-1,M. DEPORTESHD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/36.ts
+#EXTINF:-1,M. DEPORTES
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/31.ts
+#EXTINF:-1,M.DEPORTES 1 HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/46.ts
+#EXTINF:-1,M. DEPORTES1
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/123.ts
+#EXTINF:-1,M. DEPORTES2
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/32.ts
+#EXTINF:-1,M. DEPORTES3
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/33.ts
+#EXTINF:-1,M. DEPORTES4
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/34.ts
+#EXTINF:-1,M. DEPORTES5
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/35.ts
+#EXTINF:-1,M. DEPORTES6
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/124.ts
+#EXTINF:-1,M. DEPORTES7
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/125.ts
+#EXTINF:-1,GOL
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/24.ts
+#EXTINF:-1,Barca tv
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/6.ts
+#EXTINF:-1,R. MADRID TV
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/145.ts
+#EXTINF:-1,MEZZO
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/139.ts
+#EXTINF:-1,EUROSPORT1HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/22.ts
+#EXTINF:-1,EUROSPORT 1 -sd
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/20.ts
+#EXTINF:-1,EUROSPORT 2
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/110.ts
+#EXTINF:-1,CLAN  TVE
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/102.ts
+#EXTINF:-1,DISNEY XD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/109.ts
+#EXTINF:-1,DISNEY JR
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/108.ts
+#EXTINF:-1,DISNEY CH HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/16.ts
+#EXTINF:-1,DISNEY CH.
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/17.ts
+#EXTINF:-1,NICKELODEONHD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/65.ts
+#EXTINF:-1,NICKELODEON
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/142.ts
+#EXTINF:-1,NICK JR
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/141.ts
+#EXTINF:-1,Boing
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/7.ts
+#EXTINF:-1,Baby tv
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/5.ts
+#EXTINF:-1,CANAL PANDA
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/99.ts
+#EXTINF:-1,SOL MUSICA
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/443.ts
+#EXTINF:-1,Formix TV
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/352.ts
+#EXTINF:-1,Power hd
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/351.ts
+#EXTINF:-1,Musictop
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/350.ts
+#EXTINF:-1,La Mega Mundial
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/349.ts
+#EXTINF:-1,MTV ESPAÑA
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/61.ts
+#EXTINF:-1,Penthouse Quickies HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/252.ts
+#EXTINF:-1,Penthouse Passion HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/253.ts
+#EXTINF:-1,Penthouse Gold HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/251.ts
+#EXTINF:-1,Sext & Senso
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/272.ts
+#EXTINF:-1,XY Max HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/243.ts
+#EXTINF:-1,Prive TV
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/271.ts
+#EXTINF:-1,Pink Erotic
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/286.ts
+#EXTINF:-1,Pink Erotic 2
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/287.ts
+#EXTINF:-1,Pink Erotic 3
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/288.ts
+#EXTINF:-1,Pink Erotic 4
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/289.ts
+#EXTINF:-1,Pink Erotic 5
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/290.ts
+#EXTINF:-1,Pink Erotic 6
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/291.ts
+#EXTINF:-1,French Lover Europe
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/299.ts
+#EXTINF:-1,Hustler TV
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/265.ts
+#EXTINF:-1,Hustler HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/242.ts
+#EXTINF:-1,Hot TV
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/277.ts
+#EXTINF:-1,XY Mix HD
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/245.ts
+#EXTINF:-1,Blue Hustler
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/311.ts
+#EXTINF:-1,XXL
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/266.ts
+#EXTINF:-1,PLAYBOY TV
+http://254tv.mine.nu:8000/live/ga288/6sc5d8s/66.ts
+#EXTINF:-1,Yo soy Dolemite
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/435.mp4
+#EXTINF:-1,The King
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/439.mp4
+#EXTINF:-1,Serpiente de cascabel
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/438.mp4
+#EXTINF:-1,Mejor que nunca
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/437.mp4
+#EXTINF:-1,Los Descendientes 3
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/434.mp4
+#EXTINF:-1,A dos metros de ti
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/436.mp4
+#EXTINF:-1,El Rey Leon
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/431.mp4
+#EXTINF:-1,El Grins
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/428.mkv
+#EXTINF:-1,Wounds
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/426.mkv
+#EXTINF:-1,Victoria, 3 de marzo
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/412.mkv
+#EXTINF:-1,Una Pequeña Mentira
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/424.mkv
+#EXTINF:-1,Una Nueva Identidad
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/423.mkv
+#EXTINF:-1,The Tobacconist
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/422.mkv
+#EXTINF:-1,The Laundromat: Dinero sucio
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/420.mp4
+#EXTINF:-1,Nescesitamos tu Voto
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/418.mkv
+#EXTINF:-1,MR. link: el origen perdido
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/417.mkv
+#EXTINF:-1,La Cancion De Mi Padre
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/416.mkv
+#EXTINF:-1,Hurricane
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/415.mkv
+#EXTINF:-1,Enemigos Intimos
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/413.mkv
+#EXTINF:-1,Eli
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/427.mp4
+#EXTINF:-1,El Sol También Es Una Estrella
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/421.mkv
+#EXTINF:-1,Driven El origen de la leyenda
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/414.mkv
+#EXTINF:-1,Diecisiete
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/419.mkv
+#EXTINF:-1,10 días sin mamá
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/411.mkv
+#EXTINF:-1,Hotel Artemis
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/410.mp4
+#EXTINF:-1,Annabelle vuelve a casa
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/409.mp4
+#EXTINF:-1,Stuber Express
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/408.mp4
+#EXTINF:-1,Tolkien
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/407.mp4
+#EXTINF:-1,The Prodigy
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/404.mp4
+#EXTINF:-1,Rocketman
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/402.mp4
+#EXTINF:-1,Mula
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/403.mp4
+#EXTINF:-1,Liga de la Justicia
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/401.mp4
+#EXTINF:-1,La forma del agua
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/406.mp4
+#EXTINF:-1,La cabaña
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/405.mp4
+#EXTINF:-1,Fractura
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/400.mp4
+#EXTINF:-1,El Camino
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/399.mp4
+#EXTINF:-1,Capitana Marvel
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/398.mp4
+#EXTINF:-1,Aniquilacion
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/397.mp4
+#EXTINF:-1,Men in Black: International
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/395.mp4
+#EXTINF:-1,En la hierba alta
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/396.mp4
+#EXTINF:-1,Vengadores: Endgame
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/394.mp4
+#EXTINF:-1,El Sotano de Ma
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/393.mp4
+#EXTINF:-1,Spider-man: lejos de casa
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/392.mp4
+#EXTINF:-1,Toy Story 4
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/390.mkv
+#EXTINF:-1,Hotel Transilvania 3: Unas vacaciones monstruosas
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/389.mp4
+#EXTINF:-1,Timadoras Compulsivas
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/386.mkv
+#EXTINF:-1,Super Empollonas
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/385.mkv
+#EXTINF:-1,Sombra
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/384.mkv
+#EXTINF:-1,Oscar Wilde
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/383.mkv
+#EXTINF:-1,La Viuda
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/382.mkv
+#EXTINF:-1,La Ultima Leccion
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/381.mkv
+#EXTINF:-1,La Corresponsal
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/380.mkv
+#EXTINF:-1,John Wick Capitulo 3
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/379.mkv
+#EXTINF:-1,Infiltrado en Miami
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/378.mkv
+#EXTINF:-1,In The Shadow of the Moon
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/377.mkv
+#EXTINF:-1,El Lado Siniestro De La Luna
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/387.mkv
+#EXTINF:-1,Como Pez Fuera del Agua
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/376.mkv
+#EXTINF:-1,Xmen Fenix Oscura
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/348.mkv
+#EXTINF:-1,Voces Ocultas
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/347.mkv
+#EXTINF:-1,Un Hombre Fiel
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/346.mkv
+#EXTINF:-1,Todo por Grace
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/345.mkv
+#EXTINF:-1,Mug
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/344.mkv
+#EXTINF:-1,Me Llamo Gennet
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/343.mkv
+#EXTINF:-1,Lo dejo Cuando Quiera
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/342.mkv
+#EXTINF:-1,Kreepers
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/341.mkv
+#EXTINF:-1,Hellboy
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/340.mkv
+#EXTINF:-1,Godzilla El Rey De Los Monstruos
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/339.mkv
+#EXTINF:-1,Gloia Bell
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/338.mkv
+#EXTINF:-1,Estafadores
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/337.mkv
+#EXTINF:-1,El Juego del Asesino
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/336.mkv
+#EXTINF:-1,El Año de la Plaga
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/335.mkv
+#EXTINF:-1,Dragged Across Concrete
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/334.mkv
+#EXTINF:-1,Corgi
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/333.mkv
+#EXTINF:-1,Casi Imposible
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/332.mkv
+#EXTINF:-1,Aladin
+http://254tv.mine.nu:8000/movie/ga288/6sc5d8s/331.mkv
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="TDT ES",DSB 250
+https://pastebin.com/raw/QCg7QFQc
+
+#EXTINF:-1 tvg-ID="" tvg-name="Sol musica" tvg-logo="" group-title="MUSICA",Sol musica
+http://dsb250.tv:8000/live/ga288/6sc5d8s/364.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Formix TV" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/06/portal-foxmix-1-218x150.png" group-title="MUSICA",Formix TV
+http://dsb250.tv:8000/live/ga288/6sc5d8s/352.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Power hd" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/power-tv-100x70.png" group-title="MUSICA",Power hd
+http://dsb250.tv:8000/live/ga288/6sc5d8s/351.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Musictop" tvg-logo="" group-title="MUSICA",Musictop
+http://dsb250.tv:8000/live/ga288/6sc5d8s/350.ts
+#EXTINF:-1 tvg-ID="" tvg-name="La Mega Mundial" tvg-logo="" group-title="MUSICA",La Mega Mundial
+http://dsb250.tv:8000/live/ga288/6sc5d8s/349.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PORTADA" tvg-logo="" group-title="TDT",PORTADA
+http://dsb250.tv:8000/live/ga288/6sc5d8s/67.ts
+#EXTINF:-1 tvg-ID="LA 1" tvg-name="LA 1 HD" tvg-logo="" group-title="TDT",LA 1 HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/81.ts
+#EXTINF:-1 tvg-ID="LA 1" tvg-name="LA 1" tvg-logo="" group-title="TDT",LA 1
+http://dsb250.tv:8000/live/ga288/6sc5d8s/117.ts
+#EXTINF:-1 tvg-ID="LA2 ASTRA SD 1.sp" tvg-name="LA 2" tvg-logo="" group-title="TDT",LA 2
+http://dsb250.tv:8000/live/ga288/6sc5d8s/83.ts
+#EXTINF:-1 tvg-ID="A3 ASTRA HD 1.sp" tvg-name="ANTENA 3 HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/448.png" group-title="TDT",ANTENA 3 HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/4.ts
+#EXTINF:-1 tvg-ID="A3 ASTRA HD 1.sp" tvg-name="ANTENA 3" tvg-logo="" group-title="TDT",ANTENA 3
+http://dsb250.tv:8000/live/ga288/6sc5d8s/90.ts
+#EXTINF:-1 tvg-ID="C4 ASTRA HD 1.sp" tvg-name="CUATRO HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/454.png" group-title="TDT",CUATRO HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/15.ts
+#EXTINF:-1 tvg-ID="C4 ASTRA HD 1.sp" tvg-name="CUATRO" tvg-logo="" group-title="TDT",CUATRO
+http://dsb250.tv:8000/live/ga288/6sc5d8s/106.ts
+#EXTINF:-1 tvg-ID="T5 ASTRA HD 1.sp" tvg-name="TELECINCO HD" tvg-logo="" group-title="TDT",TELECINCO HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/71.ts
+#EXTINF:-1 tvg-ID="T5 TDT HD 3.sp" tvg-name="TELECINCO" tvg-logo="" group-title="TDT",TELECINCO
+http://dsb250.tv:8000/live/ga288/6sc5d8s/148.ts
+#EXTINF:-1 tvg-ID="SEXTA ASTRA HD 1.sp" tvg-name="LA SEXTA HD" tvg-logo="" group-title="TDT",LA SEXTA HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/26.ts
+#EXTINF:-1 tvg-ID="SEXTA ASTRA HD 1.sp" tvg-name="LA SEXTA" tvg-logo="" group-title="TDT",LA SEXTA
+http://dsb250.tv:8000/live/ga288/6sc5d8s/118.ts
+#EXTINF:-1 tvg-ID="ENERGY ASTRA SD 1.sp" tvg-name="ENERGY" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ENERGY.png" group-title="TDT",ENERGY
+http://dsb250.tv:8000/live/ga288/6sc5d8s/19.ts
+#EXTINF:-1 tvg-ID="DIVINI ASTRA SD 1.sp" tvg-name="DIVINITY" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png" group-title="TDT",DIVINITY
+http://dsb250.tv:8000/live/ga288/6sc5d8s/18.ts
+#EXTINF:-1 tvg-ID="FDFIC ASTRA SD 1.sp" tvg-name="Fdf" tvg-logo="" group-title="TDT",Fdf
+http://dsb250.tv:8000/live/ga288/6sc5d8s/111.ts
+#EXTINF:-1 tvg-ID="NOVA ASTRA SD 1.sp" tvg-name="NOVA" tvg-logo="" group-title="TDT",NOVA
+http://dsb250.tv:8000/live/ga288/6sc5d8s/143.ts
+#EXTINF:-1 tvg-ID="NEOX ASTRA SD 1.sp" tvg-name="NEOX" tvg-logo="" group-title="TDT",NEOX
+http://dsb250.tv:8000/live/ga288/6sc5d8s/140.ts
+#EXTINF:-1 tvg-ID="MEGA TDT SD 1.sp" tvg-name="MEGA" tvg-logo="" group-title="TDT",MEGA
+http://dsb250.tv:8000/live/ga288/6sc5d8s/152.ts
+#EXTINF:-1 tvg-ID="ATRESS TDT HD 1.sp" tvg-name="Astres Series" tvg-logo="" group-title="TDT",Astres Series
+http://dsb250.tv:8000/live/ga288/6sc5d8s/353.ts
+#EXTINF:-1 tvg-ID="" tvg-name="À Punt HD" tvg-logo="" group-title="TDT",À Punt HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/361.ts
+#EXTINF:-1 tvg-ID="" tvg-name="7 RM HD" tvg-logo="" group-title="TDT",7 RM HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/357.ts
+#EXTINF:-1 tvg-ID="ARAGON ASTRA SD 1.sp" tvg-name="ARAGON TV INT" tvg-logo="" group-title="TDT",ARAGON TV INT
+http://dsb250.tv:8000/live/ga288/6sc5d8s/91.ts
+#EXTINF:-1 tvg-ID="BEMAD ASTRA SD 1.sp" tvg-name="BE MAD" tvg-logo="" group-title="TDT",BE MAD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/97.ts
+#EXTINF:-1 tvg-ID="24H ASTRA SD 1.sp" tvg-name="24 HORAS" tvg-logo="" group-title="TDT",24 HORAS
+http://dsb250.tv:8000/live/ga288/6sc5d8s/89.ts
+#EXTINF:-1 tvg-ID="ANDATV TDT SD 1.sp" tvg-name="CANAL SUR A." tvg-logo="" group-title="TDT",CANAL SUR A.
+http://dsb250.tv:8000/live/ga288/6sc5d8s/100.ts
+#EXTINF:-1 tvg-ID="ANDATV TDT SD 1.sp" tvg-name="CANAL SUR A. HD" tvg-logo="" group-title="TDT",CANAL SUR A. HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/354.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TeleMadrid" tvg-logo="" group-title="TDT",TeleMadrid
+http://dsb250.tv:8000/live/ga288/6sc5d8s/356.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ETB 1 HD" tvg-logo="" group-title="TDT",ETB 1 HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/358.ts
+#EXTINF:-1 tvg-ID="CYM ASTRA SD 1.sp" tvg-name="CMM" tvg-logo="" group-title="TDT",CMM
+http://dsb250.tv:8000/live/ga288/6sc5d8s/355.ts
+#EXTINF:-1 tvg-ID="MV2 ASTRA HD 1.sp" tvg-name="#0 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MV3.png" group-title="CINE",#0 HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/1.ts
+#EXTINF:-1 tvg-ID="MV1 ASTRA HD 1.sp" tvg-name="#0" tvg-logo="" group-title="CINE",#0
+http://dsb250.tv:8000/live/ga288/6sc5d8s/87.ts
+#EXTINF:-1 tvg-ID="MV1 ASTRA HD 1.sp" tvg-name="M.ESTRENOSHD" tvg-logo="" group-title="CINE",M.ESTRENOSHD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/86.ts
+#EXTINF:-1 tvg-ID="MV1 ASTRA HD 1.sp" tvg-name="M. ESTRENOS" tvg-logo="" group-title="CINE",M. ESTRENOS
+http://dsb250.tv:8000/live/ga288/6sc5d8s/39.ts
+#EXTINF:-1 tvg-ID="CPACCI ASTRA HD 1.sp" tvg-name="M. ACCION HD" tvg-logo="" group-title="CINE",M. ACCION HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/30.ts
+#EXTINF:-1 tvg-ID="CPACCI ASTRA HD 1.sp" tvg-name="M. ACCI©N" tvg-logo="" group-title="CINE",M. ACCI©N
+http://dsb250.tv:8000/live/ga288/6sc5d8s/120.ts
+#EXTINF:-1 tvg-ID="CPCOME ASTRA HD 1.sp" tvg-name="M.COMEDIA HD" tvg-logo="" group-title="CINE",M.COMEDIA HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/85.ts
+#EXTINF:-1 tvg-ID="CPCOME ASTRA HD 1.sp" tvg-name="M. COMEDIA" tvg-logo="" group-title="CINE",M. COMEDIA
+http://dsb250.tv:8000/live/ga288/6sc5d8s/122.ts
+#EXTINF:-1 tvg-ID="CPCOLE ASTRA SD 2.sp" tvg-name="M. DRAMA HD" tvg-logo="" group-title="CINE",M. DRAMA HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/38.ts
+#EXTINF:-1 tvg-ID="CPCOLE ASTRA HD 1.sp" tvg-name="M. DRAMA" tvg-logo="" group-title="CINE",M. DRAMA
+http://dsb250.tv:8000/live/ga288/6sc5d8s/126.ts
+#EXTINF:-1 tvg-ID="CPXTRA ASTRA SD 2.sp" tvg-name="M.CineDoc&Roll hd" tvg-logo="" group-title="CINE",M.CineDoc&Roll hd
+http://dsb250.tv:8000/live/ga288/6sc5d8s/150.ts
+#EXTINF:-1 tvg-ID="CPXTRA ASTRA SD 2.sp" tvg-name="M.CineDoc&Roll" tvg-logo="" group-title="CINE",M.CineDoc&Roll
+http://dsb250.tv:8000/live/ga288/6sc5d8s/130.ts
+#EXTINF:-1 tvg-ID="CPSER ASTRA HD 1.sp" tvg-name="M. SERIES HD" tvg-logo="" group-title="CINE",M. SERIES HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/44.ts
+#EXTINF:-1 tvg-ID="CPSER ASTRA HD 1.sp" tvg-name="M. SERIES" tvg-logo="" group-title="CINE",M. SERIES
+http://dsb250.tv:8000/live/ga288/6sc5d8s/129.ts
+#EXTINF:-1 tvg-ID="MDISNE ASTRA SD 1.sp" tvg-name="M Disney HD" tvg-logo="" group-title="CINE",M Disney HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/374.ts
+#EXTINF:-1 tvg-ID="MDISNE ASTRA SD 1.sp" tvg-name="M. DISNEY" tvg-logo="" group-title="CINE",M. DISNEY
+http://dsb250.tv:8000/live/ga288/6sc5d8s/37.ts
+#EXTINF:-1 tvg-ID="CPSER ASTRA HD 1.sp" tvg-name="M.Seriesmania HD" tvg-logo="" group-title="CINE",M.Seriesmania HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/138.ts
+#EXTINF:-1 tvg-ID="CPSER ASTRA HD 1.sp" tvg-name="M. SERIESMANIA" tvg-logo="" group-title="CINE",M. SERIESMANIA
+http://dsb250.tv:8000/live/ga288/6sc5d8s/45.ts
+#EXTINF:-1 tvg-ID="ESP ASTRA HD 1.sp" tvg-name="M. Cine Español" tvg-logo="" group-title="CINE",M. Cine Español
+http://dsb250.tv:8000/live/ga288/6sc5d8s/121.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Canal XTRM" tvg-logo="" group-title="CINE",Canal XTRM
+http://dsb250.tv:8000/live/ga288/6sc5d8s/367.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Somos" tvg-logo="" group-title="CINE",Canal Somos
+http://dsb250.tv:8000/live/ga288/6sc5d8s/368.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Darck" tvg-logo="" group-title="CINE",Canal Darck
+http://dsb250.tv:8000/live/ga288/6sc5d8s/366.ts
+#EXTINF:-1 tvg-ID="PARCH ASTRA SD 1.sp" tvg-name="PARAMOUNT" tvg-logo="" group-title="CINE",PARAMOUNT
+http://dsb250.tv:8000/live/ga288/6sc5d8s/144.ts
+#EXTINF:-1 tvg-ID="COSMO ASTRA HD 1.sp" tvg-name="COSMO HD" tvg-logo="" group-title="CINE",COSMO HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/79.ts
+#EXTINF:-1 tvg-ID="COSMO ASTRA HD 1.sp" tvg-name="COSMO" tvg-logo="" group-title="CINE",COSMO
+http://dsb250.tv:8000/live/ga288/6sc5d8s/104.ts
+#EXTINF:-1 tvg-ID="AXN ASTRA HD 1.sp" tvg-name="AXN HD" tvg-logo="" group-title="CINE",AXN HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/94.ts
+#EXTINF:-1 tvg-ID="AXN ASTRA HD 1.sp" tvg-name="AXN" tvg-logo="" group-title="CINE",AXN
+http://dsb250.tv:8000/live/ga288/6sc5d8s/92.ts
+#EXTINF:-1 tvg-ID="SET ASTRA HD 1.sp" tvg-name="AXN WHITE HD" tvg-logo="" group-title="CINE",AXN WHITE HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/96.ts
+#EXTINF:-1 tvg-ID="PCM ASTRA HD 1.sp" tvg-name="AXN WHITE" tvg-logo="" group-title="CINE",AXN WHITE
+http://dsb250.tv:8000/live/ga288/6sc5d8s/95.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX" tvg-logo="" group-title="CINE",FOX
+http://dsb250.tv:8000/live/ga288/6sc5d8s/112.ts
+#EXTINF:-1 tvg-ID="FOXCR ASTRA HD 1.sp" tvg-name="FOX HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/576.png" group-title="CINE",FOX HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/23.ts
+#EXTINF:-1 tvg-ID="FOXGE ASTRA HD 1.sp" tvg-name="FOX LIFE HD" tvg-logo="" group-title="CINE",FOX LIFE HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/80.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX LIFE" tvg-logo="" group-title="CINE",FOX LIFE
+http://dsb250.tv:8000/live/ga288/6sc5d8s/113.ts
+#EXTINF:-1 tvg-ID="PCM ASTRA HD 1.sp" tvg-name="COMEDYCENTRALHD" tvg-logo="" group-title="CINE",COMEDYCENTRALHD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/78.ts
+#EXTINF:-1 tvg-ID="" tvg-name="COMEDY CENTRAL" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="CINE",COMEDY CENTRAL
+http://dsb250.tv:8000/live/ga288/6sc5d8s/14.ts
+#EXTINF:-1 tvg-ID="TNT ASTRA HD 1.sp" tvg-name="TNT HD" tvg-logo="" group-title="CINE",TNT HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/73.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TNT" tvg-logo="" group-title="CINE",TNT
+http://dsb250.tv:8000/live/ga288/6sc5d8s/149.ts
+#EXTINF:-1 tvg-ID="HOLLYW ASTRA HD 1.sp" tvg-name="HOLLYWOODHD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/530.png" group-title="CINE",HOLLYWOODHD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/25.ts
+#EXTINF:-1 tvg-ID="HOLLYW ASTRA HD 1.sp" tvg-name="HOLLYWOOD" tvg-logo="" group-title="CINE",HOLLYWOOD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/115.ts
+#EXTINF:-1 tvg-ID="CL13 ASTRA HD 1.sp" tvg-name="Calle13 hd" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1557.png" group-title="CINE",Calle13 hd
+http://dsb250.tv:8000/live/ga288/6sc5d8s/9.ts
+#EXTINF:-1 tvg-ID="CL13 ASTRA HD 1.sp" tvg-name="Calle13" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="CINE",Calle13
+http://dsb250.tv:8000/live/ga288/6sc5d8s/8.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AMC HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1585.png" group-title="CINE",AMC HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/2.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AMC" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="CINE",AMC
+http://dsb250.tv:8000/live/ga288/6sc5d8s/3.ts
+#EXTINF:-1 tvg-ID="TCM ASTRA HD 1.sp" tvg-name="TCM HD" tvg-logo="" group-title="CINE",TCM HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/70.ts
+#EXTINF:-1 tvg-ID="TCM ASTRA HD 1.sp" tvg-name="TCM" tvg-logo="" group-title="CINE",TCM
+http://dsb250.tv:8000/live/ga288/6sc5d8s/69.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SYFY HD" tvg-logo="" group-title="CINE",SYFY HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/147.ts
+#EXTINF:-1 tvg-ID="SCI-FI ASTRA HD 1.sp" tvg-name="SYFY" tvg-logo="" group-title="CINE",SYFY
+http://dsb250.tv:8000/live/ga288/6sc5d8s/68.ts
+#EXTINF:-1 tvg-ID="SUNDAN ASTRA SD 1.sp" tvg-name="SUNDANCE TV" tvg-logo="" group-title="CINE",SUNDANCE TV
+http://dsb250.tv:8000/live/ga288/6sc5d8s/146.ts
+#EXTINF:-1 tvg-ID="TDEP ASTRA SD 1.sp" tvg-name="TELEDEPORTE" tvg-logo="" group-title="DEPORTES",TELEDEPORTE
+http://dsb250.tv:8000/live/ga288/6sc5d8s/72.ts
+#EXTINF:-1 tvg-ID="NATGEO ASTRA HD 1.sp" tvg-name="NAT GEO HD" tvg-logo="" group-title="DOCUMENTALES",NAT GEO HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/62.ts
+#EXTINF:-1 tvg-ID="NATGEO ASTRA HD 1.sp" tvg-name="NAT GEOGRAPH" tvg-logo="" group-title="DOCUMENTALES",NAT GEOGRAPH
+http://dsb250.tv:8000/live/ga288/6sc5d8s/63.ts
+#EXTINF:-1 tvg-ID="NATGW ASTRA HD 1.sp" tvg-name="NG WILD HD" tvg-logo="" group-title="DOCUMENTALES",NG WILD HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/64.ts
+#EXTINF:-1 tvg-ID="NATGW ASTRA HD 1.sp" tvg-name="NAT GEO WILD sd" tvg-logo="" group-title="DOCUMENTALES",NAT GEO WILD sd
+http://dsb250.tv:8000/live/ga288/6sc5d8s/151.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HISTORIA HD" tvg-logo="" group-title="DOCUMENTALES",HISTORIA HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/375.ts
+#EXTINF:-1 tvg-ID="HIST ASTRA SD 1.sp" tvg-name="HISTORIA" tvg-logo="" group-title="DOCUMENTALES",HISTORIA
+http://dsb250.tv:8000/live/ga288/6sc5d8s/114.ts
+#EXTINF:-1 tvg-ID="DCRMAX TDT SD 1.sp" tvg-name="Discovery Max" tvg-logo="" group-title="DOCUMENTALES",Discovery Max
+http://dsb250.tv:8000/live/ga288/6sc5d8s/373.ts
+#EXTINF:-1 tvg-ID="DCR ASTRA SD 1.sp" tvg-name="Discovery HD" tvg-logo="" group-title="DOCUMENTALES",Discovery HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/371.ts
+#EXTINF:-1 tvg-ID="DCR ASTRA SD 1.sp" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="DOCUMENTALES",DISCOVERY CHANNEL
+http://dsb250.tv:8000/live/ga288/6sc5d8s/107.ts
+#EXTINF:-1 tvg-ID="CAZPES ASTRA SD 2.sp" tvg-name="CAZAyPESCA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CAZPES.png" group-title="DOCUMENTALES",CAZAyPESCA HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/13.ts
+#EXTINF:-1 tvg-ID="CAZPES ASTRA SD 2.sp" tvg-name="CAZA Y PESCA" tvg-logo="" group-title="DOCUMENTALES",CAZA Y PESCA
+http://dsb250.tv:8000/live/ga288/6sc5d8s/101.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IBERALIA TV" tvg-logo="" group-title="DOCUMENTALES",IBERALIA TV
+http://dsb250.tv:8000/live/ga288/6sc5d8s/116.ts
+#EXTINF:-1 tvg-ID="ODISEA ASTRA SD 1.sp" tvg-name="CANAL ODISEA hd" tvg-logo="" group-title="DOCUMENTALES",CANAL ODISEA hd
+http://dsb250.tv:8000/live/ga288/6sc5d8s/370.ts
+#EXTINF:-1 tvg-ID="ODISEA ASTRA SD 1.sp" tvg-name="CANAL ODISEA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="DOCUMENTALES",CANAL ODISEA
+http://dsb250.tv:8000/live/ga288/6sc5d8s/12.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL DECASA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" group-title="DOCUMENTALES",CANAL DECASA
+http://dsb250.tv:8000/live/ga288/6sc5d8s/11.ts
+#EXTINF:-1 tvg-ID="CFERIA ASTRA HD 1.sp" tvg-name="TOROS HD" tvg-logo="" group-title="DOCUMENTALES",TOROS HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/75.ts
+#EXTINF:-1 tvg-ID="CFERIA ASTRA HD 1.sp" tvg-name="TOROS" tvg-logo="" group-title="DOCUMENTALES",TOROS
+http://dsb250.tv:8000/live/ga288/6sc5d8s/74.ts
+#EXTINF:-1 tvg-ID="ANTV ASTRA SD 1.sp" tvg-name="BLAZE" tvg-logo="" group-title="DOCUMENTALES",BLAZE
+http://dsb250.tv:8000/live/ga288/6sc5d8s/98.ts
+#EXTINF:-1 tvg-ID="CYM ASTRA SD 1.sp" tvg-name="CRIMEN+INVES" tvg-logo="" group-title="DOCUMENTALES",CRIMEN+INVES
+http://dsb250.tv:8000/live/ga288/6sc5d8s/105.ts
+#EXTINF:-1 tvg-ID="CLASSD ASTRA SD 1.sp" tvg-name="CLASSICA" tvg-logo="" group-title="DOCUMENTALES",CLASSICA
+http://dsb250.tv:8000/live/ga288/6sc5d8s/103.ts
+#EXTINF:-1 tvg-ID="VJR ASTRA HD 1.sp" tvg-name="VIAJAR" tvg-logo="" group-title="DOCUMENTALES",VIAJAR
+http://dsb250.tv:8000/live/ga288/6sc5d8s/76.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Canal cocina" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="DOCUMENTALES",Canal cocina
+http://dsb250.tv:8000/live/ga288/6sc5d8s/10.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN MOTO GP FHD" tvg-logo="" group-title="DEPORTES",DAZN MOTO GP FHD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/369.ts
+#EXTINF:-1 tvg-ID="VAMOSD ASTRA HD 1.sp" tvg-name="#VAMOSHD" tvg-logo="" group-title="DEPORTES",#VAMOSHD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/77.ts
+#EXTINF:-1 tvg-ID="MV2 ASTRA SD 2.sp" tvg-name="#VAMOS" tvg-logo="" group-title="DEPORTES",#VAMOS
+http://dsb250.tv:8000/live/ga288/6sc5d8s/88.ts
+#EXTINF:-1 tvg-ID="MTV ASTRA SD 1.sp" tvg-name="MTV ESPAÑA" tvg-logo="" group-title="MUSICA",MTV ESPAÑA
+http://dsb250.tv:8000/live/ga288/6sc5d8s/61.ts
+#EXTINF:-1 tvg-ID="MLIGA ASTRA HD 1.sp" tvg-name="M. laliga HD" tvg-logo="" group-title="DEPORTES",M. laliga HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/93.ts
+#EXTINF:-1 tvg-ID="MLIGA ASTRA HD 1.sp" tvg-name="M. LaLiga" tvg-logo="" group-title="DEPORTES",M. LaLiga
+http://dsb250.tv:8000/live/ga288/6sc5d8s/41.ts
+#EXTINF:-1 tvg-ID="MLIG1 ASTRA HD 1.sp" tvg-name="M.LALIGA1 hd" tvg-logo="" group-title="DEPORTES",M.LALIGA1 hd
+http://dsb250.tv:8000/live/ga288/6sc5d8s/49.ts
+#EXTINF:-1 tvg-ID="MLIG2 ASTRA HD 1.sp" tvg-name="M. LaLiga 2 HD" tvg-logo="" group-title="DEPORTES",M. LaLiga 2 HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/127.ts
+#EXTINF:-1 tvg-ID="MLIG3 ASTRA HD 1.sp" tvg-name="M. LaLiga 3 HD" tvg-logo="" group-title="DEPORTES",M. LaLiga 3 HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/128.ts
+#EXTINF:-1 tvg-ID="MLIG1 ASTRA HD 1.sp" tvg-name="M. LALIGA 1" tvg-logo="" group-title="DEPORTES",M. LALIGA 1
+http://dsb250.tv:8000/live/ga288/6sc5d8s/42.ts
+#EXTINF:-1 tvg-ID="MLIG2 ASTRA HD 1.sp" tvg-name="M.LALIGA2" tvg-logo="" group-title="DEPORTES",M.LALIGA2
+http://dsb250.tv:8000/live/ga288/6sc5d8s/50.ts
+#EXTINF:-1 tvg-ID="MLIG3 ASTRA HD 1.sp" tvg-name="M.LALIGA3" tvg-logo="" group-title="DEPORTES",M.LALIGA3
+http://dsb250.tv:8000/live/ga288/6sc5d8s/131.ts
+#EXTINF:-1 tvg-ID="MLIG4 ASTRA SD 1.sp" tvg-name="M.LALIGA4" tvg-logo="" group-title="DEPORTES",M.LALIGA4
+http://dsb250.tv:8000/live/ga288/6sc5d8s/132.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M.LALIGA5" tvg-logo="" group-title="DEPORTES",M.LALIGA5
+http://dsb250.tv:8000/live/ga288/6sc5d8s/51.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M.LALIGA6" tvg-logo="" group-title="DEPORTES",M.LALIGA6
+http://dsb250.tv:8000/live/ga288/6sc5d8s/52.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M.LALIGA7" tvg-logo="" group-title="DEPORTES",M.LALIGA7
+http://dsb250.tv:8000/live/ga288/6sc5d8s/53.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M.LALIGA8" tvg-logo="" group-title="DEPORTES",M.LALIGA8
+http://dsb250.tv:8000/live/ga288/6sc5d8s/133.ts
+#EXTINF:-1 tvg-ID="MLIGA ASTRA HD 1.sp" tvg-name="LALIGATV BAR hd" tvg-logo="" group-title="DEPORTES",LALIGATV BAR hd
+http://dsb250.tv:8000/live/ga288/6sc5d8s/82.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LALIGATVBAR1" tvg-logo="" group-title="DEPORTES",LALIGATVBAR1
+http://dsb250.tv:8000/live/ga288/6sc5d8s/27.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LALIGATVBAR2" tvg-logo="" group-title="DEPORTES",LALIGATVBAR2
+http://dsb250.tv:8000/live/ga288/6sc5d8s/119.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LALIGATVBAR3" tvg-logo="" group-title="DEPORTES",LALIGATVBAR3
+http://dsb250.tv:8000/live/ga288/6sc5d8s/28.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LALIGATVBAR4" tvg-logo="" group-title="DEPORTES",LALIGATVBAR4
+http://dsb250.tv:8000/live/ga288/6sc5d8s/29.ts
+#EXTINF:-1 tvg-ID="CHAPIO ASTRA HD 1.sp" tvg-name="M.LCAMPEONES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="DEPORTES",M.LCAMPEONES HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/21.ts
+#EXTINF:-1 tvg-ID="CHAPIO ASTRA HD 1.sp" tvg-name="M.LCAMPEONES SD" tvg-logo="" group-title="DEPORTES",M.LCAMPEONES SD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/60.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M.LCAMPEON1 hd" tvg-logo="" group-title="DEPORTES",M.LCAMPEON1 hd
+http://dsb250.tv:8000/live/ga288/6sc5d8s/134.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M.LCAMPEON2 hd" tvg-logo="" group-title="DEPORTES",M.LCAMPEON2 hd
+http://dsb250.tv:8000/live/ga288/6sc5d8s/136.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M.LCAMPEON1" tvg-logo="" group-title="DEPORTES",M.LCAMPEON1
+http://dsb250.tv:8000/live/ga288/6sc5d8s/54.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M.LCAMPEON2" tvg-logo="" group-title="DEPORTES",M.LCAMPEON2
+http://dsb250.tv:8000/live/ga288/6sc5d8s/135.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M.LCAMPEON3" tvg-logo="" group-title="DEPORTES",M.LCAMPEON3
+http://dsb250.tv:8000/live/ga288/6sc5d8s/55.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M.LCAMPEON4" tvg-logo="" group-title="DEPORTES",M.LCAMPEON4
+http://dsb250.tv:8000/live/ga288/6sc5d8s/137.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M.LCAMPEON5" tvg-logo="" group-title="DEPORTES",M.LCAMPEON5
+http://dsb250.tv:8000/live/ga288/6sc5d8s/56.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M.LCAMPEON6" tvg-logo="" group-title="DEPORTES",M.LCAMPEON6
+http://dsb250.tv:8000/live/ga288/6sc5d8s/57.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M.LCAMPEON7" tvg-logo="" group-title="DEPORTES",M.LCAMPEON7
+http://dsb250.tv:8000/live/ga288/6sc5d8s/58.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M.LCAMPEON8" tvg-logo="" group-title="DEPORTES",M.LCAMPEON8
+http://dsb250.tv:8000/live/ga288/6sc5d8s/59.ts
+#EXTINF:-1 tvg-ID="MVF1 ASTRA HD 1.sp" tvg-name="M.FORMULA1HD" tvg-logo="" group-title="DEPORTES",M.FORMULA1HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/48.ts
+#EXTINF:-1 tvg-ID="MVF1 ASTRA HD 1.sp" tvg-name="M.FORMULA1" tvg-logo="" group-title="DEPORTES",M.FORMULA1
+http://dsb250.tv:8000/live/ga288/6sc5d8s/47.ts
+#EXTINF:-1 tvg-ID="GOLF+ ASTRA SD 2.sp" tvg-name="M. GOLF HD" tvg-logo="" group-title="DEPORTES",M. GOLF HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/84.ts
+#EXTINF:-1 tvg-ID="GOLF+ ASTRA HD 1.sp" tvg-name="M. GOLF" tvg-logo="" group-title="DEPORTES",M. GOLF
+http://dsb250.tv:8000/live/ga288/6sc5d8s/40.ts
+#EXTINF:-1 tvg-ID="CPDEP ASTRA HD 1.sp" tvg-name="M. DEPORTESHD" tvg-logo="" group-title="DEPORTES",M. DEPORTESHD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/36.ts
+#EXTINF:-1 tvg-ID="CPDEP ASTRA HD 1.sp" tvg-name="M. DEPORTES" tvg-logo="" group-title="DEPORTES",M. DEPORTES
+http://dsb250.tv:8000/live/ga288/6sc5d8s/31.ts
+#EXTINF:-1 tvg-ID="CPDEP ASTRA HD 1.sp" tvg-name="M.DEPORTES 1 HD" tvg-logo="" group-title="DEPORTES",M.DEPORTES 1 HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/46.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M. DEPORTES1" tvg-logo="" group-title="DEPORTES",M. DEPORTES1
+http://dsb250.tv:8000/live/ga288/6sc5d8s/123.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M. DEPORTES2" tvg-logo="" group-title="DEPORTES",M. DEPORTES2
+http://dsb250.tv:8000/live/ga288/6sc5d8s/32.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M. DEPORTES3" tvg-logo="" group-title="DEPORTES",M. DEPORTES3
+http://dsb250.tv:8000/live/ga288/6sc5d8s/33.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M. DEPORTES4" tvg-logo="" group-title="DEPORTES",M. DEPORTES4
+http://dsb250.tv:8000/live/ga288/6sc5d8s/34.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M. DEPORTES5" tvg-logo="" group-title="DEPORTES",M. DEPORTES5
+http://dsb250.tv:8000/live/ga288/6sc5d8s/35.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M. DEPORTES6" tvg-logo="" group-title="DEPORTES",M. DEPORTES6
+http://dsb250.tv:8000/live/ga288/6sc5d8s/124.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M. DEPORTES7" tvg-logo="" group-title="DEPORTES",M. DEPORTES7
+http://dsb250.tv:8000/live/ga288/6sc5d8s/125.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GOL" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="DEPORTES",GOL
+http://dsb250.tv:8000/live/ga288/6sc5d8s/24.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Barca tv" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png" group-title="DEPORTES",Barca tv
+http://dsb250.tv:8000/live/ga288/6sc5d8s/6.ts
+#EXTINF:-1 tvg-ID="REALM ASTRA SD 1.sp" tvg-name="R. MADRID TV" tvg-logo="" group-title="DEPORTES",R. MADRID TV
+http://dsb250.tv:8000/live/ga288/6sc5d8s/145.ts
+#EXTINF:-1 tvg-ID="MEZZO ASTRA SD 1.sp" tvg-name="MEZZO" tvg-logo="" group-title="DOCUMENTALES",MEZZO
+http://dsb250.tv:8000/live/ga288/6sc5d8s/139.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT1HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/581.png" group-title="DEPORTES",EUROSPORT1HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/22.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 1 -sd" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="DEPORTES",EUROSPORT 1 -sd
+http://dsb250.tv:8000/live/ga288/6sc5d8s/20.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 2" tvg-logo="" group-title="DEPORTES",EUROSPORT 2
+http://dsb250.tv:8000/live/ga288/6sc5d8s/110.ts
+#EXTINF:-1 tvg-ID="CLANTV TDT SD 5.sp" tvg-name="CLAN  TVE" tvg-logo="" group-title="INFANTIL",CLAN  TVE
+http://dsb250.tv:8000/live/ga288/6sc5d8s/102.ts
+#EXTINF:-1 tvg-ID="DCHXD ASTRA SD 1.sp" tvg-name="DISNEY XD" tvg-logo="" group-title="INFANTIL",DISNEY XD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/109.ts
+#EXTINF:-1 tvg-ID="PLAYDC ASTRA SD 1.sp" tvg-name="DISNEY JR" tvg-logo="" group-title="INFANTIL",DISNEY JR
+http://dsb250.tv:8000/live/ga288/6sc5d8s/108.ts
+#EXTINF:-1 tvg-ID="DCH ASTRA HD 1.sp" tvg-name="DISNEY CH HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1504.png" group-title="INFANTIL",DISNEY CH HD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/16.ts
+#EXTINF:-1 tvg-ID="DCH ASTRA HD 1.sp" tvg-name="DISNEY CH." tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCH.png" group-title="INFANTIL",DISNEY CH.
+http://dsb250.tv:8000/live/ga288/6sc5d8s/17.ts
+#EXTINF:-1 tvg-ID="NICK ASTRA HD 1.sp" tvg-name="NICKELODEONHD" tvg-logo="" group-title="INFANTIL",NICKELODEONHD
+http://dsb250.tv:8000/live/ga288/6sc5d8s/65.ts
+#EXTINF:-1 tvg-ID="NICK ASTRA HD 1.sp" tvg-name="NICKELODEON" tvg-logo="" group-title="INFANTIL",NICKELODEON
+http://dsb250.tv:8000/live/ga288/6sc5d8s/142.ts
+#EXTINF:-1 tvg-ID="NICKJR ASTRA SD 1.sp" tvg-name="NICK JR" tvg-logo="" group-title="INFANTIL",NICK JR
+http://dsb250.tv:8000/live/ga288/6sc5d8s/141.ts
+#EXTINF:-1 tvg-ID="BOING ASTRA SD 1.sp" tvg-name="Boing" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BOING.png" group-title="INFANTIL",Boing
+http://dsb250.tv:8000/live/ga288/6sc5d8s/7.ts
+#EXTINF:-1 tvg-ID="BABY ASTRA SD 1.sp" tvg-name="Baby tv" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BABY.png" group-title="INFANTIL",Baby tv
+http://dsb250.tv:8000/live/ga288/6sc5d8s/5.ts
+#EXTINF:-1 tvg-ID="PANDA ASTRA SD 1.sp" tvg-name="CANAL PANDA" tvg-logo="" group-title="INFANTIL",CANAL PANDA
+http://dsb250.tv:8000/live/ga288/6sc5d8s/99.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFO M3U",LATINFLIX 1
 http://www.latinflixplus.net:25461/get.php?username=Up5UEG1R6F&password=e2x3VO55iV&type=m3u_plus&output=mpegts
