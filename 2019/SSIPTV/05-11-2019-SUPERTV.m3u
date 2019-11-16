@@ -1,5 +1,24 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NEW M3U", 1
+https://raw.githubusercontent.com/LIVETVapk/Mixta_m3ugen/master/Mixta_m3ugenerador_plus.m3u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NEW M3U", 2
+https://raw.githubusercontent.com/LIVETVapk/MOVISTAR_GRATIS-/master/Movistar_GRATIS_plus.m3u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NEW M3U", 3
+https://raw.githubusercontent.com/LIVETVapk/Movistar_invision/master/Movistar_invision.m3u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NEW M3U", 4
+https://raw.githubusercontent.com/LIVETVapk/Latino_91095/master/Latino_91095.m3u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NEW M3U", 5
+https://raw.githubusercontent.com/LIVETVapk/Movistar_91095/master/Movistar_91095.m3u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NEW M3U", 6
+https://raw.githubusercontent.com/LIVETVapk/Latino_michelle/master/Latino_michelle.m3u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NEW M3U", 7
+https://raw.githubusercontent.com/LIVETVapk/Movistar_michelle/master/Movistar_michelle.m3u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NEW M3U", 8
+https://raw.githubusercontent.com/LIVETVapk/Movistar_dimitri/master/Movistar_dimitri.m3u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="NEW M3U", 9
+http://iptvmrz-panel.com.mx/iptv/ESPANNAA/ESPANNAA/ESPANAA.m3u
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA M3U",PELICULAS
 https://raw.githubusercontent.com/globalentv2/M3U/master/2019/SSIPTV/12-11-2019-PELICULAS.m3u
 
