@@ -1,4 +1,10 @@
 #EXTM3U url="http://www.iptvtool.es:9977/get.php?&username=Roby&password=Roby1&type=m3u&output=mpegts"
+
+#EXTINF:-1, Actualizar mpgets
+http://www.iptvtool.es:9977/get.php?&username=Roby&password=Roby1&type=m3u&output=mpegts
+#EXTINF:-1, Actualizar m3u8
+http://www.iptvtool.es:9977/get.php?&username=Roby&password=Roby1&type=m3u&output=m3u8
+
 #EXTINF:-1,Canal Malaga
 http://www.iptvtool.es:9977/Roby/Roby1/119111
 #EXTINF:-1,Redbull TV
