@@ -146,3 +146,175 @@ https://d1d41x3lh2ujlh.cloudfront.net/hls1/fx.m3u8?wmsAuthSign
 
 #EXTINF:-1 group-title="PREMIUM",Syfy
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/syfy.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Classique Tv
+https://stmv1.ifantasy.com.br/classique/classique/playlist.m3u8?wowzasessionid=1846045601
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids2/chunklist.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Red Bull 
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Gospel Cartoon
+https://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=1307769424
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Tv Capital 777
+https://59f2354c05961.streamlock.net:1443/tvcapital/_definst_/tvcapital/chunklist.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Tv Destak
+https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/chunklist_w1071480912.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Tv a Critica
+https://v4-slbps-sambavideos.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b1155072.m3u8?sts=st=1579174491~exp=1579181091~acl=/*~hmac=0f5b1508fd4895a310719bbbdaf90c14e09dc54b5abbc02cc6ac143d6aacca15
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Tv Infor Bahia
+https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/chunklist_w111732487.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Tv Que demais
+https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/chunklist.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Via Morena
+https://cdn-cleuza-734.ciclano.io:1443/cleuza-734/cleuza-734/chunklist-480p.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Wts Tv Minas
+https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/chunklist.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Tv Gazeta
+https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-480p.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Real Madrid Tv
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Milk Tv
+https://stmv1.srvst.com/redesatnet/redesatnet/playlist.m3u8?wowzasessionid=1205648951
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Marica Tv
+https://5abdf4edae5bf.streamlock.net/maricatvstation/maricatvstation/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Tv Liberdade
+https://5c483b9d1019c.streamlock.net/8238/8238/chunklist.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Rede Familia
+https://redefamilia.cdnverizon.com.br/tvstreaming/ngrp:aovivo_all/chunklist_b2431298.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Tve
+https://video-rvd-lmg.rnp.br/live/ocp(t(FepcWEEt9yM)r(TOqkzw)a(s-wh5A)p(d(lCo)k(oww)m(Q3dgevNHTnhpVLsbObJlVA)n(a(jVnmWA)s(3pw)'a(J8z2mQ)s(ATw)))s(s(5j0)b(z8Z_WzfwdeYL0ydjRgHRgvVoh2WW_apHO_KOY_2e-z9S95p7ADKRwXxzNld68MGN_dRxFVmc0GFkRmwE5A)'s(DFY)b(s-85Q-mHKqmxfYKNGr4VuJxGjVAb4Xy3oLnCFf9zpLTmLTw2sZfDbAzKF0qwRBPK_Zs_IaDhXcNBbWjnSfbFKE3db1i3IJmb3ouRO6bP)'s(WnE)b(pYKQERRr))m(0))/25_index.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",M20 Tv
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1303053298_b2028000_sleng.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Rai Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Retro Tv
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w2175849022.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Ln Tv
+https://59f2354c05961.streamlock.net:1443/intv02/_definst_/intv02/chunklist_w1082510289.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Rio Largo
+https://stmv1.mycast.com.br/tvriolargo/tvriolargo/chunklist.m3u8?wowzasessionid=432413140
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Tv Uniao
+https://5ca42828c3a79.streamlock.net/tvuniao/_definst_/tvuniao/chunklist_w865005993.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Kronehit Tv
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Radio Capital
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8?ISAQUE
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Ru Tv
+https://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Tv Clima
+https://stmv1.srvstm.com/tvcadm/tvcadm/playlist.m3u8?wowzasessionid=1707044331
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Radio Iglesias
+https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/chunklist.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Radio 51
+https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w714401016.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Radiou Tv
+https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Radio Contact
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1800_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",La Mega Mundial
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/chunklist_w122139905.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Otto Fm
+http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8?sessId=27331
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",California Music
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/chunklist_w498574946.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Carioca Tv
+http://wse01.logicahost.com.br:1935/cariocainterativo/cariocainterativo/chunklist_w650837699.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Portal Foxmix
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w393614848.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Contry Music
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Djing
+https://www.djing.com/tv/29072-04.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Power Turk Tv
+https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b846000_sltur.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Tv 538
+https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q5.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Retro Plus
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1378151775.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Nrj Hits
+https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist_w1097292515_b1431072.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Tv Imagem
+https://stmv1.caxiashost.com.br/caxiashost/caxiashost/chunklist.m3u8?wowzasessionid=1150818573
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Djing Ibiza
+https://www.djing.com/tv/d-29072-04.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Djing Avicii
+https://www.djing.com/tv/s-29072-05-avicii.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Djing Hedonist
+https://www.djing.com/tv/s-29072-05-hedonist.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Djing Karaoke
+https://www.djing.com/tv/k-29072-05.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Djing French Touch
+https://www.djing.com/tv/s-29072-05-french-touch.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Djing Electro Rock
+https://www.djing.com/tv/s-29072-05-electro-rock.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Djing Summer Vibes
+https://www.djing.com/tv/s-29072-05-summer-vibes.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Djing Undergroud
+https://www.djing.com/tv/u-29072-04.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Djing Animation
+https://www.djing.com/tv/a-29072-04.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Djing Classic
+https://www.djing.com/tv/i-29072-04.m3u8
+
+#EXTINF:-1 group-title="MUSIC & VARIEDADE",Retro Channel
+http://198.24.183.198:1936/theretrochannel/stream/chunklist_w1305184298.m3u8
+
