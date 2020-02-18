@@ -1,4 +1,9 @@
 #EXTM3U
+
+#EXTINF:-1, ACTUALIZAR SSIPTV
+http://tv.nousiptv.com:25462/get.php?username=Agustin123&password=Agustin123&type=m3u_plus
+
+
 #EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="MyC - ANIMAL PLANET" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/a4609b184b2e592475a5d72b7cecf53b.jpg" group-title="• MUNDO Y CULTURA",MyC - ANIMAL PLANET
 http://tv.nousiptv.com:25462/Agustin123/Agustin123/3247
 #EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="MyC - DISCOVERY  HOME & HEALTH" tvg-logo="http://www.mediafire.com/convkey/04c8/5d9ej3quhr5lob7zg.jpg" group-title="• MUNDO Y CULTURA",MyC - DISCOVERY  HOME & HEALTH
