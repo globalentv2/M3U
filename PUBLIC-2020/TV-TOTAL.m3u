@@ -38,3 +38,111 @@ https://d1d41x3lh2ujlh.cloudfront.net/hls1/tooncast.m3u8?wmsAuthSign
 
 #EXTINF:-1 group-title="INFANTIL",Baby Tv
 http://tvnanet.xyz:25461/live/palmeiras/semmundial/14.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",Amc
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/amc.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="PREMIUM",Telecine Action
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/telecineaction.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="PREMIUM",Telecine Cult
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/telecinecult.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="PREMIUM",Telecine Fun
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/telecinefun.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="PREMIUM",Telecine Pipoca
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/telecinepipoca.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="PREMIUM",Telecine Premium 
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/telecinepremium.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="PREMIUM",Telecine Touch
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/telecinetouch.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="PREMIUM",Hbo
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/hbo.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="PREMIUM",Hbo 2
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/hbo2.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="PREMIUM",Hbo Family 
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/hbofamily.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="PREMIUM",Hbo Plus
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/hboplus.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="PREMIUM",Hbo Signature 
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/hbosignature.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="PREMIUM",Hbo Mundi
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/max.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="PREMIUM",Hbo Xtreme
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/maxprime.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="PREMIUM",Hbo Pop
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/maxup.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="PREMIUM",Cinemax
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/cinemax.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="PREMIUM",Megapix
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/megapix.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="PREMIUM",Paramount Channel 
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/Paramount.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="PREMIUM",Space
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/space.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="PREMIUM",Studio Universal 
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/studiouniversal.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="PREMIUM",TBS
+http://tvnanet.xyz:25461/live/palmeiras/semmundial/236.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",Tcm
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/tcm.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="PREMIUM",Tnt
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/tnt.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="PREMIUM",Tnt Series 
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/tntseries.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="PREMIUM",Universal Channel 
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/universal.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="PREMIUM",Warner 
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/warner.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="PREMIUM",A&E
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/aie.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="PREMIUM",Axn
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/axn.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="PREMIUM",Sony
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/sony.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="PREMIUM",Comedy Central 
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/comedycentral.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="PREMIUM",Fox
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/fox.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="PREMIUM",Fox Life 
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/foxlife.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="PREMIUM",Fox Premium 1
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/foxpremium1.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="PREMIUM",Fox Premium 2
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/foxpremium2.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="PREMIUM",FX
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/fx.m3u8?wmsAuthSign
+
+#EXTINF:-1 group-title="PREMIUM",Syfy
+https://d1d41x3lh2ujlh.cloudfront.net/hls1/syfy.m3u8?wmsAuthSign
