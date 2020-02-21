@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, LISTA 1
+http://netsersolutions.online:8080/get.php?username=merva_21&password=I6V7puZQab&type=m3u_plus
+
 
 #EXTINF:-1 tvg-id="" tvg-name="UNICABLE" tvg-logo="https://cdn.mitvstatic.com/channels/cl_unicable_m.png" group-title="ENTRETENIMIENTO",UNICABLE
 http://iptvactivador.online:25461/listagratism3uconxx/conxxxlistagratism3uconxx/553
