@@ -1,7 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="M3U", LISTA 1
+#EXTINF:-1 group-title="M3U", INTERNACIONAL
 http://netsersolutions.online:8080/get.php?username=merva_21&password=I6V7puZQab&type=m3u_plus
+#EXTINF:-1 group-title="M3U", SPAIN
+https://raw.githubusercontent.com/globalentv2/M3U/master/2020/SPAIN-17-02-2020.m3u
+#EXTINF:-1 group-title="M3U", PLUTO TV
+https://pastebin.com/raw.php?i=9fvE0JuR
+#EXTINF:-1 group-title="M3U", MOVISTAR
+http://www.iptvtool.es:9977/get.php?&username=Roby&password=Roby1&type=m3u&output=m3u8
+#EXTINF:-1 group-title="M3U", ARGENTINA
+https://raw.githubusercontent.com/globalentv2/M3U/master/2020/ARGENTINA-17-02-2020.m3u
 
 
 #EXTINF:-1 tvg-id="" tvg-name="UNICABLE" tvg-logo="https://cdn.mitvstatic.com/channels/cl_unicable_m.png" group-title="ENTRETENIMIENTO",UNICABLE
