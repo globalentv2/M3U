@@ -3,6 +3,9 @@
 #EXTINF:-1 group-title="M3U", VARIETE
 http://netsersolutions.online:8080/get.php?username=merva_21&password=I6V7puZQab&type=m3u_plus
 
+#EXTINF:-1 group-title="M3U", VARIETE 2
+http://netsersolutions.online:8080/get.php?username=merva_21&password=I6V7puZQab&type=m3u_plus&output=m3u8
+
 #EXTINF:-1 group-title="M3U", SPAIN
 https://raw.githubusercontent.com/globalentv2/M3U/master/2020/SPAIN-17-02-2020.m3u
 
