@@ -3,8 +3,8 @@
 #EXTINF:-1 group-title="M3U", VARIETE
 http://netsersolutions.online:8080/get.php?username=merva_21&password=I6V7puZQab&type=m3u_plus
 
-#EXTINF:-1 group-title="M3U", VARIETE 2
-http://netsersolutions.online:8080/get.php?username=merva_21&password=I6V7puZQab&type=m3u_plus&output=m3u8
+#EXTINF:-1 group-title="M3U", V 2
+http://netsersolutions.online:8080/get.php?username=merva_21&password=I6V7puZQab&type=m3u&output=m3u8
 
 #EXTINF:-1 group-title="M3U", SPAIN
 https://raw.githubusercontent.com/globalentv2/M3U/master/2020/SPAIN-17-02-2020.m3u
@@ -295,3 +295,1114 @@ http://iptvactivador.online:25461/listagratism3uconxx/conxxxlistagratism3uconxx/
 
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="" group-title="DEPORTES",EUROSPORT 2
 http://iptvactivador.online:25461/listagratism3uconxx/conxxxlistagratism3uconxx/4227
+
+
+
+#EXTINF:-1,Event 1 - 8PM/9PM All Star Game / Team Lebron v Team Giannis
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/261.m3u8
+#EXTINF:-1,Event 2 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/335.m3u8
+#EXTINF:-1,Event 3 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/392.m3u8
+#EXTINF:-1,Event 4 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/393.m3u8
+#EXTINF:-1,Event 5 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/394.m3u8
+#EXTINF:-1,MLB 1 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/336.m3u8
+#EXTINF:-1,MLB 2 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/337.m3u8
+#EXTINF:-1,MLB 3 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/338.m3u8
+#EXTINF:-1,MLB 4 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/339.m3u8
+#EXTINF:-1,MLB 5 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/340.m3u8
+#EXTINF:-1,MLB 6 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/341.m3u8
+#EXTINF:-1,MLB 7 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/342.m3u8
+#EXTINF:-1,MLB 8 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/343.m3u8
+#EXTINF:-1,MLB 9 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/344.m3u8
+#EXTINF:-1,MLB 10 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/345.m3u8
+#EXTINF:-1,MLB 11 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/346.m3u8
+#EXTINF:-1,MLB 12 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/347.m3u8
+#EXTINF:-1,MLB 13 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/348.m3u8
+#EXTINF:-1,MLB 14 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/349.m3u8
+#EXTINF:-1,MLB 15 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/350.m3u8
+#EXTINF:-1,NBA 1 - Mavericks @ Magic 7PM/8PM
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/592.m3u8
+#EXTINF:-1,NBA 2 - Cavaliers @ Wizards 7PM/8PM
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/593.m3u8
+#EXTINF:-1,NBA 3 - Pacers @ Knicks 7:30PM/8:30PM
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/594.m3u8
+#EXTINF:-1,NBA 4 - Suns @ Raptors 7:30PM/8:30PM
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/595.m3u8
+#EXTINF:-1,NBA 5 - Celtics @ Timberwolves 8PM/9PM
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/602.m3u8
+#EXTINF:-1,NBA 6 - Nuggets @ Thunder 8PM/9PM
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/603.m3u8
+#EXTINF:-1,NBA 7 -Spurs @ Jazz 9PM/10PM
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/604.m3u8
+#EXTINF:-1,NBA 8 - Grizzlies @ Lakers 10:30PM/11:30PM
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/605.m3u8
+#EXTINF:-1,NBA 9 - Pelicans @ Trail Blazers 10:30PM/11:30PM
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/606.m3u8
+#EXTINF:-1,NBA 10 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/607.m3u8
+#EXTINF:-1,NBA 11 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/608.m3u8
+#EXTINF:-1,NFL 1 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/366.m3u8
+#EXTINF:-1,NFL 2 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/367.m3u8
+#EXTINF:-1,NFL 3 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/368.m3u8
+#EXTINF:-1,NFL 4 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/369.m3u8
+#EXTINF:-1,NFL 5 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/370.m3u8
+#EXTINF:-1,NFL 6 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/371.m3u8
+#EXTINF:-1,NFL 7 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/372.m3u8
+#EXTINF:-1,NFL 8 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/373.m3u8
+#EXTINF:-1,NFL 9 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/374.m3u8
+#EXTINF:-1,NFL 10 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/375.m3u8
+#EXTINF:-1,NFL 11 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/376.m3u8
+#EXTINF:-1,NFL 12 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/377.m3u8
+#EXTINF:-1,NFL 13 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/378.m3u8
+#EXTINF:-1,NFL 14 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/379.m3u8
+#EXTINF:-1,NFL 15 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/380.m3u8
+#EXTINF:-1,NHL 1 - Rangers @ Hurricaines 7PM/8PM
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/420.m3u8
+#EXTINF:-1,NHL 2 - Red Wings @ Islanders 7PM/8PM
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/421.m3u8
+#EXTINF:-1,NHL 3 - Predators @ Blackhawks 8PM/9PM
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/435.m3u8
+#EXTINF:-1,NHL 4 - Blues @ Stars 8:30PM/9:30PM
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/436.m3u8
+#EXTINF:-1,NHL 5 - Bruins @ Flames 9PM/10PM
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/437.m3u8
+#EXTINF:-1,NHL 6 - Wild @ Oilers 9PM/10PM
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/438.m3u8
+#EXTINF:-1,NHL 7 - Avalanche @ Ducks 10PM/11PM
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/439.m3u8
+#EXTINF:-1,NHL 8 - 
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/440.m3u8
+#EXTINF:-1,NHL 9 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/596.m3u8
+#EXTINF:-1,NHL 10 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/597.m3u8
+#EXTINF:-1,NHL 11 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/706.m3u8
+#EXTINF:-1,NHL 12 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/707.m3u8
+#EXTINF:-1,NHL 13 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/708.m3u8
+#EXTINF:-1,NBA 12 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/759.m3u8
+#EXTINF:-1,NBA 13 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/760.m3u8
+#EXTINF:-1,NBA 14 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/761.m3u8
+#EXTINF:-1,NFL 16 -
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/762.m3u8
+#EXTINF:-1,USA | A&E
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/212.m3u8
+#EXTINF:-1,USA | ABC
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/211.m3u8
+#EXTINF:-1,USA | ABC News
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/210.m3u8
+#EXTINF:-1,USA | ACC Network
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/296.m3u8
+#EXTINF:-1,USA | Adult Swim
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/742.m3u8
+#EXTINF:-1,USA | AMC
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/209.m3u8
+#EXTINF:-1,USA | American Heroes Channel
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/208.m3u8
+#EXTINF:-1,USA | Animal Planet
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/207.m3u8
+#EXTINF:-1,USA | Aspire TV (Test)
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/872.m3u8
+#EXTINF:-1,USA | BBC America
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/206.m3u8
+#EXTINF:-1,USA | beIN Sports
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/205.m3u8
+#EXTINF:-1,USA | BET
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/204.m3u8
+#EXTINF:-1,USA | BET Her
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/203.m3u8
+#EXTINF:-1,USA | BET Jams
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/950.m3u8
+#EXTINF:-1,USA | BET Soul
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/951.m3u8
+#EXTINF:-1,USA | Big Ten Network
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/202.m3u8
+#EXTINF:-1,USA | Bloomberg
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/863.m3u8
+#EXTINF:-1,USA | Boomerang
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/130.m3u8
+#EXTINF:-1,USA | Bounce TV
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/743.m3u8
+#EXTINF:-1,USA | Bravo
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/200.m3u8
+#EXTINF:-1,USA | Cartoon Network
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/199.m3u8
+#EXTINF:-1,USA | CBS
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/198.m3u8
+#EXTINF:-1,USA | CBSN
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/197.m3u8
+#EXTINF:-1,USA | Cinemax East
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/196.m3u8
+#EXTINF:-1,USA | CMT
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/355.m3u8
+#EXTINF:-1,USA | CNBC
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/192.m3u8
+#EXTINF:-1,USA | CNN
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/191.m3u8
+#EXTINF:-1,USA | Comedy Central
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/190.m3u8
+#EXTINF:-1,USA | Cooking Channel
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/189.m3u8
+#EXTINF:-1,USA | Cozi TV
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/188.m3u8
+#EXTINF:-1,USA | Destination America
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/185.m3u8
+#EXTINF:-1,USA | Discovery Channel
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/184.m3u8
+#EXTINF:-1,USA | Discovery Family
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/183.m3u8
+#EXTINF:-1,USA | Discovery Life
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/182.m3u8
+#EXTINF:-1,USA | Discovery Science
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/181.m3u8
+#EXTINF:-1,USA | Disney Channel
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/180.m3u8
+#EXTINF:-1,USA | Disney Jr
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/179.m3u8
+#EXTINF:-1,USA | Disney XD
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/178.m3u8
+#EXTINF:-1,USA | DIY
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/177.m3u8
+#EXTINF:-1,USA | E!
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/176.m3u8
+#EXTINF:-1,USA | El Rey Network
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/889.m3u8
+#EXTINF:-1,USA | Eleven Sports
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/175.m3u8
+#EXTINF:-1,USA | EPIX
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/174.m3u8
+#EXTINF:-1,USA | EPIX 2
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/388.m3u8
+#EXTINF:-1,USA | EPIX HITS
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/132.m3u8
+#EXTINF:-1,USA | ESPN
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/133.m3u8
+#EXTINF:-1,USA | ESPN 2
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/173.m3u8
+#EXTINF:-1,USA | ESPN News
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/134.m3u8
+#EXTINF:-1,USA | ESPN U
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/172.m3u8
+#EXTINF:-1,USA | Fight Network
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/331.m3u8
+#EXTINF:-1,USA | Food Network
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/171.m3u8
+#EXTINF:-1,USA | Fox
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/269.m3u8
+#EXTINF:-1,USA | Fox Business Network
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/268.m3u8
+#EXTINF:-1,USA | Fox Deportes
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/266.m3u8
+#EXTINF:-1,USA | Fox News
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/267.m3u8
+#EXTINF:-1,USA | Fox Soccer Plus
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/265.m3u8
+#EXTINF:-1,USA | Fox Sports 1
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/263.m3u8
+#EXTINF:-1,USA | Fox Sports 2
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/264.m3u8
+#EXTINF:-1,USA | FreeForm
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/170.m3u8
+#EXTINF:-1,USA | Fuse
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/169.m3u8
+#EXTINF:-1,USA | FX
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/167.m3u8
+#EXTINF:-1,USA | FXM
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/166.m3u8
+#EXTINF:-1,USA | FXX
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/165.m3u8
+#EXTINF:-1,USA | FYI
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/164.m3u8
+#EXTINF:-1,USA | Galavision
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/360.m3u8
+#EXTINF:-1,USA | GINX eSports
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/954.m3u8
+#EXTINF:-1,USA | Golf Channel
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/138.m3u8
+#EXTINF:-1,USA | Grit TV
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/734.m3u8
+#EXTINF:-1,USA | GSN
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/358.m3u8
+#EXTINF:-1,USA | Hallmark
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/162.m3u8
+#EXTINF:-1,USA | Hallmark Drama
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/356.m3u8
+#EXTINF:-1,USA | Hallmark Movies & Mysteries
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/161.m3u8
+#EXTINF:-1,USA | HBO
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/160.m3u8
+#EXTINF:-1,USA | HBO Family
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/157.m3u8
+#EXTINF:-1,USA | HBO Signature
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/156.m3u8
+#EXTINF:-1,USA | HBO Zone
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/155.m3u8
+#EXTINF:-1,USA | HGTV
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/154.m3u8
+#EXTINF:-1,USA | History Channel
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/153.m3u8
+#EXTINF:-1,USA | HLN
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/152.m3u8
+#EXTINF:-1,USA | IFC
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/151.m3u8
+#EXTINF:-1,USA | INSP
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/895.m3u8
+#EXTINF:-1,USA | Investigation Discovery
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/150.m3u8
+#EXTINF:-1,USA | ION TV (Test)
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/809.m3u8
+#EXTINF:-1,USA | Lifetime
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/148.m3u8
+#EXTINF:-1,USA | LMN
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/147.m3u8
+#EXTINF:-1,USA | Logo
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/952.m3u8
+#EXTINF:-1,USA | LongHorn Network
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/146.m3u8
+#EXTINF:-1,USA | MAV TV
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/965.m3u8
+#EXTINF:-1,USA | Me TV
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/744.m3u8
+#EXTINF:-1,USA | MLB Network
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/145.m3u8
+#EXTINF:-1,USA | Motor Trend/Velocity
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/250.m3u8
+#EXTINF:-1,USA | MSG
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/287.m3u8
+#EXTINF:-1,USA | MSG 2
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/333.m3u8
+#EXTINF:-1,USA | MSNBC
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/143.m3u8
+#EXTINF:-1,USA | MTV
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/142.m3u8
+#EXTINF:-1,USA | MTV 2
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/354.m3u8
+#EXTINF:-1,USA | MY 9
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/135.m3u8
+#EXTINF:-1,USA | Nat Geo
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/141.m3u8
+#EXTINF:-1,USA | Nat Geo Wild
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/140.m3u8
+#EXTINF:-1,USA | NBA TV
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/136.m3u8
+#EXTINF:-1,USA | NBC
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/139.m3u8
+#EXTINF:-1,USA | NBC Universo
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/329.m3u8
+#EXTINF:-1,USA | NBCSN
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/235.m3u8
+#EXTINF:-1,USA | NESN
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/890.m3u8
+#EXTINF:-1,USA | NESN +
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/891.m3u8
+#EXTINF:-1,USA | NewsMax
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/864.m3u8
+#EXTINF:-1,USA | NFL Network
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/234.m3u8
+#EXTINF:-1,USA | NFL Red Zone
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/260.m3u8
+#EXTINF:-1,USA | NHL Network
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/299.m3u8
+#EXTINF:-1,USA | Nick
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/327.m3u8
+#EXTINF:-1,USA | Nick Jr
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/351.m3u8
+#EXTINF:-1,USA | Nicktoons
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/460.m3u8
+#EXTINF:-1,USA | One America News Network
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/865.m3u8
+#EXTINF:-1,USA | Outdoor Channel
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/292.m3u8
+#EXTINF:-1,USA | Outside TV
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/357.m3u8
+#EXTINF:-1,USA | OWN
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/229.m3u8
+#EXTINF:-1,USA | Oxygen
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/228.m3u8
+#EXTINF:-1,USA | PAC-12 Arizona
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/892.m3u8
+#EXTINF:-1,USA | PAC-12 Bay Area
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/893.m3u8
+#EXTINF:-1,USA | PAC-12 Los Angeles
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/894.m3u8
+#EXTINF:-1,USA | PAC-12 Mountain
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/584.m3u8
+#EXTINF:-1,USA | PAC-12 Network
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/353.m3u8
+#EXTINF:-1,USA | PAC-12 Oregon
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/359.m3u8
+#EXTINF:-1,USA | Paramount
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/221.m3u8
+#EXTINF:-1,USA | PBS KIDS
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/227.m3u8
+#EXTINF:-1,USA | Pop
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/226.m3u8
+#EXTINF:-1,USA | Revolt
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/1006.m3u8
+#EXTINF:-1,USA | Sec Network
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/295.m3u8
+#EXTINF:-1,USA | Showtime
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/223.m3u8
+#EXTINF:-1,USA | Showtime 2
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/222.m3u8
+#EXTINF:-1,USA | Showtime Extreme
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/385.m3u8
+#EXTINF:-1,USA | Showtime Showcase
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/399.m3u8
+#EXTINF:-1,USA | Smithsonian Channel
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/518.m3u8
+#EXTINF:-1,USA | SNY
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/330.m3u8
+#EXTINF:-1,USA | Sportsnet LA
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/873.m3u8
+#EXTINF:-1,USA | Starz
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/280.m3u8
+#EXTINF:-1,USA | Starz Edge
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/444.m3u8
+#EXTINF:-1,USA | Starz Encore Western
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/649.m3u8
+#EXTINF:-1,USA | Starz in Black
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/397.m3u8
+#EXTINF:-1,USA | Sundance
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/215.m3u8
+#EXTINF:-1,USA | SyFy
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/214.m3u8
+#EXTINF:-1,USA | TBS
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/213.m3u8
+#EXTINF:-1,USA | TCM
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/352.m3u8
+#EXTINF:-1,USA | Telemundo
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/281.m3u8
+#EXTINF:-1,USA | Telemundo Chicago
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/443.m3u8
+#EXTINF:-1,USA | Telemundo LA
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/361.m3u8
+#EXTINF:-1,USA | Telemundo Miami
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/334.m3u8
+#EXTINF:-1,USA | Telemundo Texas
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/441.m3u8
+#EXTINF:-1,USA | Tennis Channel
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/244.m3u8
+#EXTINF:-1,USA | The CW 11
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/186.m3u8
+#EXTINF:-1,USA | The Weather Channel
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/301.m3u8
+#EXTINF:-1,USA | TLC
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/241.m3u8
+#EXTINF:-1,USA | TNT
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/240.m3u8
+#EXTINF:-1,USA | Travel Channel
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/239.m3u8
+#EXTINF:-1,USA | TruTV
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/238.m3u8
+#EXTINF:-1,USA | TUDN
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/283.m3u8
+#EXTINF:-1,USA | TV Land
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/300.m3u8
+#EXTINF:-1,USA | TV One
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/384.m3u8
+#EXTINF:-1,USA | TVG
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/332.m3u8
+#EXTINF:-1,USA | UFC Fight Pass
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/631.m3u8
+#EXTINF:-1,USA | Universal Kids
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/252.m3u8
+#EXTINF:-1,USA | Univision
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/282.m3u8
+#EXTINF:-1,USA | Univision Chicago
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/1017.m3u8
+#EXTINF:-1,USA | Univision Houston
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/1018.m3u8
+#EXTINF:-1,USA | Univision Los Angeles
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/712.m3u8
+#EXTINF:-1,USA | Univision Miami
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/1015.m3u8
+#EXTINF:-1,USA | Univision New York
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/1019.m3u8
+#EXTINF:-1,USA | Univision Philly
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/1016.m3u8
+#EXTINF:-1,USA | USA Network
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/251.m3u8
+#EXTINF:-1,USA | VH1
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/395.m3u8
+#EXTINF:-1,USA | Viceland
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/307.m3u8
+#EXTINF:-1,USA | WE TV
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/247.m3u8
+#EXTINF:-1,USA | World Fishing Network
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/382.m3u8
+#EXTINF:-1,USA | WWE
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/398.m3u8
+#EXTINF:-1,USA | Yes Network
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/245.m3u8
+#EXTINF:-1,USA  | ABC Chicago
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/798.m3u8
+#EXTINF:-1,USA | ABC Houston
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/714.m3u8
+#EXTINF:-1,USA | ABC Los Angeles
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/715.m3u8
+#EXTINF:-1,USA | ABC New York
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/727.m3u8
+#EXTINF:-1,USA | CBS Chicago
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/799.m3u8
+#EXTINF:-1,USA | CBS Houston
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/718.m3u8
+#EXTINF:-1,USA | CBS Jacksonville
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/807.m3u8
+#EXTINF:-1,USA | CBS New York
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/719.m3u8
+#EXTINF:-1,USA | FOX Houston
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/720.m3u8
+#EXTINF:-1,USA | FOX Los Angeles
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/721.m3u8
+#EXTINF:-1,USA | FOX New York
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/728.m3u8
+#EXTINF:-1,USA | FOX Phoenix
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/739.m3u8
+#EXTINF:-1,USA | NBC Chicago
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/801.m3u8
+#EXTINF:-1,USA | NBC New York
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/729.m3u8
+#EXTINF:-1,USA | NBC Boston
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/874.m3u8
+#EXTINF:-1,USA | CBS Cleveland
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/875.m3u8
+#EXTINF:-1,USA | NBC Miami
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/876.m3u8
+#EXTINF:-1,USA | CBS Miami
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/877.m3u8
+#EXTINF:-1,USA | FOX Miami
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/879.m3u8
+#EXTINF:-1,USA | FOX Philly
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/881.m3u8
+#EXTINF:-1,USA | NBC Houston
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/896.m3u8
+#EXTINF:-1,USA | NBC Denver
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/897.m3u8
+#EXTINF:-1,USA | FOX Jacksonville
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/902.m3u8
+#EXTINF:-1,USA | NBC Jacksonville
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/903.m3u8
+#EXTINF:-1,USA | CBS Dallas
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/904.m3u8
+#EXTINF:-1,USA | FOX Dallas
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/905.m3u8
+#EXTINF:-1,USA | NBC Dallas
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/906.m3u8
+#EXTINF:-1,USA | CBS Denver
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/907.m3u8
+#EXTINF:-1,USA | FOX Denver
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/908.m3u8
+#EXTINF:-1,USA | CBS Atlanta
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/958.m3u8
+#EXTINF:-1,USA | NBC Atlanta
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/959.m3u8
+#EXTINF:-1,USA | ABC Atlanta
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/960.m3u8
+#EXTINF:-1,USA | FOX Atlanta
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/961.m3u8
+#EXTINF:-1,USA | CBS Boston
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/962.m3u8
+#EXTINF:-1,USA | FOX Boston
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/963.m3u8
+#EXTINF:-1,USA | ABC Boston
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/964.m3u8
+#EXTINF:-1,USA | ABC Denver
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/966.m3u8
+#EXTINF:-1,USA | ABC Charlotte
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/971.m3u8
+#EXTINF:-1,USA | CBS Charlotte
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/972.m3u8
+#EXTINF:-1,USA | NBC Charlotte
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/973.m3u8
+#EXTINF:-1,USA | FOX Chicago
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/974.m3u8
+#EXTINF:-1,USA | ABC Cleveland
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/975.m3u8
+#EXTINF:-1,USA | FOX Cleveland
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/976.m3u8
+#EXTINF:-1,USA | NBC Cleveland
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/977.m3u8
+#EXTINF:-1,USA | ABC San Francisco
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/978.m3u8
+#EXTINF:-1,USA | CBS San Francisco
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/979.m3u8
+#EXTINF:-1,USA  | FOX San Francisco
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/980.m3u8
+#EXTINF:-1,USA | NBC San Francisco
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/981.m3u8
+#EXTINF:-1,USA | ABC Indianapolis
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/982.m3u8
+#EXTINF:-1,USA | FOX Indianapolis
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/983.m3u8
+#EXTINF:-1,USA | NBC Indianapolis
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/984.m3u8
+#EXTINF:-1,USA | CBS Los Angeles
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/985.m3u8
+#EXTINF:-1,USA | NBC Los Angeles
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/986.m3u8
+#EXTINF:-1,USA | ABC Miami
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/987.m3u8
+#EXTINF:-1,USA | ABC Milwaukee
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/988.m3u8
+#EXTINF:-1,USA | CBS Milwaukee
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/989.m3u8
+#EXTINF:-1,USA | FOX Milwaukee
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/990.m3u8
+#EXTINF:-1,USA | NBC Milwaukee
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/991.m3u8
+#EXTINF:-1,USA | CBS New Orleans
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/995.m3u8
+#EXTINF:-1,USA | FOX New Orleans
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/996.m3u8
+#EXTINF:-1,USA | NBC New Orleans
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/997.m3u8
+#EXTINF:-1,USA | ABC Philly
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/1012.m3u8
+#EXTINF:-1,USA | CBS Philly
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/1013.m3u8
+#EXTINF:-1,USA | NBC Philly
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/1014.m3u8
+#EXTINF:-1,USA | News 12 Brooklyn
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/654.m3u8
+#EXTINF:-1,USA | News 12 Connecticut
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/656.m3u8
+#EXTINF:-1,USA | News 12 Hudson Valley
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/657.m3u8
+#EXTINF:-1,USA | News 12 Long Island
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/659.m3u8
+#EXTINF:-1,USA |  News 12 Long Island - Traffic
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/658.m3u8
+#EXTINF:-1,USA | News 12 New Jersey
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/661.m3u8
+#EXTINF:-1,USA | News 12 New Jersey - Traffic
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/660.m3u8
+#EXTINF:-1,USA | News 12 New York City - Traffic
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/662.m3u8
+#EXTINF:-1,USA | News 12 The Bronx
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/663.m3u8
+#EXTINF:-1,USA | News 12 Westchester
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/664.m3u8
+#EXTINF:-1,USA | Worcester - WCCA TV 13
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/665.m3u8
+#EXTINF:-1,Fox Sports Arizona
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/321.m3u8
+#EXTINF:-1,Fox Sports Prime Ticket
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/326.m3u8
+#EXTINF:-1,Fox Sports North
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/320.m3u8
+#EXTINF:-1,Fox Sports Detroit
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/317.m3u8
+#EXTINF:-1,Fox Sports San Diego
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/316.m3u8
+#EXTINF:-1,Fox Sports West
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/315.m3u8
+#EXTINF:-1,Fox Sports South
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/319.m3u8
+#EXTINF:-1,Fox Sports Sun
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/322.m3u8
+#EXTINF:-1,Fox Sports Midwest
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/324.m3u8
+#EXTINF:-1,Fox Sports Oklahoma
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/312.m3u8
+#EXTINF:-1,USA | NBC Sports Bay Area
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/591.m3u8
+#EXTINF:-1,USA | NBC Sports Boston
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/590.m3u8
+#EXTINF:-1,USA | NBC Sports California
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/589.m3u8
+#EXTINF:-1,USA | NBC Sports Chicago
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/588.m3u8
+#EXTINF:-1,USA | NBC Sports Northwest
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/587.m3u8
+#EXTINF:-1,USA | NBC Sports Philadelphia
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/586.m3u8
+#EXTINF:-1,USA | NBC Sports Washington
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/585.m3u8
+#EXTINF:-1,PR | Mega TV
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/124.m3u8
+#EXTINF:-1,PR | Punto 2
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/262.m3u8
+#EXTINF:-1,PR | Telemundo
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/125.m3u8
+#EXTINF:-1,PR | Univision
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/126.m3u8
+#EXTINF:-1,PR | WAPA
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/127.m3u8
+#EXTINF:-1,PR | WAPA 2
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/128.m3u8
+#EXTINF:-1,PR | WIPR
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/653.m3u8
+#EXTINF:-1,Latino | A&E
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/20.m3u8
+#EXTINF:-1,Latino | A3S
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/565.m3u8
+#EXTINF:-1,Latino | ADN40
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/9.m3u8
+#EXTINF:-1,Latino | AMC
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/78.m3u8
+#EXTINF:-1,Latino | Animal Planet
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/61.m3u8
+#EXTINF:-1,Latino | Antena 3
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/564.m3u8
+#EXTINF:-1,Latino | AXN
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/21.m3u8
+#EXTINF:-1,Latino | AXN White
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/609.m3u8
+#EXTINF:-1,Latino | AyM Sports
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/101.m3u8
+#EXTINF:-1,Latino | AZ Cinema
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/72.m3u8
+#EXTINF:-1,Latino | AZ Corazon
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/29.m3u8
+#EXTINF:-1,Latino | AZ Mundo
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/41.m3u8
+#EXTINF:-1,Latino | Azteca 1
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/458.m3u8
+#EXTINF:-1,Latino | Azteca 7
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/6.m3u8
+#EXTINF:-1,Latino | Bandamax
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/623.m3u8
+#EXTINF:-1,Latino | beIN Sports
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/381.m3u8
+#EXTINF:-1,Latino | beIN Sports La Liga
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/626.m3u8
+#EXTINF:-1,Latino | Boomerang
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/52.m3u8
+#EXTINF:-1,Latino | Canal 11
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/467.m3u8
+#EXTINF:-1,Latino | Canal 5
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/4.m3u8
+#EXTINF:-1,Latino | Canal De Las Estrellas
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/3.m3u8
+#EXTINF:-1,Latino | Caracol
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/284.m3u8
+#EXTINF:-1,Latino | Cartoon Network
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/50.m3u8
+#EXTINF:-1,Latino | Cinecanal
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/73.m3u8
+#EXTINF:-1,Latino | CineLatino
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/303.m3u8
+#EXTINF:-1,Latino | Cinemax
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/82.m3u8
+#EXTINF:-1,Latino | Cinemax HD
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/792.m3u8
+#EXTINF:-1,Latino | CNN en Espanol
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/105.m3u8
+#EXTINF:-1,Latino | Comedy Central
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/23.m3u8
+#EXTINF:-1,Latino | De Pelicula
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/85.m3u8
+#EXTINF:-1,Latino | Discovery Channel
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/60.m3u8
+#EXTINF:-1,Latino | Discovery Civilization
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/111.m3u8
+#EXTINF:-1,Latino | Discovery en Espanol
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/567.m3u8
+#EXTINF:-1,Latino | Discovery Familia
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/253.m3u8
+#EXTINF:-1,Latino | Discovery H&H
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/62.m3u8
+#EXTINF:-1,Latino | Discovery ID
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/32.m3u8
+#EXTINF:-1,Latino | Discovery ID HD
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/1004.m3u8
+#EXTINF:-1,Latino | Discovery Kids
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/43.m3u8
+#EXTINF:-1,Latino | Discovery Science
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/110.m3u8
+#EXTINF:-1,Latino | Discovery Theater
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/56.m3u8
+#EXTINF:-1,Latino | Discovery TLC
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/65.m3u8
+#EXTINF:-1,Latino | Discovery Turbo
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/285.m3u8
+#EXTINF:-1,Latino | Discovery Turbo HD
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/1003.m3u8
+#EXTINF:-1,Latino | Discovery World
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/59.m3u8
+#EXTINF:-1,Latino | Disney Channel
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/46.m3u8
+#EXTINF:-1,Latino | Disney JR
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/44.m3u8
+#EXTINF:-1,Latino | Disney XD
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/51.m3u8
+#EXTINF:-1,Latino | Distrito Comedia
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/38.m3u8
+#EXTINF:-1,Latino | E!
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/30.m3u8
+#EXTINF:-1,Latino | El Garage
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/475.m3u8
+#EXTINF:-1,Latino | El Gourmet
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/34.m3u8
+#EXTINF:-1,Latino | ESPN
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/97.m3u8
+#EXTINF:-1,Latino | ESPN 2
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/98.m3u8
+#EXTINF:-1,Latino | ESPN 3
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/91.m3u8
+#EXTINF:-1,Latino | ESPN Deportes
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/528.m3u8
+#EXTINF:-1,Latino | ESPN Plus
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/90.m3u8
+#EXTINF:-1,Latino | Estrella TV
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/418.m3u8
+#EXTINF:-1,Latino | Food Network
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/27.m3u8
+#EXTINF:-1,Latino | Foro TV
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/489.m3u8
+#EXTINF:-1,Latino | Fox
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/15.m3u8
+#EXTINF:-1,Latino | Fox Action
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/68.m3u8
+#EXTINF:-1,Latino | Fox Cinema
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/70.m3u8
+#EXTINF:-1,Latino | Fox Classics
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/71.m3u8
+#EXTINF:-1,Latino | Fox Family
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/109.m3u8
+#EXTINF:-1,Latino | Fox Life
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/37.m3u8
+#EXTINF:-1,Latino | Fox Movies
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/69.m3u8
+#EXTINF:-1,Latino | Fox Series
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/67.m3u8
+#EXTINF:-1,Latino | Fox Sports
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/92.m3u8
+#EXTINF:-1,Latino | Fox Sports 2
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/93.m3u8
+#EXTINF:-1,Latino | Fox Sports 3
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/100.m3u8
+#EXTINF:-1,Latino | Fox Sports Premium
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/992.m3u8
+#EXTINF:-1,Latino | FX
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/19.m3u8
+#EXTINF:-1,Latino | FXM
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/76.m3u8
+#EXTINF:-1,Latino | Gala TV
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/7.m3u8
+#EXTINF:-1,Latino | Glitz
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/36.m3u8
+#EXTINF:-1,Latino | Gol TV
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/293.m3u8
+#EXTINF:-1,Latino | Golden Edge
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/84.m3u8
+#EXTINF:-1,Latino | Golden Plus
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/75.m3u8
+#EXTINF:-1,Latino | Golden Premier
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/83.m3u8
+#EXTINF:-1,Latino | Golf Channel
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/89.m3u8
+#EXTINF:-1,Latino | HBO
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/120.m3u8
+#EXTINF:-1,Latino | HBO 2
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/121.m3u8
+#EXTINF:-1,Latino | HBO Family
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/119.m3u8
+#EXTINF:-1,Latino | HBO Latino (Test)
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/780.m3u8
+#EXTINF:-1,Latino | HBO Plus
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/610.m3u8
+#EXTINF:-1,Latino | HBO Signature
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/118.m3u8
+#EXTINF:-1,Latino | History 2
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/289.m3u8
+#EXTINF:-1,Latino | History Channel
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/57.m3u8
+#EXTINF:-1,Latino | Hola TV
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/25.m3u8
+#EXTINF:-1,Latino | Imagen
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/2.m3u8
+#EXTINF:-1,Latino | Lifetime
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/64.m3u8
+#EXTINF:-1,Latino | MasChic
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/26.m3u8
+#EXTINF:-1,Latino | Max Prime
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/298.m3u8
+#EXTINF:-1,Latino | Max UP
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/117.m3u8
+#EXTINF:-1,Latino | Mexiquense
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/11.m3u8
+#EXTINF:-1,Latino | MTV
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/620.m3u8
+#EXTINF:-1,Latino | Multimedios
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/14.m3u8
+#EXTINF:-1,Latino | Nat Geo Wild
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/58.m3u8
+#EXTINF:-1,Latino | NatGeo Kids
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/622.m3u8
+#EXTINF:-1,Latino | National Geographic
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/63.m3u8
+#EXTINF:-1,Latino | Nick
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/48.m3u8
+#EXTINF:-1,Latino | Nick Jr
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/45.m3u8
+#EXTINF:-1,Latino | Nicktoons
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/47.m3u8
+#EXTINF:-1,Latino | Pasiones
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/305.m3u8
+#EXTINF:-1,Latino | RCN
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/302.m3u8
+#EXTINF:-1,Latino | Ritmoson
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/621.m3u8
+#EXTINF:-1,Latino | Showtime
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/652.m3u8
+#EXTINF:-1,Latino | Sony
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/16.m3u8
+#EXTINF:-1,Latino | Space
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/79.m3u8
+#EXTINF:-1,Latino | Starz
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/650.m3u8
+#EXTINF:-1,Latino | Starz Encore
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/651.m3u8
+#EXTINF:-1,Latino | Studio Universal
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/86.m3u8
+#EXTINF:-1,Latino | Sundance
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/80.m3u8
+#EXTINF:-1,Latino | SyFy
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/31.m3u8
+#EXTINF:-1,Latino | TBS
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/39.m3u8
+#EXTINF:-1,Latino | TCM
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/88.m3u8
+#EXTINF:-1,Latino | Teleformula
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/13.m3u8
+#EXTINF:-1,Latino | Telehit
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/422.m3u8
+#EXTINF:-1,Latino | Telemundo Int
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/54.m3u8
+#EXTINF:-1,Latino | TLnovelas
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/40.m3u8
+#EXTINF:-1,Latino | TNT
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/74.m3u8
+#EXTINF:-1,Latino | TNT Series
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/33.m3u8
+#EXTINF:-1,Latino | Tooncast
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/55.m3u8
+#EXTINF:-1,Latino | TruTV
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/22.m3u8
+#EXTINF:-1,Latino | TUDN
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/53.m3u8
+#EXTINF:-1,Latino | TVC
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/28.m3u8
+#EXTINF:-1,Latino | TVC Deportes
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/306.m3u8
+#EXTINF:-1,Latino | TyC Sports
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/288.m3u8
+#EXTINF:-1,Latino | Ultra Cine
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/424.m3u8
+#EXTINF:-1,Latino | Ultra Clasico
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/472.m3u8
+#EXTINF:-1,Latino | Ultra Familia
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/537.m3u8
+#EXTINF:-1,Latino | Ultra Fiesta
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/470.m3u8
+#EXTINF:-1,Latino | Ultra Film
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/535.m3u8
+#EXTINF:-1,Latino | Ultra Kids
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/473.m3u8
+#EXTINF:-1,Latino | Ultra Macho
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/471.m3u8
+#EXTINF:-1,Latino | Ultra Mex
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/523.m3u8
+#EXTINF:-1,Latino | Ultra Tainment
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/474.m3u8
+#EXTINF:-1,Latino | Unicable
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/24.m3u8
+#EXTINF:-1,Latino | Unimas
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/286.m3u8
+#EXTINF:-1,Latino | Universal Channel
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/18.m3u8
+#EXTINF:-1,Latino | VH1
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/625.m3u8
+#EXTINF:-1,Latino | VH1 Classics
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/624.m3u8
+#EXTINF:-1,Latino | Warner
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/17.m3u8
+#EXTINF:-1,Latino | Win Sports
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/297.m3u8
+#EXTINF:-1,Latino | AZ Click
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/1011.m3u8
+#EXTINF:-1,Adult | Barely Legal
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/276.m3u8
+#EXTINF:-1,Adult | Brazzers
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/468.m3u8
+#EXTINF:-1,Adult | Jasmin TV
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/751.m3u8
+#EXTINF:-1,Adult | Playboy
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/274.m3u8
+#EXTINF:-1,Adult | Redlight
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/750.m3u8
+#EXTINF:-1,Adult | Vivid
+http://netsersolutions.online:8080/live/merva_21/I6V7puZQab/479.m3u8
+#EXTINF:-1,Disclaimer: We own the digital licences of the movies. Our library its open for free and we do not charge for the content. Content can't be downloaded to your device. Doing so wil break the copyright laws.
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/767.mkv
+#EXTINF:-1,21 Bridges
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/948.mkv
+#EXTINF:-1,47 Meters Down: Uncaged
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/770.mkv
+#EXTINF:-1,A Dog's Way Home
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/871.mkv
+#EXTINF:-1,Abigail
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/870.mkv
+#EXTINF:-1,Ad Astra
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/778.mkv
+#EXTINF:-1,Alita: Battle Angel
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/911.mkv
+#EXTINF:-1,Aquaman
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/914.mkv
+#EXTINF:-1,Avengers: Infinity War
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/774.mkv
+#EXTINF:-1,Avengers: Endgame
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/775.mkv
+#EXTINF:-1,Back to the Future
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/866.mkv
+#EXTINF:-1,Back to the Future Part II
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/867.mkv
+#EXTINF:-1,Back to the Future Part III
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/868.mkv
+#EXTINF:-1,Code 8
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/786.mkv
+#EXTINF:-1,Countdown
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/898.mkv
+#EXTINF:-1,Crawl
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/909.mkv
+#EXTINF:-1,Crossword Mysteries: A Puzzle to Die For
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/773.mkv
+#EXTINF:-1,Dark Phoenix
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/776.mkv
+#EXTINF:-1,Dora and the Lost City of Gold
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/784.mkv
+#EXTINF:-1,Dumbo
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/915.mkv
+#EXTINF:-1,Fantastic Beasts and Where to Find Them
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/913.mkv
+#EXTINF:-1,Fantastic Beasts: The Crimes of Grindelwald
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/912.mkv
+#EXTINF:-1,Fast & Furious Presents: Hobbs & Shaw
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/785.mkv
+#EXTINF:-1,Ford v Ferrari
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/808.mkv
+#EXTINF:-1,Gemini Man
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/769.mkv
+#EXTINF:-1,Godzilla: King of the Monsters
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/899.mkv
+#EXTINF:-1,It Chapter Two
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/781.mkv
+#EXTINF:-1,John Wick: Chapter 3 - Parabellum
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/783.mkv
+#EXTINF:-1,Joker
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/771.mkv
+#EXTINF:-1,Maleficent: Mistress of Evil
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/768.mkv
+#EXTINF:-1,Men in Black: International
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/910.mkv
+#EXTINF:-1,Nowhere to Be Found
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/790.mkv
+#EXTINF:-1,Pokémon Detective Pikachu
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/779.mkv
+#EXTINF:-1,Ralph Breaks the Internet
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/946.mkv
+#EXTINF:-1,Rambo: Last Blood
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/900.mkv
+#EXTINF:-1,Ready Player One
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/791.mkv
+#EXTINF:-1,Spider-Man: Far from Home
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/804.mkv
+#EXTINF:-1,Terminator: Dark Fate
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/803.mkv
+#EXTINF:-1,The Addams Family
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/772.mkv
+#EXTINF:-1,The Aeronauts
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/884.mkv
+#EXTINF:-1,The Grinch
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/947.mkv
+#EXTINF:-1,The Lion King
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/788.mkv
+#EXTINF:-1,The Martian
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/901.mkv
+#EXTINF:-1,Togo
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/883.mkv
+#EXTINF:-1,Toy Story 4
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/777.mkv
+#EXTINF:-1,Hellboy
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/949.mkv
+#EXTINF:-1,Alpha
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/953.mkv
+#EXTINF:-1,The Art of Racing in the Rain
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/955.mkv
+#EXTINF:-1,Harry Potter and the Philosopher's Stone
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/956.mkv
+#EXTINF:-1,Harry Potter and the Chamber of Secrets
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/957.mkv
+#EXTINF:-1,Harry Potter and the Prisoner of Azkaban
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/967.mkv
+#EXTINF:-1,Harry Potter and the Goblet of Fire
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/968.mkv
+#EXTINF:-1,Harry Potter and the Order of the Phoenix
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/969.mkv
+#EXTINF:-1,Harry Potter and the Half-Blood Prince
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/970.mkv
+#EXTINF:-1,Harry Potter and the Deathly Hallows: Part 1
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/993.mkv
+#EXTINF:-1,Harry Potter and the Deathly Hallows: Part 2
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/994.mkv
+#EXTINF:-1,Frozen II
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/998.mkv
+#EXTINF:-1,Lucy
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/999.mkv
+#EXTINF:-1,Rise of the Planet of the Apes
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/1000.mkv
+#EXTINF:-1,Dawn of the Planet of the Apes
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/1001.mkv
+#EXTINF:-1,War for the Planet of the Apes
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/1002.mkv
+#EXTINF:-1,Interstellar
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/1005.mkv
+#EXTINF:-1,Avatar
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/1007.mkv
+#EXTINF:-1,The Hobbit: An Unexpected Journey
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/1008.mkv
+#EXTINF:-1,The Hobbit: The Desolation of Smaug
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/1009.mkv
+#EXTINF:-1,The Hobbit: The Battle of the Five Armies
+http://netsersolutions.online:8080/movie/merva_21/I6V7puZQab/1010.mkv
