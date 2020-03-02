@@ -1,0 +1,17 @@
+#EXTM3U url="http://livegopanel.club:8080/get.php?username=UbVEP67adF&password=Z6K9acT3mC&type=m3u"
+
+#EXTINF:-1, Actualizar mpgets
+http://www.iptvtool.es:9977/get.php?&username=Roby&password=Roby1&type=m3u&output=mpegts
+#EXTINF:-1, Actualizar m3u8
+http://www.iptvtool.es:9977/get.php?&username=Roby&password=Roby1&type=m3u&output=m3u8
+
+
+
+#EXTINF:-1 group-title="Lista", LISTA 3-2020
+https://raw.githubusercontent.com/globalentv2/M3U/master/2020/ROBY-mpegts-01-03-2020.m3u
+#EXTINF:-1 group-title="Lista", LISTA LATIN SERIES
+https://raw.githubusercontent.com/globalentv2/M3U/master/PUBLIC-2020/29022020-LATINseries.m3u
+#EXTINF:-1 group-title="Lista", LISTA BRAZIL
+https://raw.githubusercontent.com/globalentv2/M3U/master/PUBLIC-2020/29-02-2020-BRAZIL.m3u
+#EXTINF:-1 group-title="Lista", LISTA PREMIUM
+https://raw.githubusercontent.com/globalentv2/M3U/master/PUBLIC-2020/PREMIUM-01-03-2020.m3u
