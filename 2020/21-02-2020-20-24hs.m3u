@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="M3U", VARIETE
-http://netsersolutions.online:8080/get.php?username=merva_21&password=I6V7puZQab&type=m3u_plus
+https://github.com/globalentv2/M3U/blob/master/2020/VARIETE-MERVA21.m3u
 
 #EXTINF:-1 group-title="M3U", SPAIN
 https://raw.githubusercontent.com/globalentv2/M3U/master/2020/SPAIN-17-02-2020.m3u
@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/globalentv2/M3U/master/2020/SPAIN-17-02-2020.m
 https://pastebin.com/raw/9fvE0JuR
 
 #EXTINF:-1 group-title="M3U", MOVISTAR
-http://www.iptvtool.es:9977/get.php?&username=Roby&password=Roby1&type=m3u&output=m3u8
+https://raw.githubusercontent.com/globalentv2/M3U/master/2020/ROBY-mpegts-01-03-2020.m3u
 
 #EXTINF:-1 group-title="M3U", ARGENTINA
 https://raw.githubusercontent.com/globalentv2/M3U/master/2020/ARGENTINA-17-02-2020.m3u
