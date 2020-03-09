@@ -20,6 +20,9 @@ https://pastebin.com/raw/S5932Sde
 #EXTINF:-1 group-title="LISTAS", TV x PAIS info
 #
 
+#EXTINF:-1 group-title="LISTAS", ESPAÑA
+http://bit.ly/tv_spain
+
 #EXTINF:-1 group-title="LISTAS", MEXICO Y EL MUNDO
 https://www.achoapps.com/listas/lista23.m3u
 
@@ -80,5 +83,4 @@ http://bit.ly/2E1z5Ay
 #EXTINF:-1 group-title="LISTAS", DEPORTES 3
 http://bit.ly/DeportesYmas
 
-#EXTINF:-1 group-title="LISTAS", ESPAÑA
-http://bit.ly/tv_spain
+
