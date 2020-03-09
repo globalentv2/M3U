@@ -165,4 +165,116 @@ http://iptvclub.live:25461/get.php?username=kFzMvYzGNdgS3gV&password=LrXhqNqvsK4
 #EXTINF:-1 group-title="LISTAS", LISTA 25
 http://iptvclub.live:25461/get.php?username=OKF7InkOmExaeXn&password=VpphsOBQbEcjdkp&output=ts&type=m3u_plus
 
+#EXTINF:-1 group-title="LISTAS", LISTA IP info
+#
 
+#EXTINF:-1 group-title="LISTAS", ok2.se 1
+http://ok2.se:8000/get.php?username=8752F7Up2rG4VG3v7&password=d6d6F9UeCTE9wQroO&type=m3u
+
+#EXTINF:-1 group-title="LISTAS", ok2.se 2
+http://ok2.se:8000/get.php?username=vmqZGRlWAj&password=0QqZo1i0q4&type=m3u
+
+#EXTINF:-1 group-title="LISTAS", ok2.se 3
+http://ok2.se:8000/get.php?username=3f18F7Up7q4IE6aco&password=1a6bF9U9mAyINu5ng&type=m3u
+
+#EXTINF:-1 group-title="LISTAS", ok2.se 4
+http://ok2.se:8000/get.php?username=049bF7U7N1c1GBdYq&password=2e7bF9Uad0uSkUpOe&type=m3u
+
+#EXTINF:-1 group-title="LISTAS", ok2.se 5
+http://ok2.se:8000/get.php?username=2033F7UNpb4G2eAdj&password=6c2dF9U5bzZC0tDUN&type=m3u
+
+#EXTINF:-1 group-title="LISTAS", ok2.se 6
+http://ok2.se:8000/get.php?username=b47eF7UofQju2cYrl&password=59a0F9UwiGY3GDR4s&type=m3u
+
+#EXTINF:-1 group-title="LISTAS", ok2.se 7
+http://ok2.se:8000/get.php?username=de33F7U9BapCwWsO5&password=3f50F9UmRAJ1ooA7o&type=m3u
+
+#EXTINF:-1 group-title="LISTAS", ok2.se 8
+http://ok2.se:80/get.php?username=7f6fF7UlZ51dEe1w4&password=daa5F9UKqBYd2WoZ0&type=m3u
+
+#EXTINF:-1 group-title="LISTAS", ok2.se 9
+http://ok2.se:8000/get.php?username=209aF7UjrvrqlEtnd&password=e88bF9UDOIDb7MNcb&type=m3u
+
+#EXTINF:-1 group-title="LISTAS", ok2.se 10
+http://ok2.se:8000/get.php?username=3619F7UPutt95rAYX&password=dba3F9UTH9nzxvCJe&type=m3u
+
+#EXTINF:-1 group-title="LISTAS", ok2.se 11
+http://ok2.se:80/get.php?username=3069F7UOrkjzr0vCg&password=63aeF9U1TL1e4Cgb5&type=m3u
+
+#EXTINF:-1 group-title="LISTAS",ok2.se 12 
+http://ok2.se:8000/get.php?username=e142F7UM7e5xEMsc9&password=e2dfF9UPksLA4fRpt&type=m3u
+
+#EXTINF:-1 group-title="LISTAS", srvuhd.top 1
+http://srvuhd.top:8880/get.php?username=189034&password=189034&type=m3u
+
+#EXTINF:-1 group-title="LISTAS", srvuhd.top 2
+http://srvuhd.top:80/get.php?username=198455&password=198455&type=m3u
+
+#EXTINF:-1 group-title="LISTAS", srvuhd.top 3
+http://srvuhd.top:25461/get.php?username=189034&password=189034&type=m3u
+
+#EXTINF:-1 group-title="LISTAS", srvuhd.top 4
+http://srvuhd.top:8080/get.php?username=189034&password=189034&type=m3u
+
+#EXTINF:-1 group-title="LISTAS", IP 60
+http://60.221.37.65:9981/playlist
+
+#EXTINF:-1 group-title="LISTAS", IP 85
+http://85.217.222.3:8080/get.php?username=p93cvwj728&password=8m90mv2u0p&type=m3u
+
+#EXTINF:-1 group-title="LISTAS", IP 91
+http://91.208.115.223:80/get.php?username=ggWw3ngKtn&password=kJMm0yq88B&type=m3u
+
+#EXTINF:-1 group-title="LISTAS", IPTVACTIVADOR
+http://iptvactivador.online:25461/get.php?username=xtreamtvsinxx&password=xtreamtvsinxx&type=m3u
+
+#EXTINF:-1 group-title="LISTAS", IP 114
+http://114.205.127.51:9981/playlist
+
+#EXTINF:-1 group-title="LISTAS", IP 171 1
+http://171.118.208.139:9981/playlist
+
+#EXTINF:-1 group-title="LISTAS", IP 171 2
+http://171.120.56.187:9981/playlist
+
+#EXTINF:-1 group-title="LISTAS", IP 178
+http://178.217.10.138:9981/playlist
+
+#EXTINF:-1 group-title="LISTAS", IP 183
+http://183.185.3.172:9981/playlist
+
+#EXTINF:-1 group-title="LISTAS", IP 185
+http://183.185.3.172:9981/get.php?username=B2A463CD6CC8&password=B2A463CD6CC8&type=m3u
+
+#EXTINF:-1 group-title="LISTAS", IP 193
+http://193.200.164.142:80/get.php?username=mag00:1A:79:43:31:96&password=0nKI1zHvj4&type=m3u
+
+#EXTINF:-1 group-title="LISTAS", IP 210
+http://210.99.243.166:9981/playlist
+
+#EXTINF:-1 group-title="LISTAS", IP 217
+http://217.17.38.190:9981/playlist
+
+#EXTINF:-1 group-title="LISTAS", IP 221
+http://221.205.31.219:9981/playlist
+
+#EXTINF:-1 group-title="LISTAS", sansat.net 1
+http://www.sansat.net:25461/get.php?username=ueCxLgET2NFBqEV&password=EdHPoD8J6tVhmRL&type=m3u
+
+#EXTINF:-1 group-title="LISTAS", sansat.net 2
+http://www.sansat.net:25461/get.php?username=irqjZMiuLqn2QMP&password=wZnFVUvZVKQEtuq&type=m3u
+
+#EXTINF:-1 group-title="LISTAS", servidor.tv 1
+http://canais.servidor.tv:8080/get.php?username=eliza123&password=eliza123&type=m3u
+
+#EXTINF:-1 group-title="LISTAS", servidor.tv 2
+http://canais.servidor.tv:8080/get.php?username=charles&password=12345&type=m3u
+
+#EXTINF:-1 group-title="LISTAS", servidor.tv 3
+http://canais.servidor.tv:8080/get.php?username=Cindy&password=12345&type=m3u
+
+#EXTINF:-1 group-title="LISTAS", lindaflor.net
+http://lindaflor.net:8080/get.php?username=Betino&password=84513809&type=m3u
+
+#EXTINF:-1 group-title="LISTAS", serveirc.com
+http://alaska.serveirc.com:25461/get.php?username=I5kcGH7Vsk&password=GOHCTGqZdk&type=m3u
