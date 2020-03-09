@@ -2,13 +2,14 @@
 
 #EXTINF:-1 group-title="LISTAS", Listas IPTV
 #
+
 #EXTINF:-1 group-title="LISTAS", R A D I O S info
 #
 
 #EXTINF:-1 group-title="LISTAS", RADIOS DEL MUNDO
 http://bit.ly/2CqZe9T
 
-#EXTINF:-1 group-title="LISTAS", TV LATINA info
+#EXTINF:-1 group-title="LISTAS", TV-LATINA info
 #
 
 #EXTINF:-1 group-title="LISTAS", LATINOS 1
@@ -17,7 +18,7 @@ http://bit.ly/_Latinotv
 #EXTINF:-1 group-title="LISTAS", LATINOS 2
 https://pastebin.com/raw/S5932Sde
 
-#EXTINF:-1 group-title="LISTAS", TV x PAIS info
+#EXTINF:-1 group-title="LISTAS", PAISES info
 #
 
 #EXTINF:-1 group-title="LISTAS", ESPAÑA
@@ -47,7 +48,7 @@ http://bit.ly/VVARIADOS
 #EXTINF:-1 group-title="LISTAS", CANALES DE EE.UU
 http://bit.ly/USA-_TV
 
-#EXTINF:-1 group-title="LISTAS", CANALES INFORMATIVOS info
+#EXTINF:-1 group-title="LISTAS", INFORMATIVOS info
 #
 
 #EXTINF:-1 group-title="LISTAS", WHEATHER NEWS
@@ -56,7 +57,7 @@ http://bit.ly/2A9G6vi
 #EXTINF:-1 group-title="LISTAS", DOCUMENTALES
 http://bit.ly/_documentales
 
-#EXTINF:-1 group-title="LISTAS", CANALES DE CINE info
+#EXTINF:-1 group-title="LISTAS", CINE info
 #
 
 #EXTINF:-1 group-title="LISTAS", SALAS DE CINE 1
@@ -73,6 +74,9 @@ http://bit.ly/2KPQJJq
 
 #EXTINF:-1 group-title="LISTAS", PELICULAS VARIADAS
 http://bit.ly/M3UAlterna
+
+#EXTINF:-1 group-title="LISTAS", DEPORTES info
+#
 
 #EXTINF:-1 group-title="LISTAS", DEPORTES 1
 http://bit.ly/2BCmZLy
