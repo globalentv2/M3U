@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-5-tazZh2cvw/Unt5NebbaGI/AAAAAAAAAZs/A40f_HSPxs0/s320/community-150124_640.png" group-title="GRUPO WHATSAPP", SIEMPRE ACTIVADOS
+https://chat.whatsapp.com/EWpYnj0cYUnKvz1n17sCUx
+
 #EXTINF:-1 group-title="M3u", 12-03-2020
 http://iptvactivador.online:25461/get.php?&username=iptviptvgratis&password=gratis&type=m3u&output=mpegts
 #EXTINF:-1 group-title="M3u", 26-02-2020
