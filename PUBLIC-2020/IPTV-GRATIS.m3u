@@ -1,0 +1,1592 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="M3u", 12-03-2020
+http://iptvactivador.online:25461/get.php?&username=iptviptvgratis&password=gratis&type=m3u&output=mpegts
+#EXTINF:-1 group-title="M3u", 26-02-2020
+http://iptvactivador.online:25461/get.php?username=ACTUALIZADA&password=M3UCANLESM3U&type=m3u_plus
+#EXTINF:-1 group-title="M3u", 28-02-2020
+http://iptvactivador.online:25461/get.php?username=listagratis27&password=listagratis27&type=m3u_plus
+
+#EXTINF:-1 group-title="Lista Full", LISTA ACTUAL
+https://raw.githubusercontent.com/chukyfloolist/lista/master/chukyfloogratisxtreamtv.m3u
+#EXTINF:-1 group-title="Lista Full", LISTA ANTERIOR
+https://raw.githubusercontent.com/chukyfloolist/lista/master/bajamiappandroidcreador/gratisapp864954.m3u
+
+#EXTINF:-1,EUROCHANNEL
+http://iptvactivador.online:25461/iptviptvgratis/gratis/57
+#EXTINF:-1,STUDIO UNIVERSAL
+http://iptvactivador.online:25461/iptviptvgratis/gratis/58
+#EXTINF:-1,TNT ESP
+http://iptvactivador.online:25461/iptviptvgratis/gratis/59
+#EXTINF:-1,FXX
+http://iptvactivador.online:25461/iptviptvgratis/gratis/60
+#EXTINF:-1,AXN
+http://iptvactivador.online:25461/iptviptvgratis/gratis/61
+#EXTINF:-1,AMC ESP
+http://iptvactivador.online:25461/iptviptvgratis/gratis/62
+#EXTINF:-1,A&E ESP
+http://iptvactivador.online:25461/iptviptvgratis/gratis/63
+#EXTINF:-1,CANAL FOX
+http://iptvactivador.online:25461/iptviptvgratis/gratis/64
+#EXTINF:-1,FX ESP
+http://iptvactivador.online:25461/iptviptvgratis/gratis/66
+#EXTINF:-1,PARAMOUNT NETWORK  ESP
+http://iptvactivador.online:25461/iptviptvgratis/gratis/67
+#EXTINF:-1,SYFY ESP
+http://iptvactivador.online:25461/iptviptvgratis/gratis/68
+#EXTINF:-1,TNT SERIES ESP
+http://iptvactivador.online:25461/iptviptvgratis/gratis/69
+#EXTINF:-1,TRUTV ESP
+http://iptvactivador.online:25461/iptviptvgratis/gratis/70
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://iptvactivador.online:25461/iptviptvgratis/gratis/71
+#EXTINF:-1,WARNER CHANNEL
+http://iptvactivador.online:25461/iptviptvgratis/gratis/72
+#EXTINF:-1,CINEMAX ESP
+http://iptvactivador.online:25461/iptviptvgratis/gratis/73
+#EXTINF:-1,CINELATINO
+http://iptvactivador.online:25461/iptviptvgratis/gratis/75
+#EXTINF:-1,CINECANAL
+http://iptvactivador.online:25461/iptviptvgratis/gratis/76
+#EXTINF:-1,DE PELICULA
+http://iptvactivador.online:25461/iptviptvgratis/gratis/77
+#EXTINF:-1,GOLDEN PREMIER 1
+http://iptvactivador.online:25461/iptviptvgratis/gratis/78
+#EXTINF:-1,FXM ESP
+http://iptvactivador.online:25461/iptviptvgratis/gratis/80
+#EXTINF:-1,FOX SERIES PREMIUM
+http://iptvactivador.online:25461/iptviptvgratis/gratis/81
+#EXTINF:-1,FOX MOVIES
+http://iptvactivador.online:25461/iptviptvgratis/gratis/82
+#EXTINF:-1,FOX FAMILY
+http://iptvactivador.online:25461/iptviptvgratis/gratis/83
+#EXTINF:-1,FOX COMEDY
+http://iptvactivador.online:25461/iptviptvgratis/gratis/84
+#EXTINF:-1,FOX CLASSIC
+http://iptvactivador.online:25461/iptviptvgratis/gratis/85
+#EXTINF:-1,FOX CINEMA
+http://iptvactivador.online:25461/iptviptvgratis/gratis/86
+#EXTINF:-1,FOX ACTION
+http://iptvactivador.online:25461/iptviptvgratis/gratis/87
+#EXTINF:-1,HBO2 ESP
+http://iptvactivador.online:25461/iptviptvgratis/gratis/88
+#EXTINF:-1,HBO SIGNATURE ESP
+http://iptvactivador.online:25461/iptviptvgratis/gratis/89
+#EXTINF:-1,HBO 1
+http://iptvactivador.online:25461/iptviptvgratis/gratis/91
+#EXTINF:-1,HBO FAMILY ESP
+http://iptvactivador.online:25461/iptviptvgratis/gratis/92
+#EXTINF:-1,SPACE
+http://iptvactivador.online:25461/iptviptvgratis/gratis/95
+#EXTINF:-1,DE PELICULA CLASICO
+http://iptvactivador.online:25461/iptviptvgratis/gratis/96
+#EXTINF:-1,DE PELICULA PLUS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/97
+#EXTINF:-1,AZTECA CINEMA
+http://iptvactivador.online:25461/iptviptvgratis/gratis/99
+#EXTINF:-1,SONY ESP
+http://iptvactivador.online:25461/iptviptvgratis/gratis/100
+#EXTINF:-1,FX ESP
+http://iptvactivador.online:25461/iptviptvgratis/gratis/101
+#EXTINF:-1,FOX LIFE
+http://iptvactivador.online:25461/iptviptvgratis/gratis/102
+#EXTINF:-1,ESTRELLATV
+http://iptvactivador.online:25461/iptviptvgratis/gratis/105
+#EXTINF:-1,CANAL 5
+http://iptvactivador.online:25461/iptviptvgratis/gratis/106
+#EXTINF:-1,DEPORTES|BEIN  ESP
+http://iptvactivador.online:25461/iptviptvgratis/gratis/107
+#EXTINF:-1,DEPORTES |AFICIONADOS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/218
+#EXTINF:-1,MEXICO|AZTECA 7 SD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/219
+#EXTINF:-1,MEXICO|AZTECA UNO SD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/220
+#EXTINF:-1,MEXICO|ADN 40
+http://iptvactivador.online:25461/iptviptvgratis/gratis/221
+#EXTINF:-1,MEXICO|Ingenio TV
+http://iptvactivador.online:25461/iptviptvgratis/gratis/224
+#EXTINF:-1,MEXICO|Milenio TV
+http://iptvactivador.online:25461/iptviptvgratis/gratis/225
+#EXTINF:-1,MEXICO|Multimedios Guadalajara
+http://iptvactivador.online:25461/iptviptvgratis/gratis/226
+#EXTINF:-1,MEXICO|Multimedios Laguna
+http://iptvactivador.online:25461/iptviptvgratis/gratis/227
+#EXTINF:-1,MEXICO|Multimedios CDMX
+http://iptvactivador.online:25461/iptviptvgratis/gratis/228
+#EXTINF:-1,MEXICO|Teleformula
+http://iptvactivador.online:25461/iptviptvgratis/gratis/230
+#EXTINF:-1,CULTURA |H2 SD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/241
+#EXTINF:-1,XXX |Shemale Tube TV 2
+http://iptvactivador.online:25461/iptviptvgratis/gratis/262
+#EXTINF:-1,XXX |Big Ass
+http://iptvactivador.online:25461/iptviptvgratis/gratis/263
+#EXTINF:-1,XXX |Big Dick
+http://iptvactivador.online:25461/iptviptvgratis/gratis/264
+#EXTINF:-1,XXX |Cuckold
+http://iptvactivador.online:25461/iptviptvgratis/gratis/267
+#EXTINF:-1,XXX |Fetish
+http://iptvactivador.online:25461/iptviptvgratis/gratis/268
+#EXTINF:-1,XXX |Interracial
+http://iptvactivador.online:25461/iptviptvgratis/gratis/270
+#EXTINF:-1,XXX |Latina
+http://iptvactivador.online:25461/iptviptvgratis/gratis/271
+#EXTINF:-1,XXX |Lesbian
+http://iptvactivador.online:25461/iptviptvgratis/gratis/272
+#EXTINF:-1,XXX |MILF
+http://iptvactivador.online:25461/iptviptvgratis/gratis/273
+#EXTINF:-1,XXX |POV
+http://iptvactivador.online:25461/iptviptvgratis/gratis/274
+#EXTINF:-1,XXX |Pornstar
+http://iptvactivador.online:25461/iptviptvgratis/gratis/275
+#EXTINF:-1,XXX |Russian
+http://iptvactivador.online:25461/iptviptvgratis/gratis/276
+#EXTINF:-1,XXX |Teen
+http://iptvactivador.online:25461/iptviptvgratis/gratis/277
+#EXTINF:-1,XXX |Threesome
+http://iptvactivador.online:25461/iptviptvgratis/gratis/278
+#EXTINF:-1,ENTRETENIMIENTO |TELEMUNDO INTERNACIONA
+http://iptvactivador.online:25461/iptviptvgratis/gratis/301
+#EXTINF:-1,ENTRETENIMIENTO|  univision
+http://iptvactivador.online:25461/iptviptvgratis/gratis/300
+#EXTINF:-1,DEPORTES -Fight Time
+http://iptvactivador.online:25461/iptviptvgratis/gratis/298
+#EXTINF:-1,24/7 Power Rangers
+http://iptvactivador.online:25461/iptviptvgratis/gratis/303
+#EXTINF:-1,24/7 Robotech
+http://iptvactivador.online:25461/iptviptvgratis/gratis/304
+#EXTINF:-1,24/7 Sailor Moon
+http://iptvactivador.online:25461/iptviptvgratis/gratis/305
+#EXTINF:-1,XXX: SEMEX
+http://iptvactivador.online:25461/iptviptvgratis/gratis/306
+#EXTINF:-1,24/7  Los Simpson
+http://iptvactivador.online:25461/iptviptvgratis/gratis/307
+#EXTINF:-1,24/7 Smallville
+http://iptvactivador.online:25461/iptviptvgratis/gratis/308
+#EXTINF:-1,24/7  South Park
+http://iptvactivador.online:25461/iptviptvgratis/gratis/309
+#EXTINF:-1,24/7 Spider-Man
+http://iptvactivador.online:25461/iptviptvgratis/gratis/310
+#EXTINF:-1,24/7 Stranger Things
+http://iptvactivador.online:25461/iptviptvgratis/gratis/311
+#EXTINF:-1,24/7 Super Campeones
+http://iptvactivador.online:25461/iptviptvgratis/gratis/312
+#EXTINF:-1,24/7 Peliculas de terror
+http://iptvactivador.online:25461/iptviptvgratis/gratis/313
+#EXTINF:-1,24/7 Thundercats
+http://iptvactivador.online:25461/iptviptvgratis/gratis/314
+#EXTINF:-1,24/7  The Walking Dead
+http://iptvactivador.online:25461/iptviptvgratis/gratis/315
+#EXTINF:-1,24/7 Barney y sus amigos
+http://iptvactivador.online:25461/iptviptvgratis/gratis/316
+#EXTINF:-1,24/7 BOB ESPONJA
+http://iptvactivador.online:25461/iptviptvgratis/gratis/317
+#EXTINF:-1,24/7  Caillou
+http://iptvactivador.online:25461/iptviptvgratis/gratis/318
+#EXTINF:-1,24/7 El Coyote y el Correcaminos
+http://iptvactivador.online:25461/iptviptvgratis/gratis/319
+#EXTINF:-1,24/7 DESAFIO SOBRE FUEGO LATIN AMERICA
+http://iptvactivador.online:25461/iptviptvgratis/gratis/320
+#EXTINF:-1,24/7 Happy Tree Friends
+http://iptvactivador.online:25461/iptviptvgratis/gratis/321
+#EXTINF:-1,24/7 La Risa en Vacaciones
+http://iptvactivador.online:25461/iptviptvgratis/gratis/322
+#EXTINF:-1,24/7 LazyTown
+http://iptvactivador.online:25461/iptviptvgratis/gratis/323
+#EXTINF:-1,24/7 El club de medianoche
+http://iptvactivador.online:25461/iptviptvgratis/gratis/324
+#EXTINF:-1,24/7 La pantera rosa
+http://iptvactivador.online:25461/iptviptvgratis/gratis/325
+#EXTINF:-1,24/7 Peppa PIG LA CERDITA
+http://iptvactivador.online:25461/iptviptvgratis/gratis/326
+#EXTINF:-1,24/7 La hora pico
+http://iptvactivador.online:25461/iptviptvgratis/gratis/327
+#EXTINF:-1,24/7 HÉROES EN PIJAMAS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/328
+#EXTINF:-1,24/7 Shark Tank México TEP 2
+http://iptvactivador.online:25461/iptviptvgratis/gratis/329
+#EXTINF:-1,24/7 Shark Tank México TEP 1
+http://iptvactivador.online:25461/iptviptvgratis/gratis/330
+#EXTINF:-1,24/7 XMEN ANIME
+http://iptvactivador.online:25461/iptviptvgratis/gratis/331
+#EXTINF:-1,24/7 Breaking Bad
+http://iptvactivador.online:25461/iptviptvgratis/gratis/332
+#EXTINF:-1,24/7 CABALLEROS DEL ZODIACO
+http://iptvactivador.online:25461/iptviptvgratis/gratis/333
+#EXTINF:-1,24/7 LA CASA DE PAPEL
+http://iptvactivador.online:25461/iptviptvgratis/gratis/334
+#EXTINF:-1,24/7 El Chavo del 8
+http://iptvactivador.online:25461/iptviptvgratis/gratis/335
+#EXTINF:-1,24/7 EL CHEMA
+http://iptvactivador.online:25461/iptviptvgratis/gratis/336
+#EXTINF:-1,24/7 El señor de los cielos
+http://iptvactivador.online:25461/iptviptvgratis/gratis/337
+#EXTINF:-1,24/7  CORAJE Agallas, el perro cobarde
+http://iptvactivador.online:25461/iptviptvgratis/gratis/338
+#EXTINF:-1,24/7 CSI: Miami
+http://iptvactivador.online:25461/iptviptvgratis/gratis/339
+#EXTINF:-1,24/7  CUENTRO GREEM
+http://iptvactivador.online:25461/iptviptvgratis/gratis/340
+#EXTINF:-1,24/7 Dragon Ball Super
+http://iptvactivador.online:25461/iptviptvgratis/gratis/341
+#EXTINF:-1,24/7 ALF
+http://iptvactivador.online:25461/iptviptvgratis/gratis/342
+#EXTINF:-1,24/7 shera
+http://iptvactivador.online:25461/iptviptvgratis/gratis/343
+#EXTINF:-1,24/7  DINOSAURIOS 1991
+http://iptvactivador.online:25461/iptviptvgratis/gratis/344
+#EXTINF:-1,24/7  Dragon Ball 1984
+http://iptvactivador.online:25461/iptviptvgratis/gratis/345
+#EXTINF:-1,24/7 Dragon Ball GT 1996
+http://iptvactivador.online:25461/iptviptvgratis/gratis/346
+#EXTINF:-1,24/7 Dragon Ball Z 1989
+http://iptvactivador.online:25461/iptviptvgratis/gratis/347
+#EXTINF:-1,24/7 EL CHAPULIN COLORADO
+http://iptvactivador.online:25461/iptviptvgratis/gratis/348
+#EXTINF:-1,24/7 Escobar: el patrón del mal
+http://iptvactivador.online:25461/iptviptvgratis/gratis/349
+#EXTINF:-1,24/7 PELICULAS; ESTRENOS 2018
+http://iptvactivador.online:25461/iptviptvgratis/gratis/350
+#EXTINF:-1,24/7 Futurama 1999
+http://iptvactivador.online:25461/iptviptvgratis/gratis/351
+#EXTINF:-1,24/7 Juego de tronos
+http://iptvactivador.online:25461/iptviptvgratis/gratis/352
+#EXTINF:-1,24/7 He-Man
+http://iptvactivador.online:25461/iptviptvgratis/gratis/353
+#EXTINF:-1,24/7 LA ROSA DE GUADALUPE
+http://iptvactivador.online:25461/iptviptvgratis/gratis/354
+#EXTINF:-1,24/7 Los locos Addams
+http://iptvactivador.online:25461/iptviptvgratis/gratis/355
+#EXTINF:-1,24/7 La Familia Monster 1964
+http://iptvactivador.online:25461/iptviptvgratis/gratis/356
+#EXTINF:-1,24/7 Luis Miguel, la serie 2018
+http://iptvactivador.online:25461/iptviptvgratis/gratis/357
+#EXTINF:-1,24/7 Malcolm in the middle 2000
+http://iptvactivador.online:25461/iptviptvgratis/gratis/358
+#EXTINF:-1,24/7 Los años maravillosos 1988
+http://iptvactivador.online:25461/iptviptvgratis/gratis/359
+#EXTINF:-1,24/7 Mazinger Z
+http://iptvactivador.online:25461/iptviptvgratis/gratis/360
+#EXTINF:-1,24/7 Naruto
+http://iptvactivador.online:25461/iptviptvgratis/gratis/361
+#EXTINF:-1,24/7 Pinky y Cerebro 1995
+http://iptvactivador.online:25461/iptviptvgratis/gratis/362
+#EXTINF:-1,24/7 Pokémon
+http://iptvactivador.online:25461/iptviptvgratis/gratis/363
+#EXTINF:-1,DEOORTES | DIRECTV SPORTS 1
+http://iptvactivador.online:25461/iptviptvgratis/gratis/364
+#EXTINF:-1,DEOORTES | DIRECTV SPORTS 2
+http://iptvactivador.online:25461/iptviptvgratis/gratis/365
+#EXTINF:-1,DEOORTES | Movistar Deportes
+http://iptvactivador.online:25461/iptviptvgratis/gratis/371
+#EXTINF:-1,DEOORTES | TyC Sports Internacional
+http://iptvactivador.online:25461/iptviptvgratis/gratis/373
+#EXTINF:-1,DEOORTES | GOL TV
+http://iptvactivador.online:25461/iptviptvgratis/gratis/376
+#EXTINF:-1,DEOORTES | Espn 1 Sur
+http://iptvactivador.online:25461/iptviptvgratis/gratis/377
+#EXTINF:-1,DEOORTES | Espn 2 Sur
+http://iptvactivador.online:25461/iptviptvgratis/gratis/378
+#EXTINF:-1,DEOORTES | Espn 3 Sur
+http://iptvactivador.online:25461/iptviptvgratis/gratis/379
+#EXTINF:-1,DEOORTES | Espn Plus Sur
+http://iptvactivador.online:25461/iptviptvgratis/gratis/380
+#EXTINF:-1,DEOORTES | Gol Peru HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/382
+#EXTINF:-1,DEOORTES | Fox Sports 1
+http://iptvactivador.online:25461/iptviptvgratis/gratis/383
+#EXTINF:-1,DEOORTES | Fox Sports 2
+http://iptvactivador.online:25461/iptviptvgratis/gratis/384
+#EXTINF:-1,DEOORTES | Fox Sports 3
+http://iptvactivador.online:25461/iptviptvgratis/gratis/385
+#EXTINF:-1,Ultra Tainment HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/386
+#EXTINF:-1,Ultra Mex HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/387
+#EXTINF:-1,Ultra Macho HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/388
+#EXTINF:-1,Ultra Luna HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/389
+#EXTINF:-1,Ultra Kids HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/390
+#EXTINF:-1,Ultra Film HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/391
+#EXTINF:-1,Ultra Fiesta HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/392
+#EXTINF:-1,Ultra Familia HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/393
+#EXTINF:-1,Ultra Docu HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/394
+#EXTINF:-1,Ultra Clasico HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/395
+#EXTINF:-1,Ultra Cine HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/396
+#EXTINF:-1,Ultra Banda HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/397
+#EXTINF:-1,NIÑOS | NICK 2
+http://iptvactivador.online:25461/iptviptvgratis/gratis/416
+#EXTINF:-1,NIÑOS | DISNEY JR.
+http://iptvactivador.online:25461/iptviptvgratis/gratis/419
+#EXTINF:-1,NIÑOS | CARTOON NETWORK
+http://iptvactivador.online:25461/iptviptvgratis/gratis/422
+#EXTINF:-1,NIÑOS | NICKTOONS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/424
+#EXTINF:-1,NIÑOS | BOOMERANG
+http://iptvactivador.online:25461/iptviptvgratis/gratis/425
+#EXTINF:-1,NIÑOS | NATGEO KIDS 
+http://iptvactivador.online:25461/iptviptvgratis/gratis/426
+#EXTINF:-1,NIÑOS | NICKELODEON
+http://iptvactivador.online:25461/iptviptvgratis/gratis/427
+#EXTINF:-1,NICK JR
+http://iptvactivador.online:25461/iptviptvgratis/gratis/428
+#EXTINF:-1,NIÑOS | TOONCAST
+http://iptvactivador.online:25461/iptviptvgratis/gratis/429
+#EXTINF:-1,NIÑOS | DISNEY CHANNEL
+http://iptvactivador.online:25461/iptviptvgratis/gratis/430
+#EXTINF:-1,NIÑOS | DISNEY XD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/431
+#EXTINF:-1,NIÑOS | DISCOVERY KIDS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/432
+#EXTINF:-1,ES | Movistar Liga de Campeones MOVILES
+http://iptvactivador.online:25461/iptviptvgratis/gratis/456
+#EXTINF:-1,ES | Movistar LaLiga
+http://iptvactivador.online:25461/iptviptvgratis/gratis/457
+#EXTINF:-1,ES | beIN SPORTS Ñ
+http://iptvactivador.online:25461/iptviptvgratis/gratis/459
+#EXTINF:-1,UFC
+http://iptvactivador.online:25461/iptviptvgratis/gratis/461
+#EXTINF:-1,|Fox Sports Sur 1
+http://iptvactivador.online:25461/iptviptvgratis/gratis/462
+#EXTINF:-1,|Fox Sports Sur 2
+http://iptvactivador.online:25461/iptviptvgratis/gratis/463
+#EXTINF:-1,|Fox Sports Sur 3
+http://iptvactivador.online:25461/iptviptvgratis/gratis/464
+#EXTINF:-1,|Espn 1 Mex
+http://iptvactivador.online:25461/iptviptvgratis/gratis/465
+#EXTINF:-1,|Espn 2 Mex
+http://iptvactivador.online:25461/iptviptvgratis/gratis/466
+#EXTINF:-1,|Espn 3 Mex
+http://iptvactivador.online:25461/iptviptvgratis/gratis/467
+#EXTINF:-1,MX | TUDN
+http://iptvactivador.online:25461/iptviptvgratis/gratis/470
+#EXTINF:-1,CL | CDF HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/473
+#EXTINF:-1,CL | CDF Premium
+http://iptvactivador.online:25461/iptviptvgratis/gratis/474
+#EXTINF:-1,DISCOVERY CHANNEL
+http://iptvactivador.online:25461/iptviptvgratis/gratis/488
+#EXTINF:-1,DISCOVERY H&H
+http://iptvactivador.online:25461/iptviptvgratis/gratis/489
+#EXTINF:-1,DISCOVERY TURBO
+http://iptvactivador.online:25461/iptviptvgratis/gratis/491
+#EXTINF:-1,DISCOVERY WORLD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/492
+#EXTINF:-1,DISCOVERY THEATER
+http://iptvactivador.online:25461/iptviptvgratis/gratis/493
+#EXTINF:-1,HISTORY CHANNEL
+http://iptvactivador.online:25461/iptviptvgratis/gratis/494
+#EXTINF:-1,NATGEO WILD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/495
+#EXTINF:-1,NATGEO
+http://iptvactivador.online:25461/iptviptvgratis/gratis/496
+#EXTINF:-1,BITME
+http://iptvactivador.online:25461/iptviptvgratis/gratis/497
+#EXTINF:-1,INVESTIGATION DISCOVERY
+http://iptvactivador.online:25461/iptviptvgratis/gratis/498
+#EXTINF:-1,ANIMAL PLANET
+http://iptvactivador.online:25461/iptviptvgratis/gratis/499
+#EXTINF:-1,AR | FOX SPORTS PREMIUM HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/500
+#EXTINF:-1,AR | TNT SPORTS HD 
+http://iptvactivador.online:25461/iptviptvgratis/gratis/501
+#EXTINF:-1,MEXICO CANAL DE LAS ESTRELLA
+http://iptvactivador.online:25461/iptviptvgratis/gratis/502
+#EXTINF:-1,Jumanji: Bienvenidos a la jungla - 2017
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/505.mp4
+#EXTINF:-1,Guadalupe Reyes - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/506.mp4
+#EXTINF:-1,Ad astra - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/507.mp4
+#EXTINF:-1,Rambo: Last Blood - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/508.mp4
+#EXTINF:-1,El irlandés - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/509.mp4
+#EXTINF:-1,Objetivo: Washington D.C. - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/510.mp4
+#EXTINF:-1,It: Capítulo 2 - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/511.mp4
+#EXTINF:-1,Win Sports
+http://iptvactivador.online:25461/iptviptvgratis/gratis/512
+#EXTINF:-1,ECUADOR: ECUAVISA HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/513
+#EXTINF:-1,DIRECTV SPORTS PLUS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/519
+#EXTINF:-1,CA | NBA_TV
+http://iptvactivador.online:25461/iptviptvgratis/gratis/520
+#EXTINF:-1,Torzón y Tanga (Mi adorable salvaje)
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/523.mp4
+#EXTINF:-1,Mentada de Padre - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/524.mp4
+#EXTINF:-1,Midway - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/525.mp4
+#EXTINF:-1,Playing with Fire - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/526.mp4
+#EXTINF:-1,Welcome to Acapulco - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/527.mp4
+#EXTINF:-1,Fast & Furious: Hobbs & Shaw - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/528.mp4
+#EXTINF:-1,Toy Story 4 - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/529.mp4
+#EXTINF:-1,Annabelle vuelve a casa - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/530.mp4
+#EXTINF:-1,TELEHIT
+http://iptvactivador.online:25461/iptviptvgratis/gratis/531
+#EXTINF:-1,MX: (SD) TP BANDAMAX
+http://iptvactivador.online:25461/iptviptvgratis/gratis/532
+#EXTINF:-1,VH1 CLASSICS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/533
+#EXTINF:-1,VH1
+http://iptvactivador.online:25461/iptviptvgratis/gratis/534
+#EXTINF:-1,CO: CARACOL
+http://iptvactivador.online:25461/iptviptvgratis/gratis/537
+#EXTINF:-1,MTV HITS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/539
+#EXTINF:-1,MTV
+http://iptvactivador.online:25461/iptviptvgratis/gratis/540
+#EXTINF:-1,CNN INTERNACIONAL
+http://iptvactivador.online:25461/iptviptvgratis/gratis/544
+#EXTINF:-1, CLARO SPORTS LATINO
+http://iptvactivador.online:25461/iptviptvgratis/gratis/545
+#EXTINF:-1,COMEDY CENTRAL
+http://iptvactivador.online:25461/iptviptvgratis/gratis/546
+#EXTINF:-1,MX: (SD) TP EL GOURMET
+http://iptvactivador.online:25461/iptviptvgratis/gratis/548
+#EXTINF:-1, MAS CHIC
+http://iptvactivador.online:25461/iptviptvgratis/gratis/549
+#EXTINF:-1,LIFETIME
+http://iptvactivador.online:25461/iptviptvgratis/gratis/550
+#EXTINF:-1,UNICABLE
+http://iptvactivador.online:25461/iptviptvgratis/gratis/553
+#EXTINF:-1,CHILE | FOX SPORT 1 HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/556
+#EXTINF:-1,PE: Latina
+http://iptvactivador.online:25461/iptviptvgratis/gratis/560
+#EXTINF:-1,ECUADOR: GOL TV
+http://iptvactivador.online:25461/iptviptvgratis/gratis/566
+#EXTINF:-1,Jumanji: siguiente nivel - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/570.mp4
+#EXTINF:-1,6 en la sombra - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/572.mp4
+#EXTINF:-1,Men in Black: International - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/582.mp4
+#EXTINF:-1,John Wick: Capítulo 3 - Parabellum - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/585.mp4
+#EXTINF:-1,Spider-Man: Lejos de Casa - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/588.mp4
+#EXTINF:-1,Aladdín - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/591.mp4
+#EXTINF:-1,Abominable - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/985.mp4
+#EXTINF:-1,USA:Nat geo wild HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/997
+#EXTINF:-1,USA:Nat geo people HD ENGLISH
+http://iptvactivador.online:25461/iptviptvgratis/gratis/998
+#EXTINF:-1,USA:nat_geo
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1010
+#EXTINF:-1,ESP: ANTENA 3
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1011
+#EXTINF:-1,ESP: LA SEXTA
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1012
+#EXTINF:-1,VENEZUELA: PROMAR TV
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1013
+#EXTINF:-1,VENEZUELA: TELESUR
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1014
+#EXTINF:-1,VENEZUELA: TVO
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1016
+#EXTINF:-1,TLC
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1017
+#EXTINF:-1,PUERTO RICO: WIPR
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1019
+#EXTINF:-1,PERU: TV PERU
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1020
+#EXTINF:-1,PERU: ANTARESTV
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1022
+#EXTINF:-1,PANAMA: NEXTV
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1024
+#EXTINF:-1,PANAMA: SERTV
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1025
+#EXTINF:-1,GUATEMALA: Antigua Sports
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1026
+#EXTINF:-1,GUATEMALA: Canal Antigua
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1027
+#EXTINF:-1,ECUADOR: Canela TV
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1028
+#EXTINF:-1,ECUADOR: Ecuador TV Canal 7
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1029
+#EXTINF:-1,ECUADOR: Ecuador TV Internacional
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1030
+#EXTINF:-1,Águila o Sol - 1938
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1254.mkv
+#EXTINF:-1,Así es mi tierra - 1937
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1255.avi
+#EXTINF:-1,A volar, joven - 1947
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1256.mkv
+#EXTINF:-1,El bombero atómico - 1952
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1257.mkv
+#EXTINF:-1,Caballero a la Medida - 1954
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1258.mkv
+#EXTINF:-1,Carnaval del tropico
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1259.mkv
+#EXTINF:-1,Conserje para todo - 1974
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1260.mkv
+#EXTINF:-1,Cantinflas - El Analfabeto - 1961
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1261.mkv
+#EXTINF:-1,Cantinflas - El barrendero - 1982
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1262.mkv
+#EXTINF:-1,El Bolero de Raquel - 1957
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1263.mkv
+#EXTINF:-1,Cantinflas: El Circo - 1943
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1264.mp4
+#EXTINF:-1,El Extra - 1962
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1265.mkv
+#EXTINF:-1,El Gendarme Desconocido - 1941
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1266.avi
+#EXTINF:-1,El Mago - 1949
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1267.mkv
+#EXTINF:-1,Cantinflas - El ministro y yo - 1977
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1268.mkv
+#EXTINF:-1,Cantinflas - El padrecito - 1964
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1269.mkv
+#EXTINF:-1,El Portero - 1950
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1270.mkv
+#EXTINF:-1,Cantinflas - El profe - 1971
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1271.mkv
+#EXTINF:-1,Cantinflas: El Siete Machos - 1951
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1272.mkv
+#EXTINF:-1,El Signo de la Muerte - 1939
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1273.mkv
+#EXTINF:-1,El Supersabio - 1948
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1274.mkv
+#EXTINF:-1,Festival de la comedia - 1939
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1275.mkv
+#EXTINF:-1,Ahí está el detalle - 1940
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1276.mkv
+#EXTINF:-1,Cantinflas: Los Tres Mosqueteros - 1942
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1277.mkv
+#EXTINF:-1,Ni sangre ni arena - 1941
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1278.mkv
+#EXTINF:-1,El Patrullero 777 - 1978
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1279.mkv
+#EXTINF:-1,Por mis pistolas - 1968
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1280.mkv
+#EXTINF:-1,El Señor Doctor - 1965
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1281.mkv
+#EXTINF:-1,Cantinflas - El señor fotógrafo - 1953
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1282.mkv
+#EXTINF:-1,Sube y baja - 1959
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1283.mp4
+#EXTINF:-1,Su excelencia - 1967
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1284.mkv
+#EXTINF:-1,Cantinflas: Un Dia Con El Diablo - 1945
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1285.mp4
+#EXTINF:-1,La familia Addams - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1288.mkv
+#EXTINF:-1,The App - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1289.mkv
+#EXTINF:-1,Zombieland: Mata y remata - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1294.mkv
+#EXTINF:-1,Atómica - 2017
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1297.mp4
+#EXTINF:-1,Annabelle: Creation - 2017
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1298.mkv
+#EXTINF:-1,Baby Driver - 2017
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1299.mp4
+#EXTINF:-1,XXX: TUSHY RAW
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1301
+#EXTINF:-1,XXX: VIXEN
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1302
+#EXTINF:-1,XXX: MOFOS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1303
+#EXTINF:-1,XXXX: MILF 2
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1304
+#EXTINF:-1,XXX: MIAKHALIFA 
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1305
+#EXTINF:-1,XXX: JASMINE JAE
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1306
+#EXTINF:-1,XXX :GAY PORN
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1307
+#EXTINF:-1,XXX:Fetich 2
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1308
+#EXTINF:-1,XXX: brazzers
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1309
+#EXTINF:-1,XXX: BLACK RAW
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1310
+#EXTINF:-1,XXX: bigtits
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1311
+#EXTINF:-1,XXX: Bigass 2
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1312
+#EXTINF:-1,13 Max Televisión
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1316
+#EXTINF:-1,Glass (Cristal) - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1317.mp4
+#EXTINF:-1,Infierno bajo el agua - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1318.mp4
+#EXTINF:-1,Pokémon Detective Pikachu - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1319.mp4
+#EXTINF:-1,Los Descendientes 3
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1321.mp4
+#EXTINF:-1,Estafadoras de Wall Street - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1324.mp4
+#EXTINF:-1,John Wick: Pacto de sangre - 2017
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1325.mp4
+#EXTINF:-1,Deadpool - 2016
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1327.mp4
+#EXTINF:-1,La Llorona - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1328.mp4
+#EXTINF:-1,Un Papá Pirata - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1330.mp4
+#EXTINF:-1,Solteras - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1332.mkv
+#EXTINF:-1,John Wick - 2014
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1333.mp4
+#EXTINF:-1,imagen tv hd
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1513
+#EXTINF:-1,TELEHIT URBANO
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1520
+#EXTINF:-1,UNIVISION TDN
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1521
+#EXTINF:-1,DISTRITO COMEDIA
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1522
+#EXTINF:-1,ISAT
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1523
+#EXTINF:-1,E!
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1526
+#EXTINF:-1,GLITZ
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1527
+#EXTINF:-1,TBS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1529
+#EXTINF:-1,A3SERIES
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1530
+#EXTINF:-1,TVC DEPORTES
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1531
+#EXTINF:-1,baby tv
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1539
+#EXTINF:-1,MX | CNN en Espanol
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1544
+#EXTINF:-1,PR | Telemundo
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1558
+#EXTINF:-1,CL | 13C
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1560
+#EXTINF:-1,MEX| Canal De las Estrellas
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1563
+#EXTINF:-1,Juan Gabriel: Mis 40 en Bellas artes - 2014
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/1565.mp4
+#EXTINF:-1,LUCHA LIBRE AAA
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1643
+#EXTINF:-1,WIN SPORTS +
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1645
+#EXTINF:-1,UNIMAS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1707
+#EXTINF:-1,RCN SD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1708
+#EXTINF:-1,HBO PLUS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1922
+#EXTINF:-1,PR-MEGATV
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1982
+#EXTINF:-1,PR-PUNTO 2
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1983
+#EXTINF:-1,PR-UNIVISION
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1984
+#EXTINF:-1,PR-WAPA
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1985
+#EXTINF:-1,ES: MOVISTAR FORMULA 1 HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/3650
+#EXTINF:-1,1917 - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3657.mkv
+#EXTINF:-1,Apolo 11 - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3658.mkv
+#EXTINF:-1,Chicuarotes - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3659.mkv
+#EXTINF:-1,Inside Man: Most Wanted - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3660.mkv
+#EXTINF:-1,Todas las Pecas del Mundo - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3661.mkv
+#EXTINF:-1,Joker - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3662.mp4
+#EXTINF:-1,The Equalizer 2 (El protector 2) - 2018
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3770.mkv
+#EXTINF:-1,Millennium: Lo que no te mata te hace más fuerte - 2018
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3771.mkv
+#EXTINF:-1,The Wandering Earth - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3772.mkv
+#EXTINF:-1,Venom - 2018
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3773.mkv
+#EXTINF:-1,Mia y el león blanco - 2018
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3774.mkv
+#EXTINF:-1,The Falcons - 2018
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3775.mkv
+#EXTINF:-1,Acusada - 2018
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3776.mkv
+#EXTINF:-1,Una oración antes del amanecer - 2018
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3777.mkv
+#EXTINF:-1,A Vigilante - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3778.mkv
+#EXTINF:-1,La boda de mi ex - 2018
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3779.mkv
+#EXTINF:-1,Monsters and Men - 2018
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3780.mkv
+#EXTINF:-1,Ruben Brandt, coleccionista - 2018
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3781.mkv
+#EXTINF:-1,Terremoto - 2018
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3782.mkv
+#EXTINF:-1,706 - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3783.mkv
+#EXTINF:-1,Perdona que te moleste - 2018
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3784.mkv
+#EXTINF:-1,7117 - 2018
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3785.mkv
+#EXTINF:-1,Ralph rompe Internet - 2018
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3786.mkv
+#EXTINF:-1,El Grinch - 2018
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3787.mkv
+#EXTINF:-1,Bohemian Rhapsody - 2018
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3788.mkv
+#EXTINF:-1,Sobredosis de Amor - 2018
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3789.mkv
+#EXTINF:-1,Fractured - 2015
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3790.mkv
+#EXTINF:-1,Boarding School - 2018
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3791.mkv
+#EXTINF:-1,Gonjiam: Haunted Asylum - 2018
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3792.mkv
+#EXTINF:-1,Mommy's Little Angel - 2018
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3793.mkv
+#EXTINF:-1,Suspiria - 2018
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3794.mkv
+#EXTINF:-1,La perfección - 2018
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3795.mkv
+#EXTINF:-1,Una foto antes de morir - 2018
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3796.mkv
+#EXTINF:-1,El Escuadrón del Diablo - 2018
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3797.mkv
+#EXTINF:-1,Kursk - 2018
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3798.mkv
+#EXTINF:-1,Ártico - 2018
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3799.mkv
+#EXTINF:-1,London Fields - 2018
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3800.mkv
+#EXTINF:-1,La monja - 2018
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3801.mkv
+#EXTINF:-1,303 - 2018
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3843.mkv
+#EXTINF:-1,Anna - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3844.mkv
+#EXTINF:-1,Doom: aniquilación - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3845.mkv
+#EXTINF:-1,General Commander - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3846.mkv
+#EXTINF:-1,Godzilla: Rey de los Monstruos - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3848.mkv
+#EXTINF:-1,Hellboy - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3849.mkv
+#EXTINF:-1,El canto del lobo - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3850.mkv
+#EXTINF:-1,Point Blank: cuenta atrás - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3851.mkv
+#EXTINF:-1,Shaft - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3853.mkv
+#EXTINF:-1,¡Shazam! - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3854.mkv
+#EXTINF:-1,Spider-Man: Lejos de Casa - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3855.mkv
+#EXTINF:-1,The Final Wish - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3856.mkv
+#EXTINF:-1,John Wick: Capítulo 3 - Parabellum - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3857.mkv
+#EXTINF:-1,Los vigilantes de Malibú - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3858.mkv
+#EXTINF:-1,Upstarts - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3859.mkv
+#EXTINF:-1,Criminales en el mar - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3860.mkv
+#EXTINF:-1,No manches Frida 2 - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3861.mkv
+#EXTINF:-1,Más que madres - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3862.mkv
+#EXTINF:-1,Dos Padres en Apuros - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3863.mkv
+#EXTINF:-1,Timadoras compulsivas - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3864.mkv
+#EXTINF:-1,Tell Me Who I Am - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3865.mkv
+#EXTINF:-1,The Dog Days of Winter - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3866.mkv
+#EXTINF:-1,El camino: una película de Breaking Bad - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3867.mkv
+#EXTINF:-1,Heridas - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3868.mkv
+#EXTINF:-1,Hotel Bombay - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3869.mkv
+#EXTINF:-1,El arte de vivir bajo la lluvia - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3870.mkv
+#EXTINF:-1,Serenity - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3871.mkv
+#EXTINF:-1,The Tomorrow Man - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3873.mkv
+#EXTINF:-1,Inesperado - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3874.mkv
+#EXTINF:-1,Aladdín - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3875.mkv
+#EXTINF:-1,Batman vs. las Tortugas Ninja - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3876.mkv
+#EXTINF:-1,Maléfica: Maestra del mal - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3877.mkv
+#EXTINF:-1,Géminis - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3878.mkv
+#EXTINF:-1,Dora y la ciudad perdida - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3879.mkv
+#EXTINF:-1,Dumbo - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3880.mkv
+#EXTINF:-1,El rey león - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3881.mkv
+#EXTINF:-1,El parque mágico - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3882.mkv
+#EXTINF:-1,Supermonstruos: Una amistad con mucha garra - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3884.mkv
+#EXTINF:-1,Teen Titans Go! vs. Teen Titans - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3885.mkv
+#EXTINF:-1,Mascotas 2 - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3886.mkv
+#EXTINF:-1,Toy Story 4 - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3887.mkv
+#EXTINF:-1,UglyDolls: Extraordinariamente Feos - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3888.mkv
+#EXTINF:-1,After: Aquí empieza todo - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3889.mkv
+#EXTINF:-1,A dos metros de ti - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3890.mkv
+#EXTINF:-1,Beats - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3891.mkv
+#EXTINF:-1,Infierno bajo el agua - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3892.mkv
+#EXTINF:-1,Crypto - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3893.mkv
+#EXTINF:-1,Historias de miedo para contar en la oscuridad - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3895.mkv
+#EXTINF:-1,I Am Mother - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3896.mkv
+#EXTINF:-1,El lado siniestro de la Luna - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3897.mkv
+#EXTINF:-1,En la hierba alta - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3898.mkv
+#EXTINF:-1,El secuestro de Stella - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3899.mkv
+#EXTINF:-1,Perseguida - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3900.mkv
+#EXTINF:-1,Stuber Express - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3901.mkv
+#EXTINF:-1,Nosotros - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3902.mkv
+#EXTINF:-1,Muñeco diabólico (Child's play) - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3903.mkv
+#EXTINF:-1,Eli - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3904.mkv
+#EXTINF:-1,Endzeit - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3905.mkv
+#EXTINF:-1,Cementerio de animales - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3906.mkv
+#EXTINF:-1,La Llorona - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3907.mkv
+#EXTINF:-1,Bosque maldito - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3908.mkv
+#EXTINF:-1,La influencia - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3909.mkv
+#EXTINF:-1,Día de muertos - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3910.mkv
+#EXTINF:-1,Terminator: Destino oscuro - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3913.mkv
+#EXTINF:-1,Doctor sueño - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3914.mkv
+#EXTINF:-1,Cold Blood Legacy - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3915.mkv
+#EXTINF:-1,La boda de la abuela - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3916.mkv
+#EXTINF:-1,Don't Stop Me Now - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3917.mkv
+#EXTINF:-1,Jugando con fuego - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3918.mkv
+#EXTINF:-1,10-20 - 2010
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3919.mkv
+#EXTINF:-1,Dolor y gloria - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3920.mkv
+#EXTINF:-1,El faro - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3921.mkv
+#EXTINF:-1,La gran mentira - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3922.mkv
+#EXTINF:-1,Harriet - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3923.mkv
+#EXTINF:-1,Mientras dure la guerra - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3924.mkv
+#EXTINF:-1,Huérfanos de Brooklyn - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3925.mkv
+#EXTINF:-1,10/31 Part 2 - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3926.mkv
+#EXTINF:-1,The King - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3927.mkv
+#EXTINF:-1,Wild Rose - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3928.mkv
+#EXTINF:-1,A 47 metros 2: El terror emerge - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3929.mkv
+#EXTINF:-1,La Invasion - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3930.mkv
+#EXTINF:-1,El hijo - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3931.mkv
+#EXTINF:-1,Arctic Dogs - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3932.mkv
+#EXTINF:-1,Countdown - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3933.mkv
+#EXTINF:-1,Primal - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3934.mkv
+#EXTINF:-1,Witches in the Woods - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3935.mkv
+#EXTINF:-1,Monos - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3936.mkv
+#EXTINF:-1,Angry Birds 2: La Película - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/3937.mkv
+#EXTINF:-1,DZA 1
+http://iptvactivador.online:25461/iptviptvgratis/gratis/3960
+#EXTINF:-1,TLNOVELAS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/3963
+#EXTINF:-1,EURO SPORT 1
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4226
+#EXTINF:-1,EUROSPORT 2
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4227
+#EXTINF:-1,Starz West
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4260
+#EXTINF:-1,Starz Latino
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4261
+#EXTINF:-1,Starz Kids & Family
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4262
+#EXTINF:-1,Starz In Black
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4263
+#EXTINF:-1,Starz Edge
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4264
+#EXTINF:-1,Starz East
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4265
+#EXTINF:-1,Starz Comedy East
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4266
+#EXTINF:-1,STARZ CINEMA EAST
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4267
+#EXTINF:-1,SONY MOVIE CHANNEL
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4268
+#EXTINF:-1,SHOWTIME WEST
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4269
+#EXTINF:-1,SHOWTIME SHOWCASE EAST
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4270
+#EXTINF:-1,SHOWTIME NEXT
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4271
+#EXTINF:-1,SHOWTIME LATINO
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4272
+#EXTINF:-1,SHOWTIME EXTREME EAST
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4273
+#EXTINF:-1,SHOWTIME EAST HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4274
+#EXTINF:-1,SHOWTIME 2 EAST HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4275
+#EXTINF:-1,BEINS SPORT ING.
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4276
+#EXTINF:-1,XXX:HUSTLER TV
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4289
+#EXTINF:-1,XXX: VENUS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4290
+#EXTINF:-1,XXX: SEXTREME
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4291
+#EXTINF:-1,LA_HD:TIGO SPORTS 2 HD (BOLIVIA)
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4293
+#EXTINF:-1,LA_HD:TIGO SPORTS 1 HD (BOLIVIA)
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4294
+#EXTINF:-1,LA_FHD:TIGO SPORT CR 1
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4295
+#EXTINF:-1,Ballerina - 2016
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/4303.mp4
+#EXTINF:-1,FHD:CARACOL
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4304
+#EXTINF:-1,CARACOL INTERNACIONAL
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4305
+#EXTINF:-1,WWWE
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4306
+#EXTINF:-1,Emoji: La película - 2017
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/4338.mp4
+#EXTINF:-1,Hotel Transilvania: Perrito - 2017
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/4339.mp4
+#EXTINF:-1,Los Increíbles 2 - 2018
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/4340.mp4
+#EXTINF:-1,Smallfoot - 2018
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/4341.mp4
+#EXTINF:-1,Sahara - 2017
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/4342.mp4
+#EXTINF:-1,Trolls - 2016
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/4343.mp4
+#EXTINF:-1,Bajo cero: milagro en la montaña - 2017
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/4344.mp4
+#EXTINF:-1,Star Wars: El ascenso de Skywalker - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/4345.mp4
+#EXTINF:-1,La vida de Pi - 2012
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/4346.mp4
+#EXTINF:-1,Harry Potter y el cáliz de fuego - 2005
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/4355.mkv
+#EXTINF:-1,Harry Potter y el misterio del príncipe - 2009
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/4356.mkv
+#EXTINF:-1,Harry Potter y el prisionero de Azkaban - 2004
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/4357.mkv
+#EXTINF:-1,Harry Potter y la cámara secreta - 2002
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/4358.mkv
+#EXTINF:-1,Harry Potter y la Orden del Fénix - 2007
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/4359.mkv
+#EXTINF:-1,Harry Potter y la piedra filosofal - 2001
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/4360.mkv
+#EXTINF:-1,Harry Potter y las Reliquias de la Muerte - Parte 1 - 2010
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/4361.mkv
+#EXTINF:-1,Harry Potter y las Reliquias de la Muerte - Parte 2 - 2011
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/4362.mkv
+#EXTINF:-1,Sonic. La película - 2020
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/4363.mp4
+#EXTINF:-1,Aves de Presa (y la Fantabulosa Emancipación de Harley Quinn) - 2020
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/4364.mp4
+#EXTINF:-1,Joker - 2019 *
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/4365.mp4
+#EXTINF:-1,Toy Story 4 - 2019*
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/4366.mp4
+#EXTINF:-1,Maléfica: Maestra del mal - 2019*
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/4367.mp4
+#EXTINF:-1,Terminator: Destino oscuro - 2019*
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/4368.mp4
+#EXTINF:-1,Diamantes en bruto - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/4370.mp4
+#EXTINF:-1,El último guerrero - 2018
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/4483.mp4
+#EXTINF:-1,HBO POP
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4941
+#EXTINF:-1,HBO XTREAM
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4942
+#EXTINF:-1,XXX:PENTHOUSE HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1713
+#EXTINF:-1,XXX:BRAZZERS TV
+http://iptvactivador.online:25461/iptviptvgratis/gratis/1712
+#EXTINF:-1,Shemale Tube TV 1
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4943
+#EXTINF:-1,GOLDEN PLUS+
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4944
+#EXTINF:-1,LA_SD_MEX2:GOLDEN EDGE
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4945
+#EXTINF:-1,LAT |A&E HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4947
+#EXTINF:-1,LAT |ANIMAL PLANET HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4949
+#EXTINF:-1,LAT |ANTENA 3 FHD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4951
+#EXTINF:-1,LAT |AXN HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4953
+#EXTINF:-1,LAT |CINEMAX HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4955
+#EXTINF:-1,LAT |CNN ESPANOL HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4957
+#EXTINF:-1,LAT |COMEDY CENTRAL HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4959
+#EXTINF:-1,LAT |DISCOVERY CHANNEL HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4963
+#EXTINF:-1,LAT |DISCOVERY HH HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4965
+#EXTINF:-1,LAT |DISCOVERY ID HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4967
+#EXTINF:-1,LAT |DISCOVERY TURBO HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4969
+#EXTINF:-1,LAT |DISTRITO COMEDIA HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4971
+#EXTINF:-1,LAT |E ENTERTAINMENT HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4973
+#EXTINF:-1,LAT |FOX HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4975
+#EXTINF:-1,LAT |FOX ACTION HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4979
+#EXTINF:-1,LAT |FOX LIFE HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4984
+#EXTINF:-1,LAT |FOX MOVIES HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4988
+#EXTINF:-1,LAT |FOX SERIES HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4991
+#EXTINF:-1,LAT |FX HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4993
+#EXTINF:-1,LAT |FXM HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4996
+#EXTINF:-1,LAT |GALAVISION USA FHD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/4998
+#EXTINF:-1,LAT |GOLDEN HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5000
+#EXTINF:-1,LAT |GOLDEN EDGE HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5002
+#EXTINF:-1,LAT |HBO HD 2
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5004
+#EXTINF:-1,LAT |HBO 2  HD 2
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5006
+#EXTINF:-1,LAT |HBO MAX HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5007
+#EXTINF:-1,LAT |HBO FAMILY HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5009
+#EXTINF:-1,LAT |HISTORY HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5011
+#EXTINF:-1,LAT |MAX UP HD 2
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5016
+#EXTINF:-1,LAT |MAX PRIME HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5017
+#EXTINF:-1,LAT |MTV HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5022
+#EXTINF:-1,LAT |NAT GEO HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5024
+#EXTINF:-1,LAT |PARAMOUNT HD 2
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5026
+#EXTINF:-1,LAT |SPACE HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5029
+#EXTINF:-1,LAT |STUDIO UNIVERSAL HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5031
+#EXTINF:-1,LAT |SYFY HD 2
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5034
+#EXTINF:-1,LAT |TBS HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5035
+#EXTINF:-1,LAT |TELEHIT URBANO HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5037
+#EXTINF:-1,LAT |TNT HD 2
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5040
+#EXTINF:-1,LAT |TNT SERIES HD 2
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5042
+#EXTINF:-1,LAT |TRUTV HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5043
+#EXTINF:-1,LAT |UNICABLE HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5045
+#EXTINF:-1,LAT |UNIVERSAL CHANNEL HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5046
+#EXTINF:-1,LAT |WARNER CHANNEL HD 2
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5050
+#EXTINF:-1,LAT |AZTECA 7 HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5058
+#EXTINF:-1,LAT |CANAL 5 HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5059
+#EXTINF:-1,LAT |LAS ESTRELLAS HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5061
+#EXTINF:-1,LAT |GALA TV HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5064
+#EXTINF:-1,LAT |IMAGEN TV HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5065
+#EXTINF:-1,LAT |MILENIO NOTICIAS HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5068
+#EXTINF:-1,LAT |MULTIMEDIOS HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5072
+#EXTINF:-1,LAT |TELEVISA MTY HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5073
+#EXTINF:-1,LAT |AZTECA CORAZON HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5074
+#EXTINF:-1,LAT |TELEMUNDO INTERNACIONAL HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5075
+#EXTINF:-1,LAT |TELEMUNDO NY FHD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5076
+#EXTINF:-1,LAT |TELENOVELAS HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5077
+#EXTINF:-1,LAT |UNIVISION FHD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5078
+#EXTINF:-1,LAT |ADRENALINA HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5079
+#EXTINF:-1,LAT |BEIN ESP HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5080
+#EXTINF:-1,LAT |BEIN ESP FHD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5081
+#EXTINF:-1,LAT |BEIN ENG FHD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5083
+#EXTINF:-1,LAT |CLARO SPORTS HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5084
+#EXTINF:-1,LAT |ESPN DEPORTES HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5085
+#EXTINF:-1,LAT |ESPN 1 HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5086
+#EXTINF:-1,LAT |ESPN 2 HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5088
+#EXTINF:-1,LAT |ESPN 2 HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5089
+#EXTINF:-1,LAT |ESPN 3 HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5090
+#EXTINF:-1,LAT |FOX DEPORTES FHD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5092
+#EXTINF:-1,LAT |FOX SPORTS 1 HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5093
+#EXTINF:-1,LAT |FOX SPORTS 1 HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5094
+#EXTINF:-1,LAT |FOX SPORTS 2 HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5095
+#EXTINF:-1,LAT |FOX SPORTS 2 HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5096
+#EXTINF:-1,LAT |GOL TV FHD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5098
+#EXTINF:-1,LAT |NBC GOLF USA FHD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5099
+#EXTINF:-1,LAT |TUDN MX HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5106
+#EXTINF:-1,LAT |TUDN USA FHD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5107
+#EXTINF:-1,LAT |TUDN USA HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5108
+#EXTINF:-1,LAT |TOROS HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5110
+#EXTINF:-1,LAT |TYC SPORT FHD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5111
+#EXTINF:-1,LAT |BABY TV HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5113
+#EXTINF:-1,LAT |BOOMERANG HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5114
+#EXTINF:-1,LAT |CARTOON NETWORK HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5115
+#EXTINF:-1,LAT |DISNEY CHANNEL HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5116
+#EXTINF:-1,LAT |DISNEY JUNIOR HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5117
+#EXTINF:-1,LAT |DISNEY XD HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5118
+#EXTINF:-1,LAT |NAT GEO KIDS HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5119
+#EXTINF:-1,LAT |NICKELODEON HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5120
+#EXTINF:-1,LAT |NICK JR HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5121
+#EXTINF:-1,LAT |MUSICTOP TV
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5123
+#EXTINF:-1,LAT |MTV HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5124
+#EXTINF:-1,LAT |BITME HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5125
+#EXTINF:-1,Secretos de Estado - 2019
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/5170.mp4
+#EXTINF:-1,Su Ultimo Deseo - 2020
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/5171.mp4
+#EXTINF:-1,The Windermere Children - 2020
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/5172.mp4
+#EXTINF:-1,Las aventuras del Doctor Dolittle
+http://iptvactivador.online:25461/movie/iptviptvgratis/gratis/5173.mp4
+#EXTINF:-1,WIN SPORT + OPT1
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5259
+#EXTINF:-1,WIN SPORT + 1080
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5260
+#EXTINF:-1,WIN SPORT + 3
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5261
+#EXTINF:-1,HOLLYWOOD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5363
+#EXTINF:-1,TCM HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5364
+#EXTINF:-1,DOC&ROLL HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5365
+#EXTINF:-1,A&E
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5366
+#EXTINF:-1,VIAJAR HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5367
+#EXTINF:-1,TAQ 6
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5368
+#EXTINF:-1,TAQ 5
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5369
+#EXTINF:-1,TAQ 4
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5370
+#EXTINF:-1,TAQ 3
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5371
+#EXTINF:-1,TAQ 2
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5372
+#EXTINF:-1,TAQ 1
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5373
+#EXTINF:-1,#0 HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5374
+#EXTINF:-1,ESTRENOS HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5375
+#EXTINF:-1,DRAMA
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5376
+#EXTINF:-1,ACCION HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5377
+#EXTINF:-1,COMEDIA HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5378
+#EXTINF:-1,LIGA CAMPEONES
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5379
+#EXTINF:-1,CALLE 13 HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5380
+#EXTINF:-1,LA LIGA TV HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5381
+#EXTINF:-1,BEIN LA LIGA HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5382
+#EXTINF:-1,GOLTV
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5383
+#EXTINF:-1,DEPORTES HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5384
+#EXTINF:-1,#V
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5385
+#EXTINF:-1,BEIN SPORT HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5386
+#EXTINF:-1,MOTOGP
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5387
+#EXTINF:-1,FORMULA 1
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5388
+#EXTINF:-1,TOROS HD
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5389
+#EXTINF:-1,RCN
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5390
+#EXTINF:-1,CDO PREMIUM CHILE
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5391
+#EXTINF:-1,BEIN LIGA
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5392
+#EXTINF:-1,GALAVISION 
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5396
+#EXTINF:-1,HOLA TV
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5401
+#EXTINF:-1,DISCOVERY SCIENCE
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5403
+#EXTINF:-1,ALEBRIJES VS ATLANTE 20:45 HRS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5433
+#EXTINF:-1,ISTAMBUL VS KOBENHAVN 11:55 HRS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5434
+#EXTINF:-1,LASK VS MAN UTD 11:55 HRS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5435
+#EXTINF:-1,OLYMPIACOS VS WOLVES 14:00 HRS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5436
+#EXTINF:-1,VFL WOLFSBURG VS SHAKHTAR D 14:00 HRS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5437
+#EXTINF:-1,NACIONAL VS E MERIDA 16:00 HRS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5438
+#EXTINF:-1,GREMIO VS INTERNACIONAL 18:00 HRS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5439
+#EXTINF:-1,RACING A VS A LIMA 18:00 HRS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5440
+#EXTINF:-1,LOS ANGELES VS CRUZ AZUL 20:30 HRS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5441
+#EXTINF:-1,LOS ANGELES VS CRUZ AZUL 20:30 HRS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5442
+#EXTINF:-1,LOS ANGELES VS CRUZ AZUL 20:30 HRS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5443
+#EXTINF:-1,LOS ANGELES VS CRUZ AZUL 20:30 HRS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5444
+#EXTINF:-1,TNT
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5445
+#EXTINF:-1,NBA TV
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5446
+#EXTINF:-1,JAZZ
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5447
+#EXTINF:-1,76 ERS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5448
+#EXTINF:-1,BULLS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5449
+#EXTINF:-1,CELTICS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5450
+#EXTINF:-1,CLIPPERS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5451
+#EXTINF:-1,KINGS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5452
+#EXTINF:-1,KNICKS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5453
+#EXTINF:-1,PELICANS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5454
+#EXTINF:-1,THUNDER
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5455
+#EXTINF:-1,TRAIL BLAZERS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5456
+#EXTINF:-1,WARRIORS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5457
+#EXTINF:-1,WIZARDS
+http://iptvactivador.online:25461/iptviptvgratis/gratis/5458
+#EXTINF:-1,Luis Miguel: La Serie S01 E01
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/623.mp4
+#EXTINF:-1,Luis Miguel: La Serie S01 E02
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/624.mkv
+#EXTINF:-1,Luis Miguel: La Serie S01 E03
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/625.mkv
+#EXTINF:-1,Luis Miguel: La Serie S01 E04
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/626.mkv
+#EXTINF:-1,Luis Miguel: La Serie S01 E05
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/627.mp4
+#EXTINF:-1,Luis Miguel: La Serie S01 E06
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/628.mkv
+#EXTINF:-1,Luis Miguel: La Serie S01 E07
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/629.mkv
+#EXTINF:-1,Luis Miguel: La Serie S01 E08
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/631.mkv
+#EXTINF:-1,Luis Miguel: La Serie S01 E09
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/632.mp4
+#EXTINF:-1,Luis Miguel: La Serie S01 E10
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/633.mp4
+#EXTINF:-1,Luis Miguel: La Serie S01 E11
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/634.mkv
+#EXTINF:-1,Luis Miguel: La Serie S01 E12
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/3655.mp4
+#EXTINF:-1,Luis Miguel: La Serie S01 E13
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/3656.mp4
+#EXTINF:-1,Juego de Tronos S01 E01
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4417.mp4
+#EXTINF:-1,Juego de Tronos S01 E02
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4418.mp4
+#EXTINF:-1,Juego de Tronos S01 E03
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4419.mp4
+#EXTINF:-1,Juego de Tronos S01 E04
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4420.mp4
+#EXTINF:-1,Juego de Tronos S01 E05
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4421.mp4
+#EXTINF:-1,Juego de Tronos S01 E06
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4422.mp4
+#EXTINF:-1,Juego de Tronos S01 E07
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4423.mp4
+#EXTINF:-1,Juego de Tronos S01 E08
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4424.mp4
+#EXTINF:-1,Juego de Tronos S01 E09
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4425.mp4
+#EXTINF:-1,Juego de Tronos S01 E10
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4426.mp4
+#EXTINF:-1,Juego de Tronos S02 E01
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4427.mp4
+#EXTINF:-1,Juego de Tronos S02 E02
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4428.mp4
+#EXTINF:-1,Juego de Tronos S02 E03
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4429.mp4
+#EXTINF:-1,Juego de Tronos S02 E04
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4430.mp4
+#EXTINF:-1,Juego de Tronos S02 E05
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4431.mp4
+#EXTINF:-1,Juego de Tronos S02 E06
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4432.mp4
+#EXTINF:-1,Juego de Tronos S02 E07
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4433.mp4
+#EXTINF:-1,Juego de Tronos S02 E08
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4434.mp4
+#EXTINF:-1,Juego de Tronos S02 E09
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4435.mp4
+#EXTINF:-1,Juego de Tronos S02 E10
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4436.mp4
+#EXTINF:-1,Juego de Tronos S03 E01
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4437.mp4
+#EXTINF:-1,Juego de Tronos S03 E02
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4438.mp4
+#EXTINF:-1,Juego de Tronos S03 E03
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4439.mp4
+#EXTINF:-1,Juego de Tronos S03 E04
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4440.mp4
+#EXTINF:-1,Juego de Tronos S03 E05
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4441.mp4
+#EXTINF:-1,Juego de Tronos S03 E06
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4442.mp4
+#EXTINF:-1,Juego de Tronos S03 E07
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4443.mp4
+#EXTINF:-1,Juego de Tronos S03 E08
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4444.mp4
+#EXTINF:-1,Juego de Tronos S03 E09
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4445.mp4
+#EXTINF:-1,Juego de Tronos S03 E10
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4446.mp4
+#EXTINF:-1,Juego de Tronos S04 E01
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4447.mp4
+#EXTINF:-1,Juego de Tronos S04 E02
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4448.mp4
+#EXTINF:-1,Juego de Tronos S04 E03
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4449.mp4
+#EXTINF:-1,Juego de Tronos S04 E04
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4450.mp4
+#EXTINF:-1,Juego de Tronos S04 E05
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4451.mp4
+#EXTINF:-1,Juego de Tronos S04 E06
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4452.mp4
+#EXTINF:-1,Juego de Tronos S04 E07
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4453.mp4
+#EXTINF:-1,Juego de Tronos S04 E08
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4454.mp4
+#EXTINF:-1,Juego de Tronos S04 E09
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4455.mp4
+#EXTINF:-1,Juego de Tronos S04 E10
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4456.mp4
+#EXTINF:-1,Juego de Tronos S05 E01
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4457.mp4
+#EXTINF:-1,Juego de Tronos S05 E02
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4458.mp4
+#EXTINF:-1,Juego de Tronos S05 E03
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4459.mp4
+#EXTINF:-1,Juego de Tronos S05 E04
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4460.mp4
+#EXTINF:-1,Juego de Tronos S05 E05
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4461.mp4
+#EXTINF:-1,Juego de Tronos S05 E06
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4462.mp4
+#EXTINF:-1,Juego de Tronos S05 E07
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4463.mp4
+#EXTINF:-1,Juego de Tronos S05 E08
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4464.mp4
+#EXTINF:-1,Juego de Tronos S05 E09
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4465.mp4
+#EXTINF:-1,Juego de Tronos S05 E10
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4466.mp4
+#EXTINF:-1,Juego de Tronos S06 E01
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4467.mp4
+#EXTINF:-1,Juego de Tronos S06 E02
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4468.mp4
+#EXTINF:-1,Juego de Tronos S06 E03
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4469.mp4
+#EXTINF:-1,Juego de Tronos S06 E04
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4470.mp4
+#EXTINF:-1,Juego de Tronos S06 E05
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4471.mp4
+#EXTINF:-1,Juego de Tronos S06 E06
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4472.mp4
+#EXTINF:-1,Juego de Tronos S06 E07
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4473.mp4
+#EXTINF:-1,Juego de Tronos S06 E08
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4474.mp4
+#EXTINF:-1,Juego de Tronos S06 E09
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4475.mp4
+#EXTINF:-1,Juego de Tronos S06 E10
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4476.mp4
+#EXTINF:-1,Big Bang S01 E01
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4477.mkv
+#EXTINF:-1,Big Bang S01 E02
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4478.mkv
+#EXTINF:-1,Big Bang S01 E03
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4479.mp4
+#EXTINF:-1,Big Bang S01 E04
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4480.mkv
+#EXTINF:-1,Big Bang S01 E05
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4481.mp4
+#EXTINF:-1,Big Bang S01 E06
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4482.mp4
+#EXTINF:-1,Big Bang S01 E07
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4484.mp4
+#EXTINF:-1,Big Bang S01 E08
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4485.mp4
+#EXTINF:-1,Big Bang S01 E09
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4486.mp4
+#EXTINF:-1,Big Bang S01 E10
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4487.mp4
+#EXTINF:-1,Big Bang S01 E11
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4488.mp4
+#EXTINF:-1,Big Bang S01 E12
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4489.mp4
+#EXTINF:-1,Big Bang S01 E13
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4490.mp4
+#EXTINF:-1,Big Bang S01 E14
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4491.mp4
+#EXTINF:-1,Big Bang S01 E15
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4492.mp4
+#EXTINF:-1,Big Bang S01 E16
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4493.mp4
+#EXTINF:-1,Vikingos S01 E01
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4494.mp4
+#EXTINF:-1,Vikingos S01 E02
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4495.mp4
+#EXTINF:-1,Vikingos S01 E03
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4496.mp4
+#EXTINF:-1,Vikingos S01 E04
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4497.mp4
+#EXTINF:-1,Vikingos S01 E05
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4498.mp4
+#EXTINF:-1,Vikingos S01 E06
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4499.mp4
+#EXTINF:-1,Vikingos S01 E07
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4500.mp4
+#EXTINF:-1,Vikingos S01 E08
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4501.mp4
+#EXTINF:-1,Vikingos S01 E09
+http://iptvactivador.online:25461/series/iptviptvgratis/gratis/4502.mp4
