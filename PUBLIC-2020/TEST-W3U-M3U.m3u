@@ -1,0 +1,50 @@
+#EXTM3U 
+
+{
+  "name": "🎬 📲 TOP Peliculas 🎬 📲",
+  "author": "ListasWiseplay.com",
+  "url": "https://listaswiseplay.com/",
+  "groups": [
+    
+	{
+      "name": "Películas por Género",
+      "image": "http://is4.mzstatic.com/image/thumb/Purple7/v4/3f/5c/32/3f5c326d-a7dd-5b98-71ab-2e414b1e4ef0/source/1200x630bb.jpg",
+      "groups": [   
+    {
+      "name": "Acción",
+      "image": "https://lh4.ggpht.com/v6v8LlTFX_kkrxlM7EViPuG9EvQwkHmzdXfeCwnPIAAzjY7r7rrgqqEdaykRRaSkmRa_=w300",
+      "stations": [
+         {
+                        "name": "No respires.",
+                        "image": "http://es.web.img3.acsta.net/c_215_290/pictures/16/07/11/12/08/588745.jpg",
+                        "url": "https://openload.co/f/pYfePMIQ2xQ/NoR3spiresHDR.yamil.avi.mp4",
+                        "referer": "",
+                        "isHost": "true"
+        },
+        
+#EXTINF:-1,EUROCHANNEL
+http://iptvactivador.online:25461/iptviptvgratis/gratis/57
+#EXTINF:-1,STUDIO UNIVERSAL
+http://iptvactivador.online:25461/iptviptvgratis/gratis/58
+#EXTINF:-1,TNT ESP
+http://iptvactivador.online:25461/iptviptvgratis/gratis/59
+#EXTINF:-1,FXX
+http://iptvactivador.online:25461/iptviptvgratis/gratis/60
+#EXTINF:-1,AXN
+http://iptvactivador.online:25461/iptviptvgratis/gratis/61
+#EXTINF:-1,AMC ESP
+http://iptvactivador.online:25461/iptviptvgratis/gratis/62
+#EXTINF:-1,A&E ESP
+http://iptvactivador.online:25461/iptviptvgratis/gratis/63
+#EXTINF:-1,CANAL FOX
+http://iptvactivador.online:25461/iptviptvgratis/gratis/64
+#EXTINF:-1,FX ESP
+http://iptvactivador.online:25461/iptviptvgratis/gratis/66
+#EXTINF:-1,PARAMOUNT NETWORK  ESP
+http://iptvactivador.online:25461/iptviptvgratis/gratis/67
+#EXTINF:-1,SYFY ESP
+http://iptvactivador.online:25461/iptviptvgratis/gratis/68
+#EXTINF:-1,TNT SERIES ESP
+http://iptvactivador.online:25461/iptviptvgratis/gratis/69
+
+]]]}}}
