@@ -1,7 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fCP1qW3GwcQ/V0CEBkyrRKI/AAAAAAAAAg8/JTzjoDBVzR0nak1-Q6yRGLM02olINGm3gCLcB/s320/d17036c622a093395b765110.L.jpg" group-title="TEMPORADA 1", TEMPORADA 1
-https://www.linguee.es/ingles-espanol/traduccion/group+title.html
+#
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fCP1qW3GwcQ/V0CEBkyrRKI/AAAAAAAAAg8/JTzjoDBVzR0nak1-Q6yRGLM02olINGm3gCLcB/s320/d17036c622a093395b765110.L.jpg", CAPITULO 1
 https://stream-4691-212-101.pvdcdn.co/kmohoducleikkfn2mcc74zqohhkokaedpv5hbu4octop5e7eclsc326v74/v.mp4
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fCP1qW3GwcQ/V0CEBkyrRKI/AAAAAAAAAg8/JTzjoDBVzR0nak1-Q6yRGLM02olINGm3gCLcB/s320/d17036c622a093395b765110.L.jpg", CAPITULO 2
