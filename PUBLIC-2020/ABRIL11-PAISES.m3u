@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.sitographics.com/enciclog/banderas/america/image_2012/Argentina.gif" group-title="GENERALISTAS", ARGENTINA
+#EXTINF:-1 tvg-logo="https://www.sitographics.com/enciclog/banderas/america/image_2012/Argentina.gif" group-title="ARGENTINA", ARGENTINA
 https://r2---sn-uxaxjvh5gbxoupo5-u0jz.googlevideo.com/videoplayback?expire=1586678423&ei=N3aSXvitKo-cxwTagYyYAw&ip=181.1.197.173&id=o-AJ8WnWcdJ2cpK4SY8GsMYJ9z_DPvAYCQtaPbR9C6hR25&itag=251&source=youtube&requiressl=yes&mh=U2&mm=31%2C29&mn=sn-uxaxjvh5gbxoupo5-u0jz%2Csn-uxaxjvh5gbxoupo5-x1xk&ms=au%2Crdu&mv=m&mvi=1&pl=22&initcwndbps=301250&vprv=1&mime=audio%2Fwebm&gir=yes&clen=4530966&dur=280.841&lmt=1461938508706728&mt=1586656773&fvip=2&keepalive=yes&fexp=23882514&c=WEB_EMBEDDED_PLAYER&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJpPlLswRQIhAKHGcURar1x67FkB66GbQCvdnTGjeF8Ar1gkTrQ_V8tOAiAoRhPi8gfZ5GloNnHQRHPJmjdB20y8ey86sSfH8p63YA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=ALrAebAwRAIgaYCvztMudeD0h82p-c7a8VGKssRtnwmFS5rp6Dv4X8wCIHDHBSTLjtPydyRETQJnXUu0739fnmyi_s7FyLi-Vf0d&alr=yes&cpn=fjMUvSjf3AbGPWBD&cver=20200406&rn=2&rbuf=0
 
 #EXTINF:-1 tvg-logo="", Television Regional Santa Fe
@@ -137,7 +137,7 @@ http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://www.sitographics.com/enciclog/banderas/america/image_2012/Bolivia.gif" group-title="GENERALISTAS", LATINOAMERICANOS
+#EXTINF:-1 tvg-logo="https://www.sitographics.com/enciclog/banderas/america/image_2012/Bolivia.gif" group-title="LATINOAMERICANOS", LATINOAMERICANOS
 https://r7---sn-uxaxjvh5gbxoupo5-u0jl.googlevideo.com/videoplayback?expire=1586678558&ei=vXaSXu3HPIzKxgS53oXAAg&ip=181.1.197.173&id=o-AKQPQV6Hwwu3D9SmQsTt85pMUUzxySG9K0OC0_MRTNOb&itag=251&source=youtube&requiressl=yes&mh=G4&mm=31%2C29&mn=sn-uxaxjvh5gbxoupo5-u0jl%2Csn-uxaxjvh5gbxoupo5-x1xk&ms=au%2Crdu&mv=m&mvi=6&pl=22&initcwndbps=302500&vprv=1&mime=audio%2Fwebm&gir=yes&clen=149624326&dur=8973.281&lmt=1548557366151385&mt=1586656834&fvip=7&keepalive=yes&fexp=23882514&c=WEB_EMBEDDED_PLAYER&txp=5511222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=ALrAebAwRQIgbaDy7krvXSmcg0toomVag-GQKsii7C-8NyWJ-XBlkdICIQCwyQu7YZFEzbpr4mDWl3QO_Rm58Nt0A46w-_GnyJrFNg%3D%3D&alr=yes&sig=AJpPlLswRQIhAIncqHaFRm0PGRBf6WEAx4Cf98OkA6F6lqQGFH29cDosAiBF1a2RjlCdk67pIRCjpZY0lCi8GgYRs_3-6HVkEewIGg%3D%3D&cpn=N84j88Yw-_da_e1d&cver=20200406&rn=2&rbuf=0
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/229px-History_Logo.svg.png",History
