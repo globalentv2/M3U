@@ -507,3 +507,24 @@ https://unlimited10-cl.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8?Playlis
 https://unlimited6-cl.dps.live/dunatv/dunatv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pG_O1wKWuUY/XlPedSivgtI/AAAAAAAAwbg/f7tHw2tx4kMuTwzpTSoJQeiprrvTMshuQCK8BGAsYHg/s0/2020-02-24.png",  Radio Tiempo
 http://unlimited6-cl.dps.live/fmtiempotv/fmtiempotv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://static4.depositphotos.com/1011936/341/i/450/depositphotos_3417617-stock-photo-venezuelan-flag-in-the-wind.jpg" group-title="VENEZUELA", TV VENEZOLANA
+https://18313.live.streamtheworld.com/BLURADIO_ADP/HLS/1983615/0/2.aac?.mp3
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-bAPHheoyWLo/XnTRgvIb9XI/AAAAAAAAxCk/3yMYap565KEa9xrbD5fF7RKMxlEc7w58wCK8BGAsYHg/s0/2020-03-20.png", VTV
+https://593fa17dec176.streamlock.net:443/vtvweb4/vtvweb4/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-GyvYnSZ4yfI/XjonouhQaBI/AAAAAAAAvl8/BSNqYDt496wFHlIjLw108ZZyHZ4nR_cBgCK8BGAsYHg/s0/2020-02-04.png", Vepaco TV
+http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://promar.tv/wp-content/uploads/2016/09/promar-logo.png", Promar TV
+http://vcp1.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.reformatv.net/images/presets/preset1/logo.png", Reforma TV
+https://livestreamcdn.net:444/ReformaTV/ReformaTV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-IomCVl4tRaU/XjonWCXibOI/AAAAAAAAvl0/QqWOnOcvdf8IasILIdsovPXF4HMvSCzjACK8BGAsYHg/s0/2020-02-04.png", TVO
+http://vcp1.myplaytv.com:1935/tvo/tvo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XR46wyY1FZc/XjomdF00q2I/AAAAAAAAvlY/RR7N6BVs2fQVrkRxUvldT5NN7KN5QGDDACK8BGAsYHg/s0/2020-02-04.png", Corazon Llanero
+http://5.189.191.70:1935/corazonllanerotvweb/corazonllanerotvweb/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lateletuya.com/wp-content/uploads/2019/09/logoTLT_horizontal_2019_blanco.png", La Tele Tuya
+http://701081903.r.fdccdn.net/701081903/_definst_/13357/chunklist_w1151496328.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://tves.gob.ve/web/wp-content/uploads/img/tves.png", TVES
+http://5.189.181.203:1935/tves/tves/playlist.m3u8?PlaylistM3UCL
+
