@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.sitographics.com/enciclog/banderas/america/image_2012/Bolivia.gif" group-title="BOLIVIA", #QUEDATENCASA
-#
+#EXTINF:-1 tvg-logo="https://www.sitographics.com/enciclog/banderas/america/image_2012/Bolivia.gif" group-title="BOLIVIA", QUEDATENCASA
+https://soy-de-venezuela.mp3cielo.com/?.mp3
 
 #EXTINF:-1 tvg-logo="https://www.sitographics.com/enciclog/banderas/america/image_2012/Bolivia.gif" group-title="BOLIVIA", BOLIVIA
 https://www.youtube.com/watch?v=3oDyrqlRBs0
@@ -75,7 +75,7 @@ http://136.243.3.70:1935/Unitel/Unitel/chunklist_w1949818179_DVR.m3u8
 
 
 #EXTINF:-1 tvg-id ="" tvg-name="" tvg-logo="https://cdn.pixabay.com/photo/2016/07/17/18/59/chile-1524520_960_720.png" group-title="CHILE", TV CHILENA
-#
+https://soy-de-venezuela.mp3cielo.com/?.mp3
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-BfAOGODBZEc/Xjtifr8ZrYI/AAAAAAAAvr0/nK_E67xjC9gwzgwb_zMBrzS-RAGAAy0DQCK8BGAsYHg/s0/2020-02-05.png", Rec Online
 https://master.tucableip.com/reconline/live/video.m3u8?PlaylistM3UCL
@@ -509,7 +509,7 @@ https://unlimited6-cl.dps.live/dunatv/dunatv.smil/playlist.m3u8?PlaylistM3UCL
 http://unlimited6-cl.dps.live/fmtiempotv/fmtiempotv.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://static4.depositphotos.com/1011936/341/i/450/depositphotos_3417617-stock-photo-venezuelan-flag-in-the-wind.jpg" group-title="VENEZUELA", TV VENEZOLANA
-https://18313.live.streamtheworld.com/BLURADIO_ADP/HLS/1983615/0/2.aac?.mp3
+https://soy-de-venezuela.mp3cielo.com/?.mp3
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-bAPHheoyWLo/XnTRgvIb9XI/AAAAAAAAxCk/3yMYap565KEa9xrbD5fF7RKMxlEc7w58wCK8BGAsYHg/s0/2020-03-20.png", VTV
 https://593fa17dec176.streamlock.net:443/vtvweb4/vtvweb4/playlist.m3u8?PlaylistM3UCL
