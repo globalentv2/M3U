@@ -1,0 +1,49 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/G56y1_ce-N-cjwTVIg-SZz4tOE9-Y8rI_bTZ32aJfjQp7SG-k6I2mmVsbxZOmbINJ9a4" group-title="TELEVISION FLOW",* CABLEARTV y GLOBALTV LISTA GRATIS
+https://web.flow.com.ar/
+
+#EXTINF:-1, TVLATINA (1) PLTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=535c9bff-267d-4e19-8de2-a7f2bb63fac5&deviceLat=-27.7841&deviceLon=-64.2640&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=24df2c6c-3a89-4d5c-b972-dc8e818fe91a&userId=&serverSideAds=truehttps://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=535c9bff-267d-4e19-8de2-a7f2bb63fac5&deviceLat=-27.7841&deviceLon=-64.2640&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=24df2c6c-3a89-4d5c-b972-dc8e818fe91a&userId=&serverSideAds=true
+
+#EXTINF:-1, TVLATINA (2) PLTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/3063648/playlist.m3u8?terminate=false&deviceId=535c9bff-267d-4e19-8de2-a7f2bb63fac5&deviceVersion=4.0&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&deviceType=web&deviceMake=Android%20Browser&sid=24df2c6c-3a89-4d5c-b972-dc8e818fe91a&advertisingId=&deviceLat=-27.7841&deviceLon=-64.2640&deviceDNT=0&deviceModel=Android%20Browser&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
+#EXTINF:-1, TVLATINA (TV007) PLTV
+http://pluto.tv/live-tv/pluto-tv-007-en-espanol
+#EXTINF:-1, TVLATINA (NOVELAS) PLTV
+http://pluto.tv/live-tv/pluto-tv-novelas
+#EXTINF:-1, TVLATINA (TLMUNDO NOVELAS) PLTV
+http://pluto.tv/live-tv/telemundo-telenovelas
+#EXTINF:-1, TVLATINA (CENTRAL COMEDY) PLTV
+http://pluto.tv/live-tv/comedy-central-latino
+#EXTINF:-1, TVLATINA (MTV) PLTV
+http://pluto.tv/live-tv/mtv-latino
+#EXTINF:-1, TVLATINA (REALITIES) PLTV
+http://pluto.tv/live-tv/pluto-tv-realities-esp
+#EXTINF:-1, TVLATINA (DOG) PLTV
+http://pluto.tv/live-tv/dog-el-cazarrecompensas
+#EXTINF:-1, TVLATINA (CINE ESTELAR) PLTV
+http://pluto.tv/live-tv/pluto-tv-cine-estelar
+#EXTINF:-1, TVLATINA (PELICULAS) PLTV
+http://pluto.tv/live-tv/pluto-tv-peliculas
+#EXTINF:-1, TVLATINA (CINE) PLTV
+http://pluto.tv/live-tv/pluto-tv-cine-1
+#EXTINF:-1, TVLATINA (CINE ACCION) PLTV
+http://pluto.tv/live-tv/pluto-tv-cine-accion
+#EXTINF:-1, TVLATINA (CINE TERROR) PLTV
+http://pluto.tv/live-tv/pluto-tv-cine-terror
+#EXTINF:-1, TVLATINA (NICK) PLTV
+http://pluto.tv/live-tv/nick-latino
+#EXTINF:-1, TVLATINA (NICK JR) PLTV
+http://pluto.tv/live-tv/nick-jr-latino
+#EXTINF:-1, TVLATINA (MUNDO) PLTV
+http://pluto.tv/live-tv/pluto-tv-mundo
+#EXTINF:-1, TVLATINA (NATURALEZA) PLTV
+http://pluto.tv/live-tv/pluto-tv-naturaleza
+#EXTINF:-1, TVLATINA (COCINA) PLTV
+http://pluto.tv/live-tv/pluto-tv-cocina
+#EXTINF:-1, TVLATINA (AVENTURA) PLTV
+http://pluto.tv/live-tv/spike-aventura
+#EXTINF:-1, TVLATINA (INVESTIGA) PLTV
+http://pluto.tv/live-tv/pluto-tv-investiga
