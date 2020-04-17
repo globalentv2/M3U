@@ -3,6 +3,10 @@
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/G56y1_ce-N-cjwTVIg-SZz4tOE9-Y8rI_bTZ32aJfjQp7SG-k6I2mmVsbxZOmbINJ9a4" group-title="TELEVISION FLOW",* CABLEARTV y GLOBALTV LISTA GRATIS
 https://web.flow.com.ar/
 
+
+#EXTINF:-1, TVAR (GUIA DE CANALES) PLTV
+http://pluto.tv/live-tv/latam-channel-guide
+
 #EXTINF:-1, TVAR (SERIES) PLTV
 http://pluto.tv/live-tv/pluto-tv-series
 
@@ -27,7 +31,6 @@ http://pluto.tv/live-tv/telefe-clasico
 http://pluto.tv/live-tv/mtv-vintage
 
 
-
 #EXTINF:-1, TVAR (ANIME) PLTV
 http://pluto.tv/live-tv/pluto-tv-anime
 
@@ -49,7 +52,7 @@ http://pluto.tv/live-tv/nick-clasico
 
 
 
-#EXTINF:-1, TVAR(CINE ESTELAR 1) PLTV
+#EXTINF:-1, TVAR (CINE ESTELAR 1) PLTV
 http://pluto.tv/live-tv/pluto-tv-cine-estelar-1
 
 
@@ -71,6 +74,37 @@ http://pluto.tv/live-tv/pluto-tv-cine-terror
 
 #EXTINF:-1, TVAR (CINE 2 ACCION) PLTV
 http://pluto.tv/live-tv/pluto-tv-cine-2
+
+
+#EXTINF:-1, TVAR (INVESTIGA) PLTV
+http://pluto.tv/live-tv/pluto-tv-investiga
+
+
+
+#EXTINF:-1, TVAR (NATURALEZA) PLTV
+http://pluto.tv/live-tv/pluto-tv-naturaleza
+
+
+
+#EXTINF:-1, TVAR (VIAJES) PLTV
+http://pluto.tv/live-tv/pluto-tv-viajes
+
+
+#EXTINF:-1, TVAR (COCINA) PLTV
+http://pluto.tv/live-tv/pluto-tv-cocina
+
+
+#EXTINF:-1, TVAR (REALITIES) PLTV
+http://pluto.tv/live-tv/pluto-tv-reality
+
+
+#EXTINF:-1, TVAR (DEPORTES) PLTV
+http://pluto.tv/live-tv/pluto-tv-deportes
+
+
+#EXTINF:-1, TVAR (COMPETENCIAS) PLTV
+http://pluto.tv/live-tv/pluto-tv-competencias
+
 
 
 
@@ -148,8 +182,7 @@ http://pluto.tv/live-tv/pluto-tv-mundo
 
 
 
-#EXTINF:-1, TVLATINA (NATURALEZA) PLTV
-http://pluto.tv/live-tv/pluto-tv-naturaleza
+
 
 
 
@@ -163,14 +196,4 @@ http://pluto.tv/live-tv/spike-aventura
 
 
 
-#EXTINF:-1, TVLATINA (INVESTIGA) PLTV
-http://pluto.tv/live-tv/pluto-tv-investiga
 
-
-
-#EXTINF:-1, TVAR (VIAJES) PLTV
-http://pluto.tv/live-tv/pluto-tv-viajes
-
-
-#EXTINF:-1, TVAR (COCINA) PLTV
-http://pluto.tv/live-tv/pluto-tv-cocina
