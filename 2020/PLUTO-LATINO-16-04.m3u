@@ -7,6 +7,9 @@ https://web.flow.com.ar/
 #EXTINF:-1, TVAR (GUIA DE CANALES) PLTV
 http://pluto.tv/live-tv/latam-channel-guide
 
+#EXTINF:-1, TVAR (GUIA DE CANALES) PLTV2
+http://siloh-latam-aka.plutotv.net/d71341_Pluto_TV_OandO/clip/5e79abff04789b0007dc8ca1_PlutoTV_Channel1Guide__03_23/720p/20200323_234338/hls/hls_1000-00011.ts
+
 #EXTINF:-1, TVAR (SERIES) PLTV
 http://pluto.tv/live-tv/pluto-tv-series
 
