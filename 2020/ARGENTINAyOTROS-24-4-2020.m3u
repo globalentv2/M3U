@@ -1,5 +1,91 @@
 #EXTM3U
 
+#EXTINF:-1 group-title=”ARGENTINA”,5tv – 5 TV – Corrientes – CR Corrientes
+rtmp://www.coninfo.net:1935/tvcinco/live2
+#EXTINF:-1 group-title=”ARGENTINA”,ACUA Mayor HD – 34.3 TV – CABA TV TDA – CD Cd Aut Bs As
+http://media.tda.gob.ar/ACUA-Mayor/smil:acuamayor_pc.smil/playlist.m3u8
+#EXTINF:-1 group-title=”ARGENTINA”,Bunge y El Mar – ITV – Pinamar – BA Buenos Aires
+rtmp://201.219.100.30/camara-bunge/camara-bunge.stream
+#EXTINF:-1 group-title=”ARGENTINA”,C5N
+rtmp://c5n.stweb.tv:1935/c5n/live_media
+#EXTINF:-1 group-title=”ARGENTINA”,C5N Argentina
+rtmp://c5n.stweb.tv:1935/c5n/live
+#EXTINF:-1 group-title=”ARGENTINA”,C5N HD – 27.1 TV – CABA TV TDA – CD Cd Aut Bs As
+http://c5n.stweb.tv:1935/c5n/live/master.m3u8
+#EXTINF:-1 group-title=”ARGENTINA”,Cable Express – 4CTV – Salta TV – SA Salta
+rtmp://media203.services.digitar.net/canal4salta/canal4salta
+#EXTINF:-1 group-title=”ARGENTINA”,CANAL 26 HD
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:-1 group-title=”ARGENTINA”,Canal 4 – 4 TV – Posadas TV – MI Misiones
+rtmp://184.154.28.210:1935/canal4/canal4
+#EXTINF:-1 group-title=”ARGENTINA”,Canal 5 Argentina
+rtmp://c5n.stweb.tv:1935/c5n/live
+#EXTINF:-1 group-title=”ARGENTINA”,Canal 79 San Juan
+rtmp://painel.serveron.com.br:1935/8162/8162
+#EXTINF:-1 group-title=”ARGENTINA”,Canal 9 Paraná
+http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8
+#EXTINF:-1 group-title=”ARGENTINA”,Clima + Servicios – 66CTV – Mar del Plata TV – BA Buenos Aires
+rtmp://painel.serveron.com.br/8168/8168
+#EXTINF:-1 group-title=”ARGENTINA”,CN 24/7 – 17CTV – Neuqu n – NQ Neuquen
+rtmp://184.172.26.212:1935/live/live22
+#EXTINF:-1 group-title=”ARGENTINA”,DW – CTV – CABA TV Cable – CD Cd Aut Bs As
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1 group-title=”ARGENTINA”,Eco TV – 2CTV – Tandil – BA Buenos Aires
+rtmp://mediacontrol.jargon.com.ar/elecotv/elecotv
+#EXTINF:-1 group-title=”ARGENTINA”,ECO TV Tandil
+rtmp://mediacontrol.jargon.com.ar/elecotv/elecotv
+#EXTINF:-1 group-title=”ARGENTINA”,G360 – 25.4 TV – CABA TV TDA – CD Cd Aut Bs As
+http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
+#EXTINF:-1 group-title=”ARGENTINA”,LRI450 TV Litoral – 9 TV – Paran – ER Entre Rios
+http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8
+#EXTINF:-1 group-title=”ARGENTINA”,LRJ518 Canal 4 – 4 TV – San Juan TV – SJ San Juan
+rtmp://streamlky.alsolnet.com/canal4sanjuan/live
+#EXTINF:-1 group-title=”ARGENTINA”,LRL456 Orbe 21 – 21.1 TV – CABA TV TDA – CD Cd Aut Bs As
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+#EXTINF:-1 group-title=”ARGENTINA”,LS83 Canal 9 – 35.1 TV – CABA TV TDA – CD Cd Aut Bs As
+http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/playlist.m3u8
+#EXTINF:-1 group-title=”ARGENTINA”,LU82 Canal 10 – 43.1 TV – Mar del Plata TV – BA Buenos Aires
+http://ionlive1-lh.akamaihd.net/i/canal10_1@125367/master.m3u8
+#EXTINF:-1 group-title=”ARGENTINA”,LU83 Canal 9 – 9 TV – Cdro Rivadavia – CH Chubut
+rtmp://www.canal9comodoro.com/live/c9/mp4:canal
+#EXTINF:-1 group-title=”ARGENTINA”,LU92 TVRionegrina 31 – 10 TV – General Roca – RN Rio Negro
+rtmp://184.172.26.212/live/live15
+#EXTINF:-1 group-title=”ARGENTINA”,Noticias del 6 – 6 TV – Posadas TV – MI Misiones
+rtmp://streamlky.alsolnet.com:332/noticiasdel6sd/live
+#EXTINF:-1 group-title=”ARGENTINA”,ORBE 21
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+#EXTINF:-1 group-title=”ARGENTINA”,Popular – 97.7 TV – Catril – LP La Pampa
+rtmp://31.186.229.150/cplp/live
+#EXTINF:-1 group-title=”ARGENTINA”,TaTeTi – 22.3 TV – CABA TV TDA – CD Cd Aut Bs As
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+#EXTINF:-1 group-title=”ARGENTINA”,Telemax – 26.2 TV – CABA TV TDA – CD Cd Aut Bs As
+http://live-edge01.telecentro.net.ar/live/tlx-480/playlist.m3u8
+#EXTINF:-1 group-title=”ARGENTINA”,Telpin t2 HD – 2CTV – Pinamar – BA Buenos Aires
+rtmp://201.219.100.30:1935/telpintv/ttv.stream_720p
+#EXTINF:-1 group-title=”ARGENTINA”,TN5 Supercanal – 5CTV – San M de Tucuman – TU Tucuman
+rtmp://5.9.59.236/golive/59_179_live
+#EXTINF:-1 group-title=”ARGENTINA”,TV 29 Ensenada – 29 TV – Ensenada – BA Buenos Aires
+rtmp://panel.dattalive.com/8008/8008
+#EXTINF:-1 group-title=”ARGENTINA”,TV Universidad – 56.1 TV – La Plata TV – BA Buenos Aires
+rtmp://stratus.stream.cespi.unlp.edu.ar:80/stream/tvunlp
+#EXTINF:-1 group-title=”ARGENTINA”,TVM – 27 TV – Posadas TV – MI Misiones
+rtmp://stream1.livestreamingservices.com/tvmlive/tvmlive
+#EXTINF:-1 group-title=”ARGENTINA”,XFN TV – 41 TV – Mar del Plata TV – BA Buenos Aires
+rtmp://painel.serveron.com.br/8172/8172
+#EXTINF:-1 group-title=”ARGENTINA”,zzz Bunge-Libertador HD – ITV – Pinamar – BA Buenos Aires
+rtmp://201.219.100.30:1935/camara-fuente/fuente.stream
+#EXTINF:-1 group-title=”ARGENTINA”,zzz Misiones Cuatro – 8 TV – Posadas TV – MI Misiones
+http://streamlky.alsolnet.com/misionescuatro/live/playlist.m3u8
+#EXTINF:-1 group-title=”ARGENTINA”,zzz Moreno Visi n – 13 TV – Moreno – GB Gran Bs As
+rtmp://morenovisiontv.noip.me/oflaDemo/live
+#EXTINF:-1 group-title=”ARGENTINA”,zzz Moreno Vision
+rtmp://morenovisiontv.noip.me/oflaDemo/live
+#EXTINF:-1 group-title=”ARGENTINA”,zzz Se?al Provincial
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1 group-title=”ARGENTINA”,zzz TDC – CTV – Firmat – ST Santa Fe
+rtmp://painel.serveron.com.br/8166/8166
+
+
 #EXTINF:-1 group-title="CINE", GUIA DE PELICULAS
 https://televisionlibre.net/peliculas/
 
