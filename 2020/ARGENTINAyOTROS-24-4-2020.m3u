@@ -2,8 +2,16 @@
 
 #EXTINF:-1, TE LE FE
 https://televisionlibre.net/embed2/telefe2.html#https://www.youtube.com/embed/live_stream?channel=UChxGASjdNEYHhVKpl667Huw&autoplay=1#/embed/player/Clappr.html?get=Ly9jZG4uY3ZhdHR2LmNvbS5hci9saXZlL2MzZWRzL1RlbGVmZUhEL1NBX01PQklMRS9UZWxlZmVIRC5tM3U4##
+
 #EXTINF:-1, C5N
 http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
+
+#EXTINF:-1, TELEFE NOVELAS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=ff90ca02-09b2-40fe-acd6-c925fc14c1d0&deviceLat=40.6469&deviceLon=-73.9344&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=8d1ab8ac-bf46-4837-8f8f-3bf451208eda&userId=&serverSideAds=true
+
+AMERICA TV
+#EXTINF:-1,https://televisionlibre.net/embed/player/Clappr.html?get=Ly9jZG4uY3ZhdHR2LmNvbS5hci9saXZlL2MzZWRzL0FtZXJpY2FUVi9TQV9NT0JJTEUvQW1lcmljYVRWLm0zdTg=
+
 #EXTINF:-1, TELEFE OPCION 2
 https://evento6hls-lh.akamaihd.net/i/evento6hls_1@48399/index_1_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1587820697~acl=%2fi%2fevento6hls_1%4048399%2f*~data=hdntl~hmac=145027e47fe879e77c775088d52db8b59cf3073f761d36b76b8a48c8860a22a4
 
