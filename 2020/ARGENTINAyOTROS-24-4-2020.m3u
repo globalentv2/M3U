@@ -1,5 +1,55 @@
 #EXTM3U
 
+
+
+
+#EXTINF:-1 group-title="CINE", GUIA DE PELICULAS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=ff90ca02-09b2-40fe-acd6-c925fc14c1d0&deviceLat=40.6469&deviceLon=-73.9344&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=3b593484-7a00-4e80-99fd-3002be395660&userId=&serverSideAds=true
+
+
+#EXTINF:-1 group-title="CINE", CINE 1  C O M E D I A
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=ff90ca02-09b2-40fe-acd6-c925fc14c1d0&deviceLat=40.6469&deviceLon=-73.9344&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=8d1ab8ac-bf46-4837-8f8f-3bf451208eda&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="CINE", CINE 2  D R A M A
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=535c9bff-267d-4e19-8de2-a7f2bb63fac5&deviceLat=-27.7841&deviceLon=-64.2640&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=4d72d64f-b1e6-42a5-b1e8-11cb7bbb06ab&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="CINE", CINE 3  A C C I O N
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=ff90ca02-09b2-40fe-acd6-c925fc14c1d0&deviceLat=40.6469&deviceLon=-73.9344&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=8d1ab8ac-bf46-4837-8f8f-3bf451208eda&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="CINE", CINE 4  T E R R O R
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=ff90ca02-09b2-40fe-acd6-c925fc14c1d0&deviceLat=40.6469&deviceLon=-73.9344&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=8d1ab8ac-bf46-4837-8f8f-3bf451208eda&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="CINE", CINE 5 JAMES BOND 0 0 7
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=ff90ca02-09b2-40fe-acd6-c925fc14c1d0&deviceLat=40.6469&deviceLon=-73.9344&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=8d1ab8ac-bf46-4837-8f8f-3bf451208eda&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="CINE", TELEFE NOVELAS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=ff90ca02-09b2-40fe-acd6-c925fc14c1d0&deviceLat=40.6469&deviceLon=-73.9344&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=8d1ab8ac-bf46-4837-8f8f-3bf451208eda&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="CINE", TELEMUNDO NOVELAS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=ff90ca02-09b2-40fe-acd6-c925fc14c1d0&deviceLat=40.6469&deviceLon=-73.9344&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=8d1ab8ac-bf46-4837-8f8f-3bf451208eda&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="EN VIVO", CASTV CANAL 7
+https://5975e06a1f292.streamlock.net:4443/envivo/castv/chunklist_w1913044777.m3u8
+
+#EXTINF:-1 group-title="EN VIVO", TE LE FE
+https://televisionlibre.net/embed/nossl.html?get=aHR0cDovL3d3dy5jb25pbmZvLm5ldDoxOTM1L3R2Y2luY28vbGl2ZTEvY2h1bmtsaXN0X3cxNTQ2NTA5MDgzLm0zdTg=&type=hls
+
+#EXTINF:-1 group-title="EN VIVO", TELEFE OPION 1
+https://televisionlibre.net/embed2/telefe.html
+
+#EXTINF:-1 group-title="EN VIVO", TELEFE OPCION 2
+https://evento6hls-lh.akamaihd.net/i/evento6hls_1@48399/index_1_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1587820697~acl=%2fi%2fevento6hls_1%4048399%2f*~data=hdntl~hmac=145027e47fe879e77c775088d52db8b59cf3073f761d36b76b8a48c8860a22a4
+
+#EXTINF:-1 group-title="EN VIVO", AMERICA TV
+#EXTINF:-1,https://televisionlibre.net/embed/player/Clappr.html?get=Ly9jZG4uY3ZhdHR2LmNvbS5hci9saXZlL2MzZWRzL0FtZXJpY2FUVi9TQV9NT0JJTEUvQW1lcmljYVRWLm0zdTg=
+
+#EXTINF:-1 group-title="EN VIVO", C 5 N
+http://nossl.televisionlibre.net/embed-http-only/?get=aHR0cDovL3d3dy5jb25pbmZvLm5ldDoxOTM1L3R2Y2luY28vbGl2ZTEvY2h1bmtsaXN0X3cxNTQ2NTA5MDgzLm0zdTg=&type=hls
+
+#EXTINF:-1 group-title="EN VIVO", C5N
+http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
+
+
 #EXTINF:-1 group-title=”ARGENTINA”,5tv – 5 TV – Corrientes – CR Corrientes
 rtmp://www.coninfo.net:1935/tvcinco/live2
 #EXTINF:-1 group-title=”ARGENTINA”,ACUA Mayor HD – 34.3 TV – CABA TV TDA – CD Cd Aut Bs As
@@ -84,55 +134,6 @@ rtmp://morenovisiontv.noip.me/oflaDemo/live
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:-1 group-title=”ARGENTINA”,zzz TDC – CTV – Firmat – ST Santa Fe
 rtmp://painel.serveron.com.br/8166/8166
-
-
-#EXTINF:-1 group-title="CINE", GUIA DE PELICULAS
-https://televisionlibre.net/peliculas/
-
-#EXTINF:-1 group-title="CINE", CINE 1  C O M E D I A
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=ff90ca02-09b2-40fe-acd6-c925fc14c1d0&deviceLat=40.6469&deviceLon=-73.9344&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=8d1ab8ac-bf46-4837-8f8f-3bf451208eda&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="CINE", CINE 2  D R A M A
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=535c9bff-267d-4e19-8de2-a7f2bb63fac5&deviceLat=-27.7841&deviceLon=-64.2640&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=4d72d64f-b1e6-42a5-b1e8-11cb7bbb06ab&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="CINE", CINE 3  A C C I O N
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=ff90ca02-09b2-40fe-acd6-c925fc14c1d0&deviceLat=40.6469&deviceLon=-73.9344&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=8d1ab8ac-bf46-4837-8f8f-3bf451208eda&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="CINE", CINE 4  T E R R O R
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=ff90ca02-09b2-40fe-acd6-c925fc14c1d0&deviceLat=40.6469&deviceLon=-73.9344&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=8d1ab8ac-bf46-4837-8f8f-3bf451208eda&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="CINE", CINE 5 JAMES BOND 0 0 7
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=ff90ca02-09b2-40fe-acd6-c925fc14c1d0&deviceLat=40.6469&deviceLon=-73.9344&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=8d1ab8ac-bf46-4837-8f8f-3bf451208eda&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="CINE", TELEFE NOVELAS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=ff90ca02-09b2-40fe-acd6-c925fc14c1d0&deviceLat=40.6469&deviceLon=-73.9344&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=8d1ab8ac-bf46-4837-8f8f-3bf451208eda&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="CINE", TELEMUNDO NOVELAS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=ff90ca02-09b2-40fe-acd6-c925fc14c1d0&deviceLat=40.6469&deviceLon=-73.9344&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=8d1ab8ac-bf46-4837-8f8f-3bf451208eda&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="EN VIVO", CASTV CANAL 7
-https://5975e06a1f292.streamlock.net:4443/envivo/castv/chunklist_w1913044777.m3u8
-
-#EXTINF:-1 group-title="EN VIVO", TE LE FE
-https://televisionlibre.net/embed/nossl.html?get=aHR0cDovL3d3dy5jb25pbmZvLm5ldDoxOTM1L3R2Y2luY28vbGl2ZTEvY2h1bmtsaXN0X3cxNTQ2NTA5MDgzLm0zdTg=&type=hls
-
-#EXTINF:-1 group-title="EN VIVO", TELEFE OPION 1
-https://televisionlibre.net/embed2/telefe.html
-
-#EXTINF:-1 group-title="EN VIVO", TELEFE OPCION 2
-https://evento6hls-lh.akamaihd.net/i/evento6hls_1@48399/index_1_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1587820697~acl=%2fi%2fevento6hls_1%4048399%2f*~data=hdntl~hmac=145027e47fe879e77c775088d52db8b59cf3073f761d36b76b8a48c8860a22a4
-
-#EXTINF:-1 group-title="EN VIVO", AMERICA TV
-#EXTINF:-1,https://televisionlibre.net/embed/player/Clappr.html?get=Ly9jZG4uY3ZhdHR2LmNvbS5hci9saXZlL2MzZWRzL0FtZXJpY2FUVi9TQV9NT0JJTEUvQW1lcmljYVRWLm0zdTg=
-
-#EXTINF:-1 group-title="EN VIVO", C 5 N
-http://nossl.televisionlibre.net/embed-http-only/?get=aHR0cDovL3d3dy5jb25pbmZvLm5ldDoxOTM1L3R2Y2luY28vbGl2ZTEvY2h1bmtsaXN0X3cxNTQ2NTA5MDgzLm0zdTg=&type=hls
-
-#EXTINF:-1 group-title="EN VIVO", C5N
-http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", CL3 Cablevision
 http://stream02.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8
