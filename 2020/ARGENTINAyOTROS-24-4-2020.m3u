@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1, TE LE FE
+https://televisionlibre.net/embed2/telefe2.html#https://www.youtube.com/embed/live_stream?channel=UChxGASjdNEYHhVKpl667Huw&autoplay=1#/embed/player/Clappr.html?get=Ly9jZG4uY3ZhdHR2LmNvbS5hci9saXZlL2MzZWRzL1RlbGVmZUhEL1NBX01PQklMRS9UZWxlZmVIRC5tM3U4##
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", CL3 Cablevision
 http://stream02.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8
