@@ -18,11 +18,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f
 #EXTINF:-1 group-title="CINE", CINE_COMEDIA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=ff90ca02-09b2-40fe-acd6-c925fc14c1d0&deviceLat=40.6469&deviceLon=-73.9344&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=8d1ab8ac-bf46-4837-8f8f-3bf451208eda&userId=&serverSideAds=true
 
+
 #EXTINF:-1 group-title="CINE", COMEDY_CENTRAL
-"http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=ff90ca02-09b2-40fe-acd6-c925fc14c1d0&deviceLat=40.6469&deviceLon=-73.9344&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=8d1ab8ac-bf46-4837-8f8f-3bf451208eda&userId=&serverSideAds=true 
-
-
-#EXTINF:-1 group-title="CINE", GUIA DE PELICULAS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=ff90ca02-09b2-40fe-acd6-c925fc14c1d0&deviceLat=40.6469&deviceLon=-73.9344&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=3b593484-7a00-4e80-99fd-3002be395660&userId=&serverSideAds=true
 
 
