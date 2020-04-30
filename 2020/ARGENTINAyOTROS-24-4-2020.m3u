@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="CINE", BRITISH_TV MIX
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?terminate=false&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceVersion=80.0.3987.149&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&deviceType=web&deviceMake=Chrome&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&advertisingId=&deviceLat=-35.1192&deviceLon=-60.5047&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
+#EXTINF:-1 group-title="CINE", SPIKE MIXS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b39aa8742fa30938ca93/master.m3u8?terminate=false&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceVersion=80.0.3987.149&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&deviceType=web&deviceMake=Chrome&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&advertisingId=&deviceLat=-35.1192&deviceLon=-60.5047&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
+#EXTINF:-1 group-title="CINE", CINE MIXS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?terminate=false&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceVersion=80.0.3987.149&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&deviceType=web&deviceMake=Chrome&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&advertisingId=&deviceLat=-35.1192&deviceLon=-60.5047&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
+#EXTINF:-1 group-title="CINE", DOG MIXS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b39aa8742fa30938ca92/master.m3u8?terminate=false&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceVersion=80.0.3987.149&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&deviceType=web&deviceMake=Chrome&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&advertisingId=&deviceLat=-35.1192&deviceLon=-60.5047&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
 #EXTINF:-1 group-title="CINE", DOG
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b39aa8742fa30938ca92/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=ff90ca02-09b2-40fe-acd6-c925fc14c1d0&deviceLat=40.6469&deviceLon=-73.9344&deviceMake=Android Browser&deviceModel=Android Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=ebfdec59-0cdb-4a8b-8fc4-f4dfde0569eb&userId=&serverSideAds=true
 
@@ -14,6 +26,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009c
 
 #EXTINF:-1 group-title="CINE", CINE_ESTELAR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=535c9bff-267d-4e19-8de2-a7f2bb63fac5&deviceLat=-27.7841&deviceLon=-64.2640&deviceMake=Android Browser&deviceModel=Android Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=24df2c6c-3a89-4d5c-b972-dc8e818fe91a&userId=&serverSideAds=true
+
 #EXTINF:-1 group-title="CINE", CINE_DRAMA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=535c9bff-267d-4e19-8de2-a7f2bb63fac5&deviceLat=-27.7841&deviceLon=-64.2640&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=4d72d64f-b1e6-42a5-b1e8-11cb7bbb06ab&userId=&serverSideAds=true 
 
