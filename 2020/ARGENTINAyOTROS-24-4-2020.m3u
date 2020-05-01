@@ -132,6 +132,98 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37
 #EXTINF:-1 group-title="CINE", TELEMUNDO NOVELAS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=ff90ca02-09b2-40fe-acd6-c925fc14c1d0&deviceLat=40.6469&deviceLon=-73.9344&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=8d1ab8ac-bf46-4837-8f8f-3bf451208eda&userId=&serverSideAds=true
 
+#EXTINF:-1 group-title="PLUTO-TV WEB", GUIA DE CANALES
+https://pluto.tv/live-tv/latam-channel-guide
+
+#EXTINF:-1 group-title="PLUTO-TV WEB", CINE ESTELAR
+https://pluto.tv/live-tv/pluto-tv-cine-estelar-1
+
+#EXTINF:-1 group-title="PLUTO-TV WEB", CINE ACCION
+https://pluto.tv/live-tv/pluto-tv-cine-accion
+
+#EXTINF:-1 group-title="PLUTO-TV WEB", CINE COMEDIA
+https://pluto.tv/live-tv/pluto-tv-cine-comedia
+
+#EXTINF:-1 group-title="PLUTO-TV WEB", CINE DRAMA
+https://pluto.tv/live-tv/pluto-tv-cine-drama
+
+#EXTINF:-1 group-title="PLUTO-TV WEB", CINE TERROR
+https://pluto.tv/live-tv/pluto-tv-cine-terror
+
+#EXTINF:-1 group-title="PLUTO-TV WEB", CINE
+https://pluto.tv/live-tv/pluto-tv-cine-2
+
+#EXTINF:-1 group-title="PLUTO-TV WEB", SERIES
+https://pluto.tv/live-tv/pluto-tv-series
+
+#EXTINF:-1 group-title="PLUTO-TV WEB", SERIES RETRO
+https://pluto.tv/live-tv/pluto-tv-series-retro
+
+#EXTINF:-1 group-title="PLUTO-TV WEB", SERIES LATINAS
+https://pluto.tv/live-tv/pluto-tv-series-latina
+
+#EXTINF:-1 group-title="PLUTO-TV WEB", NOVELAS
+https://pluto.tv/live-tv/pluto-tv-novelas
+
+#EXTINF:-1 group-title="PLUTO-TV WEB", TELEFE CLASICO
+https://pluto.tv/live-tv/telefe-clasico
+
+#EXTINF:-1 group-title="PLUTO-TV WEB", PLUTO TV TEEN
+https://pluto.tv/live-tv/pluto-teen
+
+#EXTINF:-1 group-title="PLUTO-TV WEB", PLUTO TV DEGRASI
+https://pluto.tv/live-tv/pluto-tv-degrassi
+
+#EXTINF:-1 group-title="PLUTO-TV WEB", ANIME
+https://pluto.tv/live-tv/pluto-tv-anime
+
+#EXTINF:-1 group-title="PLUTO-TV WEB", PLUTO JUNIOR
+https://pluto.tv/live-tv/pluto-tv-junior
+
+#EXTINF:-1 group-title="PLUTO-TV WEB", NICK JR. CLUB
+https://pluto.tv/live-tv/nick-jr-club
+
+#EXTINF:-1 group-title="PLUTO-TV WEB", PLUTO TV KIDS
+https://pluto.tv/live-tv/pluto-tv-kids
+
+#EXTINF:-1 group-title="PLUTO-TV WEB", NICK CLASICO
+https://pluto.tv/live-tv/nick-clasico
+
+#EXTINF:-1 group-title="PLUTO-TV WEB", MTV VINTAGE
+https://pluto.tv/live-tv/mtv-vintage
+
+#EXTINF:-1 group-title="PLUTO-TV WEB", PLUTO TV COMPETENCIAS
+https://pluto.tv/live-tv/pluto-tv-competencias
+
+#EXTINF:-1 group-title="PLUTO-TV WEB", PLUTO TV REALITY
+https://pluto.tv/live-tv/pluto-tv-reality
+
+#EXTINF:-1 group-title="PLUTO-TV WEB", PLUTO TV INVESTIGA
+https://pluto.tv/live-tv/pluto-tv-investiga
+
+#EXTINF:-1 group-title="PLUTO-TV WEB", PLUTO TV NATURALEZA
+https://pluto.tv/live-tv/pluto-tv-naturaleza
+
+#EXTINF:-1 group-title="PLUTO-TV WEB", MINUTO PARA GANAR
+https://pluto.tv/live-tv/minuto-para-ganar
+
+#EXTINF:-1 group-title="PLUTO-TV WEB", MASTER CHEF
+https://pluto.tv/live-tv/plutotv-mastechef
+
+#EXTINF:-1 group-title="PLUTO-TV WEB", PLUTO TV DEPORTES
+https://pluto.tv/live-tv/pluto-tv-deportes
+
+#EXTINF:-1 group-title="PLUTO-TV WEB", FUTBOL PARA FANS
+https://pluto.tv/live-tv/futbol-para-fans
+
+#EXTINF:-1 group-title="PLUTO-TV WEB", PLUTO TV VIAJES
+https://pluto.tv/live-tv/pluto-tv-viajes
+
+#EXTINF:-1 group-title="PLUTO-TV WEB", PLUTO TV COCINA
+https://pluto.tv/live-tv/pluto-tv-cocina
+
+#EXTINF:-1 group-title="PLUTO-TV WEB", PLUTO TV HOGAR
+https://pluto.tv/live-tv/pluto-tv-hogar
 
 #EXTINF:-1 group-title="EN VIVO", CASTV CANAL 7
 https://5975e06a1f292.streamlock.net:4443/envivo/castv/chunklist_w1913044777.m3u8
