@@ -225,6 +225,21 @@ https://pluto.tv/live-tv/pluto-tv-cocina
 #EXTINF:-1 group-title="PLUTO-TV WEB", PLUTO TV HOGAR
 https://pluto.tv/live-tv/pluto-tv-hogar
 
+#EXTINF:-1 group-title="PLUTO-TV WEB", GUIA DE CANALES
+https://pluto.tv/live-tv/latam-channel-guide
+
+#EXTINF:-1 group-title="PLUTO-TV WEB", GUIA DE CANALES
+https://pluto.tv/live-tv/latam-channel-guide
+
+#EXTINF:-1 group-title="PLUTO-TV WEB", GUIA DE CANALES
+https://pluto.tv/live-tv/latam-channel-guide
+
+#EXTINF:-1 group-title="PLUTO-TV WEB", GUIA DE CANALES
+https://pluto.tv/live-tv/latam-channel-guide
+
+#EXTINF:-1 group-title="PLUTO-TV WEB", GUIA DE CANALES
+https://pluto.tv/live-tv/latam-channel-guide
+
 #EXTINF:-1 group-title="EN VIVO", CASTV CANAL 7
 https://5975e06a1f292.streamlock.net:4443/envivo/castv/chunklist_w1913044777.m3u8
 
