@@ -1,0 +1,16 @@
+{
+"name_: "WISEPLAY",
+"author": "Globalentv"
+"url": "URL DE LA LISTA", "groups": [
+{
+"mame": "NOMBRE DEL MODULO O SECCION",
+"image": "https://sites.google.com/site/mundofpc/colombia.png", "stations": [
+{
+"mame": "Canal 1)",
+"image": "http://max.impressa.co/wp-content/uploads/2014/01/canal1.jpg",
+"url":  "https://pluto.tv/live-tv/latam-channel-guide",
+"referer": "https://pluto.tv/live-tv",
+isHost": "true"
+},
+]
+}
