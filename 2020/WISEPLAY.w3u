@@ -1,7 +1,7 @@
 {
 "name_: "WISEPLAY",
 "author": "Globalentv"
-"url": "URL DE LA LISTA", "groups": [
+"url": "https://raw.githubusercontent.com/globalentv2/M3U/master/2020/WISEPLAY.w3u", "groups": [
 {
 "mame": "NOMBRE DEL MODULO O SECCION",
 "image": "https://sites.google.com/site/mundofpc/colombia.png", "stations": [
