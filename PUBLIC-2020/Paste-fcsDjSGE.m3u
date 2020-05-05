@@ -2,12 +2,20 @@
 
 #EXTINF:-1 tvg-logo="" group-title="Creditos", AUTHOR CABLEARTV
 https://github.com/TVCABLEAR/iptv
-#EXTINF:-1 tvg-logo="" group-title="Creditos", CANALES Pastebin
+#EXTINF:-1 tvg-logo="" group-title="Creditos", Lista copiada de Pastebin
 https://pastebin.com/raw/fcsDjSGE
+
+#EXTINF:-1 tvg-logo="" group-title="Listas"; LISTA 1
+https://raw.githubusercontent.com/globalentv2/M3U/master/PUBLIC-2020/PASTE-gbS9pbDB.m3u 
+#EXTINF:-1 tvg-logo="" group-title="Listas"; LISTA 2
+https://raw.githubusercontent.com/globalentv2/M3U/master/PUBLIC-2020/Paste-Nxf6A43P.m3u
+#EXTINF:-1 tvg-logo="" group-title="Listas"; PELICULAS
+https://raw.githubusercontent.com/globalentv2/M3U/master/PUBLIC-2020/Paste-fcsDjSGE.m3u
+#EXTINF:-1 tvg-logo="" group-title="Listas"; LISTA 4
+https://raw.githubusercontent.com/globalentv2/M3U/master/PUBLIC-2020/Paste-kbe7tiWD.m3u
+
 #EXTINF:-1 tvg-logo="" group-title="Canales", CANALES
 https://github.com/TVCABLEAR/iptv
-
-
 #EXTINF:8632,CinemaniaHDD.com
 http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2573.MP4
 #EXTINF:0, The Sandmand
