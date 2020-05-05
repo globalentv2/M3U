@@ -2,11 +2,21 @@
 
 #EXTINF:-1 tvg-logo="" group-title="Creditos", AUTHOR CABLEARTV
 https://github.com/TVCABLEAR/iptv
-#EXTINF:-1 tvg-logo="" group-title="Creditos", CANALES Pastebin
+#EXTINF:-1 tvg-logo="" group-title="Creditos", Lista copiada de Pastebin
 https://pastebin.com/raw/kbe7tiWD
+
+
+#EXTINF:-1 tvg-logo="" group-title="Listas"; LISTA 1
+https://raw.githubusercontent.com/globalentv2/M3U/master/PUBLIC-2020/PASTE-gbS9pbDB.m3u 
+#EXTINF:-1 tvg-logo="" group-title="Listas"; LISTA 2
+https://raw.githubusercontent.com/globalentv2/M3U/master/PUBLIC-2020/Paste-Nxf6A43P.m3u
+#EXTINF:-1 tvg-logo="" group-title="Listas"; PELICULAS
+https://raw.githubusercontent.com/globalentv2/M3U/master/PUBLIC-2020/Paste-fcsDjSGE.m3u
+#EXTINF:-1 tvg-logo="" group-title="Listas"; LISTA 4
+https://raw.githubusercontent.com/globalentv2/M3U/master/PUBLIC-2020/Paste-kbe7tiWD.m3u
+
 #EXTINF:-1 tvg-logo="" group-title="Canales", CANALES
 https://github.com/TVCABLEAR/iptv
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/es/24Horas.es.png" group-title="News",24 Horas (Opt-1)
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24hca_lv3_aosv4_gl8/24hca_lv3_aosv4_gl8.isml/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/702px-Logo_TVE-24h.svg.png" group-title="News",24 Horas (Opt-2)
