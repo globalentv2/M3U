@@ -1,17 +1,20 @@
 #EXTM3U
 
 #EXINF:-1 group-title="ListaM3U", Lista En Pastebin
-https://pastebin.com/raw/gbS9pbDB
+https://pastebin.com/raw/gbS9pbDB##
 #EXINF:-1 group-title="ListaM3U", LISTA EN GITHUB
-https://raw.githubusercontent.com/globalentv2/M3U/master/2020/REP-DOMINICANA-18-03-2020.M3U
+https://raw.githubusercontent.com/globalentv2/M3U/master/2020/REP-DOMINICANA-18-03-2020.M3U##
 
 
 #EXTINF:-1 tvg-logo="https://www.festivalclaca.cat/imgfv/b/101-1017040_star-movies-star-movies-logo.png" group-title="Movies-2020",Star Movies (Middle Eeast)
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
+
 #EXTINF:-1 tvg-logo="https://go.zliving.com/theme/ZLiving/img/logo.png" group-title="Movies-2020",Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YgRz2Cc.png" group-title="Movies-2020",Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmSyxeP.png" group-title="Movies-2020",American Classic TV
 https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8
 
