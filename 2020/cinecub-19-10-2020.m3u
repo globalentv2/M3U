@@ -1,12 +1,19 @@
 #EXTM3U
 
-EXTINF:-1 tvg-logo="https://cineclub.xyz/cgi-https/upload/1569001314_Warner tv.png" group-title="ACTIVADOR", Activando CANALES
+EXTINF:-1 tvg-logo="https://cineclub.xyz/cgi-https/upload/1569001314_Warner tv.png" group-title="ACTIVADOR", Activando CANALES 1
+#EXTVLCOPT:http-user-agent=https://micine.club:443/d@neteller112345pu8mZCyS3YpmDg4C66632servichahj89es422865ginxrtmpenp2style90jahs0speedtest/trinityyyservices3pu8mZCyS3YpmDg4CNkyp70000000hEeBesP8RTYuHuNjKUUKngtcbchattrtNnNnNbxvfH6c4DNAAaAaAAcB.php
+https://micine.club:443/d@neteller112345pu8mZCyS3YpmDg4C66632servichahj89es422865ginxrtmpenp2style90jahs0speedtest/trinityyyservices3pu8mZCyS3YpmDg4CNkyp70000000hEeBesP8RTYuHuNjKUUKngtcbchattrtNnNnNbxvfH6c4DNAAaAaAAcB.php?f=.m3u8
+
+EXTINF:-1 tvg-logo="https://cineclub.xyz/cgi-https/upload/1569001314_Warner tv.png" group-title="ACTIVADOR", Activando CANALES 2
 #EXTVLCOPT:http-user-agent=https://micine.club:443/d@neteller112345pu8mZCyS3YpmDg4C66632servichahj89es422865ginxrtmpenp2style90jahs0speedtest/trinityyyservices3pu8mZCyS3YpmDg4CNkyp70000000hEeBesP8RTYuHuNjKUUKngtcbchattrtNnNnNbxvfH6c4DNAAaAaAAcB.php
 https://micine.club:443/d@neteller112345pu8mZCyS3YpmDg4C66632servichahj89es422865ginxrtmpenp2style90jahs0speedtest/trinityyyservices3pu8mZCyS3YpmDg4CNkyp70000000hEeBesP8RTYuHuNjKUUKngtcbchattrtNnNnNbxvfH6c4DNAAaAaAAcB.php
+
 
 EXTINF:-1 tvg-logo="https://cineclub.xyz/cgi-https/upload/1569001314_Warner tv.png" group-title="ACTIVADOR", REACTIVAR
 https://micine.club:443/d@neteller112345pu8mZCyS3YpmDg4C66632servichahj89es422865ginxrtmpenp2style90jahs0speedtest/trinityyyservices3pu8mZCyS3YpmDg4CNkyp70000000hEeBesP8RTYuHuNjKUUKngtcbchattrtNnNnNbxvfH6c4DNAAaAaAAcB.php
 
+EXTINF:-1 tvg-logo="https://cineclub.xyz/cgi-https/upload/1569001314_Warner tv.png" group-title="ACTIVADOR", REACTIVAR 2
+https://micine.club:443/d@neteller112345pu8mZCyS3YpmDg4C66632servichahj89es422865ginxrtmpenp2style90jahs0speedtest/trinityyyservices3pu8mZCyS3YpmDg4CNkyp70000000hEeBesP8RTYuHuNjKUUKngtcbchattrtNnNnNbxvfH6c4DNAAaAaAAcB.php?f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cineclub.xyz/cgi-https/upload/1569001314_Warner tv.png" group-title="Entretenimiento", Warner Channel
