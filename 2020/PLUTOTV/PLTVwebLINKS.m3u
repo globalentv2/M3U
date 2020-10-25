@@ -10,8 +10,12 @@ https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/thumbnail.jpg" group-title="CINE", Cine Acción
 http://stitcher.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?terminate=true&deviceType=web&deviceMake=web&deviceModel=web&sid=232&deviceId=56403d822d2719107d948cb9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/thumbnail.jpg" group-title="CINE", CINE
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/subtitle/es/playlist.m3u8?terminate=true&deviceType=web&deviceMake=web&deviceModel=web&sid=232&deviceId=56403d822d2719107d948cb9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/thumbnail.jpg" group-title="CINE", CINE device
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/572723/playlist.m3u8?terminate=false&deviceId=079f6e9c-645c-4b4c-b5bd-2506b9c10b60&deviceVersion=86.0.4240.111&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&deviceType=web&deviceMake=Chrome&sid=8e3f6c54-16f1-11eb-8c1a-0242ac110002&advertisingId=&deviceLat=-27.7833&deviceLon=-64.2667&deviceDNT=false&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/thumbnail.jpg" group-title="CINE", CINE web
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/572723/master.m3u8?terminate=true&deviceType=web&deviceMake=web&deviceModel=web&sid=232&deviceId=56403d822d2719107d948cb9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/thumbnail.jpg" group-title="CINE", Cine Terror
 http://stitcher.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?terminate=true&deviceType=web&deviceMake=web&deviceModel=web&sid=232&deviceId=56403d822d2719107d948cb9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
